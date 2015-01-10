@@ -77,4 +77,4 @@ Check out these links to better understand how errors work in Ruby and how you c
 - [http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/](SKORKS: Ruby Exceptions And Exception Handling)
 - [http://rubylearning.com/satishtalim/ruby_exceptions.html](Rubylearning: Ruby Exceptions)
 - [http://www.tutorialspoint.com/ruby/ruby_exceptions.htm](Tutorialspoint: Ruby Exceptions)
-- *The Well-Grounded Rubyist* by David A. Black ch. 6.4 (Check out the [bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) before you buy the book!)
+- *The Well-Grounded Rubyist* by David A. Black ch. 6.4 
