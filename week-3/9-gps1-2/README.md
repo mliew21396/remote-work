@@ -18,7 +18,7 @@ This GPS is designed to help you examine pair programming and the roles of drive
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look.
 
-If you want to use a collaborative drawing site, you can use [flockdraw](http://flockdraw.com) (It's like a collaborative version of MSPaint). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
+If you want to use a collaborative drawing site, you can use [Precursor](https://prcrsr.com/) or [flockdraw](http://flockdraw.com) (It's like a collaborative version of MSPaint). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
 
 You'll need sections for:
 - Title
