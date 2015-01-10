@@ -9,7 +9,7 @@ Each week's curriculum will be posted the Friday before the week starts.
 ### [Week 3: Introduction to Ruby](week-3/README.md) -->
 
 ## Important Tip
-Phase 0 is a remote program, which means there will be a bit of reading required. Be sure to read the README files thoroughly. That's why they are called "README" files.
+Phase 0 is a remote program, which means there will be a bit of reading required. Be sure to read the README files thoroughly. That's why they are called "README" files (this is an industry standard).
 
 Whenever you encounter a typo or confusing instruction, please make a note of it or direct our attention to it. The curriculum is always being improved, it's not a static or perfect. We want your help to make it better.
 
