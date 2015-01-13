@@ -30,7 +30,7 @@ Navigator can now clone this repo as well.
 
 Now the driver will create a feature branch called add-command-log. To create a branch use this command:
 
-  `$git checkout -b branch_name`
+  `$git checkout -b branch-name`
 
 You can read all about the checkout command and options with this command:
 
@@ -66,7 +66,22 @@ A merge conflict happens when two branches change the same file and try to merge
 1. Create a branch called small-conflict, make any change in awesome_page.md, add and commit.
 2. Check out the master branch, in the same place that you made a change on awesome_page on the branch small-conflict, make a different change. Add and commit this change.
 3. Merge the small-conflict branch to the master.
-4. Resolve the merge conflicts.
+
+You should get a message saying that there was a conflict that prevented the merge. Type `git status` to see what is going on, then open the awesome_page.md and see what a conflict looks like. 
+
+You should see some notation added that looks something like this:
+
+<<<<<<<<<<<HEAD<<<<<<<<<<<<<<<<<<
+
+some_code
+
+==================================
+
+other_code
+
+>>>>>>>>>>>>>small_conflict>>>>>>
+
+You will have to choose what you want to keep, some_code or other_code. Delete everything else ( ====, <<< and >>> ) that you do not need. Add and commit, merge conflict resolved!
 
 You can imagine that in a big project, this can be a huge time waster. Good git work flow can prevent merge conflicts from being a problem.
 
