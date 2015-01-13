@@ -120,6 +120,8 @@ This will install RSpec, a Ruby testing framework.
 
 **Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.**
 
+If you are still running into a problem, restart your terminal and try again.
+
 Go back to Release 9 and make sure you typed the second command to set your global version of Ruby.
 
 ## Release 13: Install SQLite
