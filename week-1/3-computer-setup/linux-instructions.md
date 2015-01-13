@@ -86,13 +86,12 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
+## Release 7: Set up Sublime
 Now make Sublime text your preferred editor for git:
 ```shell
 git config --global core.editor "subl -w"
 ```
 
-## Release 7: Set up Sublime
-Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
 
 ## Release 8: Install Node
 Node allows you to run Javascript in your terminal.

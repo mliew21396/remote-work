@@ -69,13 +69,12 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Now make Sublime text your preferred editor for git:
+## Release 6: Set up Sublime
+
+Now make Sublime Text your preferred editor for git:
 ```shell
 git config --global core.editor "subl -w"
 ```
-
-## Release 6: Set up Sublime
-Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
 
 ## Release 7: Install Rbenv
 Type: ```brew install rbenv```
@@ -98,7 +97,7 @@ Now, you need to set the default Ruby in your computer to the Ruby we just insta
 
 Type: ``` rbenv global 2.0.0-p481```
 
-**Restart your terminal** 
+**Restart your terminal**
 
 NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0.
 

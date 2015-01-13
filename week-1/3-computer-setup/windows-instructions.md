@@ -134,7 +134,9 @@ sqlite3 -version
 ```
 
 ## Release 7: Set up Sublime
-Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
+Create a symlink (symbolic link) to open Sublime from your console.
+
+-[Sublime Text from the Command Line for Windows 7](http://stackoverflow.com/questions/9440639/sublime-text-from-command-line-win7)
 
 ## Release 8: Install Postgresql
 
