@@ -36,7 +36,7 @@ The original file should look like this:<br>
 <img src="../imgs/devtools-original.png" width="400" height="403">
 
 #### 1. Change the Colors
-Change the background-color of the boxes. To do this, in the css section on DevTools (under `element.style`) type "background-color". You'll then see a list of colors - select your favorite for each box! Don't forget to take your screenshot and refresh the page.
+Change the background-color of the boxes. To do this, in the css section on DevTools (under `element.style`) type "background-color". You'll then see a list of colors - select your favorite for each box! Don't forget to take your screenshot and refresh the page.<br>
 <img src="../imgs/devtools-colors.png" width="400" height="393">
 
 #### 2. Column
@@ -44,7 +44,7 @@ Stack the elements in top of one another without any space between them (in orde
 <img src="../imgs/devtools-column.png" width="400" height="249">
 
 #### 3. Row
-Put the boxes in a row. Have them keep their original shape and size. HINT: Look at the [CSS Display](http://www.w3schools.com/cssref/pr_class_display.asp) property.
+Put the boxes in a row. Have them keep their original shape and size. HINT: Look at the [CSS Display](http://www.w3schools.com/cssref/pr_class_display.asp) property.<br>
 <img src="../imgs/devtools-row.png" width="400" height="193">
 
 #### 4. Make Equidistant
@@ -64,7 +64,7 @@ Now move `div-2` to the top of the page and make it 5em tall. It should always b
 <img src="../imgs/devtools-header.png" width="400" height="158">
 
 #### 8. Sidebar
-Move `div-3` to the right so it looks like a right sidebar it should be 15% the width of the screen and 100% of the height of the viewer window. You'll want to get help from Google on this one.
+Move `div-3` to the right so it looks like a right sidebar it should be 15% the width of the screen and 100% of the height of the viewer window. You'll want to get help from Google on this one.<br>
 <img src="../imgs/devtools-sidebar.png" width="400" height="158">
 
 #### 9. Get Creative
