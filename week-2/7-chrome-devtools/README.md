@@ -29,45 +29,45 @@ NOTE: A lot of learning CSS is trial and error. That's OK. If you are afraid you
 
 ### Exercises
 The original file should look like this:
-![original](../imgs/devtools-original.png =400x403)
+<img src="../imgs/devtools-original.png" width="400" height="403">
 
 #### 1. Change the Colors
 Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! After you take your screenshot, refresh the page.
-![background-color](../imgs/devtools-colors.png =400x393)
+<img src="../imgs/devtools-colors.png" width="400" height="393">
 
 #### 2. Column
 Stack the elements in top of one another without any space between them (in order). You can do this, simply by removing existing CSS.
-![background-column](../imgs/devtools-column.png =400x249)
+<img src="../imgs/devtools-column.png" width="400" height="249">
 
 #### 3. Row
 Put the boxes in a row. Have them keep their original shape and size. HINT: Look at the [CSS Display](http://www.w3schools.com/cssref/pr_class_display.asp) property.
-![row](../imgs/devtools-row.png =400x193)
+<img src="../imgs/devtools-row.png" width="400" height="193">
 
 #### 4. Make Equidistant
 Put the boxes in a row. The sizes should be identical automatically. Put 5em of distance between them. Then add 5em from the top of the page.<br>
-![equal distance](../imgs/devtools-equal.png =400x140)
+<img src="../imgs/devtools-equal.png" width="400" height="140">
 
 #### 5. Squares
 Resize the boxes so they are squares (I used 5em).<br>
-![squares](../imgs/devtools-squares.png =266x400)
+<img src="../imgs/devtools-squares.png" width="266" height="400">
 
 #### 6. Footer
-- Make `div-1` a footer. Make the height 2em, the width 100% of the screen (Get rid of that annoying gray to the left). Then move it to the bottom of the page. No matter what, this div should always stay at the bottom. HINT: review the [CSS Position](http://www.w3schools.com/cssref/pr_class_position.asp) property.
-![footer](../imgs/devtools-footer.png =400x220)
+Make `div-1` a footer. Make the height 2em, the width 100% of the screen (Get rid of that annoying gray to the left). Then move it to the bottom of the page. No matter what, this div should always stay at the bottom. HINT: review the [CSS Position](http://www.w3schools.com/cssref/pr_class_position.asp) property.
+<img src="../imgs/devtools-footer.png" width="400" height="220">
 
 #### 7. Header
-- Now move `div-2` to the top of the page and make it 5em tall. It should always be at the top of the browser window. Make the width 50% of the entire screen and center it.
-![top](../imgs/devtools-header.png =400x158)
+Now move `div-2` to the top of the page and make it 5em tall. It should always be at the top of the browser window. Make the width 50% of the entire screen and center it.
+<img src="../imgs/devtools-header.png" width="400" height="158">
 
 #### 8. Sidebar
-- Move `div-3` to the right so it looks like a right sidebar it should be 15% the width of the screen and 100% of the height of the viewer window. You'll want to get help from Google on this one.
-![sidebar](../imgs/devtools-sidebar.png =400x158)
+Move `div-3` to the right so it looks like a right sidebar it should be 15% the width of the screen and 100% of the height of the viewer window. You'll want to get help from Google on this one.
+<img src="../imgs/devtools-sidebar.png" width="400" height="158">
 
 #### 9. Get Creative
-- Remove all of the size and positioning elements. They should stack on top like rows. Then, design and implement your own configuration. Practice using margin, border, and padding to determine how they are different. You may want to read up on this a bit.
+Remove all of the size and positioning elements. They should stack on top like rows. Then, design and implement your own configuration. Practice using margin, border, and padding to determine how they are different. You may want to read up on this a bit.
 
 Here is my example (You can do anything you want).
-![personal](../imgs/devtools-personal.png =400x269)
+<img src="../imgs/devtools-personal.png" width="400" height="269">
 
 Upload each of your images into the week-2 [imgs](../imgs) directory and display them inline.
 
