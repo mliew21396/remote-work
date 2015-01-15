@@ -3,8 +3,10 @@
 # U1.W2: Chrome DevTools
 
 ## Learning Competencies
-- Navigate and edit a website's HTML and CSS elements using the Chrome DevTools inspector
-- Use Chrome DevTools to manipulate elements in the DOM
+- Navigate and manipulate a website's HTML and CSS elements using the Chrome DevTools inspector
+- Describe how to resize elements on the DOM using CSS
+- Identify differences between and use Absolute, Fixed, Static, and Relative positioning
+- Describe the differences between Margin, Border, and Padding
 
 ## Summary
 In this challenge, you'll be diving into Chrome DevTools and playing with CSS positioning. Inside the DevTools inspector window is an inner world of data that is communicated between the browser and server. These tools are invaluable for you as a developer and getting comfortable with them will help optimize your HTML and CSS editing, JavaScript debugging, and overall site performance. For the purposes of this challenge, we'll focus primarily on real-time HTML and CSS positioning.
