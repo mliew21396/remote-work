@@ -1,4 +1,4 @@
-# U1.W2: Thinking About Time Reflection
+# U1.W1: Thinking About Time Reflection
 
 * How do you manage your time currently?
 * Is your current strategy working? If not, why not? 
