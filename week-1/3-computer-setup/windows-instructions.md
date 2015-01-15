@@ -27,7 +27,7 @@ Here is the instructions for getting your windows environment set up. We will be
 
 ## Release 0: Download Sublime Text
 
-Follow these instructions [sublime install and configure](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) You can choose to download either Sublime Text 2 or 3.
+Download and follow instructions from [their site](http://www.sublimetext.com). Make sure to move it to your applications folder. You can choose to download either Sublime Text 2 or 3.
 
 If you have done this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
 
