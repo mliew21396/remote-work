@@ -52,11 +52,11 @@ Resize the boxes so they are squares (I used 5em).<br>
 <img src="../imgs/devtools-squares.png" width="266" height="400">
 
 #### 6. Footer
-Make `div-1` a footer. Make the height 2em, the width 100% of the screen (Get rid of that annoying gray to the left). Then move it to the bottom of the page. No matter what, this div should always stay at the bottom. HINT: review the [CSS Position](http://www.w3schools.com/cssref/pr_class_position.asp) property.
+Make `div-1` a footer. Make the height 2em, the width 100% of the screen (Get rid of that annoying gray to the left). Then move it to the bottom of the page. No matter what, this div should always stay at the bottom. HINT: review the [CSS Position](http://www.w3schools.com/cssref/pr_class_position.asp) property.<br>
 <img src="../imgs/devtools-footer.png" width="400" height="220">
 
 #### 7. Header
-Now move `div-2` to the top of the page and make it 5em tall. It should always be at the top of the browser window. Make the width 50% of the entire screen and center it.
+Now move `div-2` to the top of the page and make it 5em tall. It should always be at the top of the browser window. Make the width 50% of the entire screen and center it.<br>
 <img src="../imgs/devtools-header.png" width="400" height="158">
 
 #### 8. Sidebar
@@ -66,7 +66,7 @@ Move `div-3` to the right so it looks like a right sidebar it should be 15% the 
 #### 9. Get Creative
 Remove all of the size and positioning elements. They should stack on top like rows. Then, design and implement your own configuration. Practice using margin, border, and padding to determine how they are different. You may want to read up on this a bit.
 
-Here is my example (You can do anything you want).
+Here is my example (You can do anything you want).<br>
 <img src="../imgs/devtools-personal.png" width="400" height="269">
 
 Upload each of your images into the week-2 [imgs](../imgs) directory and display them inline.
