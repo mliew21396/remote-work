@@ -29,7 +29,7 @@ NOTE: A lot of learning CSS is trial and error. That's OK. If you are afraid you
 
 ### Exercises
 The original file should look like this:
-![original](../imgs/devtools-original.png =40%)
+![original](../imgs/devtools-original.png)
 
 #### 1. Change the Colors
 Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! After you take your screenshot, refresh the page.
