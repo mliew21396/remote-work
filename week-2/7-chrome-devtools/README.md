@@ -70,7 +70,7 @@ Move `div-3` to the right so it looks like a right sidebar it should be 15% the 
 #### 9. Get Creative
 Remove all of the size and positioning elements. They should stack on top like rows. Then, design and implement your own configuration. Practice using margin, border, and padding to determine how they are different. You may want to read up on this a bit.
 
-Here is my example (You can do anything you want).<br>
+Here is our example (You can do anything you want).<br>
 <img src="../imgs/devtools-personal.png" width="400" height="269">
 
 Upload each of your images into the week-2 [imgs](../imgs) directory and display them inline.
