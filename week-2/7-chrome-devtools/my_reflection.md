@@ -31,9 +31,8 @@
 
 
 ## Release 3: Reflection
+Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to help frame your reflection.
 <!-- Remember, reflections should only take about 10-15 minutes to write -->
-* Describe the Document Object Model. What about it makes sense to you? What doesn't? What seems good and bad about it?
-* Did you find Chrome Web Tools fun, helpful, or a pain to work with?
-* Did you have an "aha" moments or were any concepts solidified?
+
 
 
