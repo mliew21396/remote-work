@@ -5,6 +5,11 @@
 ## Summary
 If you don't feel like you've gotten enough work this week, here are some ideas and resources that will be beneficial for preparation for next week. Make sure you are confident with the learning competencies in the command line and git this week before working on any material that is unrelated.
 
+## Challenges
+NOTE: We do not review BONUS challenges often. If you find broken links, confusing instructions, etc. Please let us know so we can fix them.
+
+- [Web Basics](web-basics/README.md)
+
 ## Resources
 
 ### Git
