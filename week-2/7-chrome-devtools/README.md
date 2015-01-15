@@ -28,7 +28,7 @@ We have provided screen shots as examples of how the page should look when you'v
 NOTE: A lot of learning CSS is trial and error. That's OK. If you are afraid you got the boxes formatted properly but don't know how you did it, cross out any CSS you changed to see how it effects the boxes, or refresh the page entirely. Then, when you feel like you know how you did it, erase everything you did and do it again.
 
 ### Exercises
-The original file should look like this:
+The original file should look like this:<br>
 <img src="../imgs/devtools-original.png" width="400" height="403">
 
 #### 1. Change the Colors
@@ -36,7 +36,7 @@ Change the background-color of the boxes. To do this, in the css section type "b
 <img src="../imgs/devtools-colors.png" width="400" height="393">
 
 #### 2. Column
-Stack the elements in top of one another without any space between them (in order). You can do this, simply by removing existing CSS.
+Stack the elements in top of one another without any space between them (in order). You can do this, simply by removing existing CSS.<br>
 <img src="../imgs/devtools-column.png" width="400" height="249">
 
 #### 3. Row
