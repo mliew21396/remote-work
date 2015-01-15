@@ -22,7 +22,7 @@ Use [Code School's DevTools course](http://discover-devtools.codeschool.com/) to
   - Chapter 2: "Sources" or "Advanced DOM and Styles"
 
 ## Release 2: Practice
-Now open [css-positioning.html](css-positioning.html) in Google Chrome.  For this release you will use CSS in Dev Tools to change the position and size of each of the boxes according to the exercise instructions. There are many different ways to do this. Using Dev Tools will help you practice (but don't expect to be a pro when you finish this exercise)! **DO NOT MODIFY ANY HTML TO COMPLETE ANY OF THESE EXERCISES.**
+Now open [css-positioning.html](css-positioning.html) in Google Chrome.  For this release you will use CSS in DevTools to change the position and size of each of the boxes according to the exercise instructions. There are different ways to do each exercise. Using Dev Tools will help you practice (but don't expect to be a pro when you finish this exercise)! **DO NOT MODIFY ANY HTML TO COMPLETE ANY OF THESE EXERCISES.**
 
 We have provided screen shots as examples of how the page should look when you've completed each exercise. You will need to take a screen shot of each completed exercise to include in your [my_reflection.md](my_reflection.md) file.
 **Refresh your page after each exercise to start each exercise from a fresh slate.**
@@ -34,7 +34,7 @@ The original file should look like this:<br>
 <img src="../imgs/devtools-original.png" width="400" height="403">
 
 #### 1. Change the Colors
-Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! After you take your screenshot, refresh the page.
+Change the background-color of the boxes. To do this, in the css section on DevTools (under `element.style`) type "background-color". You'll then see a list of colors - select your favorite for each box! Don't forget to take your screenshot and refresh the page.
 <img src="../imgs/devtools-colors.png" width="400" height="393">
 
 #### 2. Column
