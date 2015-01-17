@@ -52,7 +52,7 @@ The navigator shall now navigate to the pull request screen (ctrl+f pull request
 
 ## Release 4: Fetch and Merge
 
-Switch driver and navigator roles, the other partner will make now make some modifications. There are currently changes on the GitHub repo that need to be incorporated locally. Fetch and merge the changes to your local repository. (git fetch \<remote\> \<branch\>, git merge \<remote\>/\<branch\>)
+Switch driver and navigator roles, the other partner will now make some modifications. There are currently changes on the GitHub repo that need to be incorporated locally. Fetch and merge the changes to your local repository. (git fetch \<remote\> \<branch\>, git merge \<remote\>/\<branch\>)
 
 Make a new branch, and make some changes to awesome_page.md. Show off some of your markdown [ GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown/) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to GitHub.
 
