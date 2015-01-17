@@ -8,13 +8,11 @@
 - Convert a small site to responsive design
 - Compare responsive design and fluid layouts
 
-
 ## Summary
 
 It's almost impossible to ignore responsive design in today's web development scene. It's a very popular buzzword and for good reason. With the mobile and tablet market rising and more people accessing the web via mobile devices, it's important that your website be usable on screens of all sizes.
 
 The key to this is something call media queries, which allow you to change CSS styles based on screen width and height, color, and aspect ratios.
-
 
 ## Release 0: Research
 
@@ -76,5 +74,3 @@ Using the terminal, practice copying the html and css sheets into a new folder i
 If you want more resources or time to build a responsive site, consider going through any of these additional resources (which take a couple of hours each):
 - [Treehouse: Build a Responsive Website](http://teamtreehouse.com/library/build-a-responsive-website)
 - [16 really useful responsive design tutorials](http://www.creativebloq.com/netmag/16-really-useful-responsive-design-tutorials-71410085).
-
-

@@ -1,4 +1,7 @@
 ## 3. Wireframing Reflection
+
+#### I spent [#] hours on this challenge.
+
 *Remember, reflections should only take about 10-15 minutes.*
 
 Include images of your wireframe (inline, using markdown) below:

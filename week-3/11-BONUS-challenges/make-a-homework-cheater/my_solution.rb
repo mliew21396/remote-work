@@ -1,36 +1,36 @@
-# U2.W4: Homework Cheater!
+# U1.W3: Homework Cheater!
 
 
 # I worked on this challenge [by myself, with: ].
 
-# 2. Pseudocode
+# 1. Pseudocode
 
 # Input:
 # Output:
 # Steps:
 
 
-# 3. Initial Solution
+# 2. Initial Solution
 
 
 
 
-# 4. Refactored Solution
-
-
-
-
-
-
-
-
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# 3. Refactored Solution
 
 
 
 
 
 
-# 5. Reflection 
+
+
+# 4. DRIVER TESTS GO BELOW THIS LINE
+
+
+
+
+
+
+# 5. Reflection
 
 

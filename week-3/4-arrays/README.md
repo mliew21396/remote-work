@@ -25,7 +25,7 @@ As you can see, this would take a while. Instead, it would be better to use a di
 In this chapter Pine addresses arrays and iterating over arrays.
 
 ## Release 1: Challenges
-It will be useful for you to look at the [Ruby documentation for arrays](http://www.ruby-doc.org/core-2.0/Array.html). Although the documentation is difficult to read at first, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well. If you are spending more than an hour on these challenges, you should go back and visit the docs. There are some good simple methods to use to solve these challenges.
+It will be useful for you to look at the [Ruby documentation for arrays](http://www.ruby-doc.org/core-2.0/Array.html). Although the documentation is difficult to read at first, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well. If you are spending more than an hour on these exercises, you should go back and visit the docs. There are some good simple methods to use to solve these exercises.
 
 - [Find the smallest integer in an array](../exercises/12-smallest-integer)
 - [Find the largest integer in an array](../exercises/13-largest-integer)
@@ -42,7 +42,7 @@ Pine doesn't do justice to hashes in his book, unfortunately, but they are also 
 - [Codecademy: Hashes](http://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb) Move to the "Hash" section.
 - *The Well-Grounded Rubyist* ch. 9.3
 
-Then complete the following (extremely simple) challenge:
+Then complete the following exercise:
 - [Define a Hash](../exercises/18-define-hash)
 
 ## Release 3: Reflection

@@ -1,3 +1,8 @@
+# U1.W3: Analyze the Errors
+
+# I worked on this challenge [by myself, with: ].
+# I spent [#] hours on this challenge.
+
 # --- error -------------------------------------------------------
 
 "Screw you guys " + "I'm going home." = cartmans_phrase
@@ -33,7 +38,7 @@ south_park
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -48,7 +53,7 @@ cartman()
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -67,7 +72,7 @@ cartmans_phrase('I hate Kyle')
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -86,7 +91,7 @@ cartman_says
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -107,7 +112,7 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -122,7 +127,7 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -138,7 +143,7 @@ amount_of_kfc_left = 20/0
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #
@@ -153,7 +158,7 @@ require_relative "cartmans_essay.md"
 #
 # 2. What is the type of error message?
 #
-# 3. What additional information does the interpreter provide # about this type of error?
+# 3. What additional information does the interpreter provide about this type of error?
 #
 # 4. Where is the error highlighted in the code?
 #

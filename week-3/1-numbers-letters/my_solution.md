@@ -1,6 +1,10 @@
-# Notes for Numbers and Letters
+# U1.W3: Methods: Notes for Numbers and Letters
 
-## Numbers
+# I worked on this challenge [by myself, with: ].
+# I spent [#] hours on this challenge.
+
+#### I spent [#] hours on this challenge.
+
 
 ### Summary
 - What does `puts` do?

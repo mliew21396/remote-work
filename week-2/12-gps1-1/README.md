@@ -64,10 +64,10 @@ Sometimes you will encounter merge conflicts, but don't worry, once you've gone 
 A merge conflict happens when two branches change the same file and try to merge them together. Here is how to create a small merge conflict:
 
 1. Create a branch called small-conflict, make any change in awesome_page.md, add and commit.
-2. Check out the master branch, in the same place that you made a change on awesome_page on the branch small-conflict, make a different change. Add and commit this change.
+2. Check out the master branch. In the same place that you made a change on awesome_page on the branch small-conflict, make a different change. Add and commit this change.
 3. Merge the small-conflict branch to the master.
 
-You should get a message saying that there was a conflict that prevented the merge. Type `git status` to see what is going on, then open the awesome_page.md and see what a conflict looks like. 
+You should get a message saying that there was a conflict that prevented the merge. Type `git status` to see what is going on, then open the awesome_page.md and see what a conflict looks like.
 
 You should see some notation added that looks something like this:
 

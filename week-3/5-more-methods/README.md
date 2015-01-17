@@ -19,8 +19,8 @@ So you already know a bit about methods. Here is a chance to cement your underst
 
 If you want to work on Pine's challenges as a bonus, feel free to add a file and add your code in this directory.
 
-## Release 1: Challenges
-Complete the following challenges. Be sure to take advantage of pairing!
+## Release 1: Exercises
+Complete the following exercises. Be sure to take advantage of pairing!
 
 - [Pretty Triangle](../exercises/19-pretty-triangle)
 - [Factorial](../exercises/20-factorial)

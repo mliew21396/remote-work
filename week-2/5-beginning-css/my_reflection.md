@@ -1,5 +1,7 @@
 ## 5. Beginning CSS Reflection
 
+#### I spent [#] hours on this challenge.
+
 - What makes sense to you about CSS? What doesn't?
 - What seems good and bad about CSS?
 - Did you have any "aha" moments or were any concepts solidified?

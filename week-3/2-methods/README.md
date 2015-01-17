@@ -62,13 +62,13 @@ print_address("Maria Piper", "633 Folsom Street", "San Francisco, CA 94107")
 
 In the next few exercises, we will be asking you to "wrap" logic into a method.
 
-Now's your chance to practice! Complete the [Define an Empty Method](../exercises/4-defining-method) challenge.
+Now's your chance to practice! Complete the [Define an Empty Method](../exercises/4-defining-method) exercise.
 
 ## Release 3: Read Ch. 6: More About Methods
 Read through the entire chapter to get a better feel for the built-in methods Ruby has. (There are a LOT more, by the way).
 
-## Release 4: More small challenges!
-Now you'll want to expand your brain a bit by working on the following challenges.
+## Release 4: More small exercises!
+Now you'll want to expand your brain a bit by working on the following exercises.
 
 - [Return a Formatted Address](../exercises/5-format-address)
 - [Defining Math Methods](../exercises/6-math-methods)
