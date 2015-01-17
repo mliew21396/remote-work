@@ -1,3 +1,8 @@
+# U1.W3: Analyze the Errors
+
+# I worked on this challenge [by myself, with: ].
+# I spent [#] hours on this challenge.
+
 # --- error -------------------------------------------------------
 
 "Screw you guys " + "I'm going home." = cartmans_phrase

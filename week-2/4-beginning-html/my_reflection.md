@@ -1,5 +1,7 @@
 ## 4. Beginning HTML Reflection
 
+#### I spent [#] hours on this challenge.
+
 - What makes sense to you about HTML? What doesn't?
 - What seems good and bad about HTML?
 - Did you have any "aha" moments where any concepts solidified? What were they?
