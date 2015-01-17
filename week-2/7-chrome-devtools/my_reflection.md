@@ -2,50 +2,37 @@
 
 ## Release 2: Positioning
 
-- New Colors:
-
+#### 1. Change the Colors
 <!-- Add the screenshot here -->
 
-- Boxes in a row
-
+#### 2. Column
 <!-- Add the screenshot here -->
 
-- Make the boxes have equal distance between them
-
+#### 3. Row
 <!-- Add the screenshot here -->
 
-- Move all the boxes into one column
-
+#### 4. Make Equidistant
 <!-- Add the screenshot here -->
 
-- Resize the boxes so they are 30% of their original size
-
+#### 5. Squares
 <!-- Add the screenshot here -->
 
-- Make the static div go to the bottom and have an absolute positiion (no matter what, it should always be at the bottom of the page - but not in the browser window) Make the footer 100% the width of the screen
-
+#### 6. Footer
 <!-- Add the screenshot here -->
 
-- Make the absolute div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
-
+#### 7. Header
 <!-- Add the screenshot here -->
 
-- Move the relative div position to the right so it's like a right sidebar.
-
+#### 8. Sidebar
 <!-- Add the screenshot here -->
 
-- Make a configuration that plays with margin, border, and padding. See if you can find a quick way to explain that to yourself.
-
+#### 9. Get Creative
 <!-- Add the screenshot here -->
 
-- Make a configuration that uses block and inline-block to see what the differences are
-
-<!-- Add the screenshot here -->
 
 ## Release 3: Reflection
+Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to help frame your reflection.
 <!-- Remember, reflections should only take about 10-15 minutes to write -->
-* Describe the Document Object Model. What about it makes sense to you? What doesn't? What seems good and bad about it?
-* Did you find Chrome Web Tools fun, helpful, or a pain to work with?
-* Did you have an "aha" moments or were any concepts solidified?
+
 
 
