@@ -1,5 +1,7 @@
 # 7. Chrome Dev Tools Challenge Reflection
 
+#### I spent [#] hours on this challenge.
+
 ## Release 2: Positioning
 
 #### 1. Change the Colors

@@ -1,3 +1,8 @@
+# U1.W3: Methods
+
+# I worked on this challenge [by myself, with: ].
+# I spent [#] hours on this challenge.
+
 # Release 1: Try it out
 
 # 1. Full name greeting: Write a program that asks for a person's first name, then middle, then last. Finally, it should greet the person using their full name.

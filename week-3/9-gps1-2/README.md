@@ -48,7 +48,7 @@ Use CSS to make it look nice. Include pictures, outside fonts, etc. You will nee
 
 ## Release 4: Reflect
 
-Reflect on your learning. How was it to pair this time? Did you feel more comfortable? How did you do with the learning competencies?
+Reflect on your learning. How was it to pair this time? Did you feel more comfortable? How did you do with the learning competencies? Add your reflection as a comment in your gps1-2.html file.
 
 ## Release 5: Copy, commit, and push
 When you are finished, copy your code into the [gps1-2.css](gps1-2.css) and [gps1-2.html](gps1-2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them and running them together from your computer.

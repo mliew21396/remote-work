@@ -1,5 +1,7 @@
 ## 9. Testing and Maintenance Reflection
 
+#### I spent [#] hours on this challenge.
+
 Include images of your maintenance schedule (inline, using markdown) below:
 
 Schedule:

@@ -2,8 +2,9 @@
 
 My Wireframe URL:
 
-My Website url:
-<!-- Place your website link here -->
+My Website url: <!-- Place your website link here -->
+
+#### I spent [#] hours on this challenge.
 
 Discuss the following:
 - What was your process? What worked and didn't work?

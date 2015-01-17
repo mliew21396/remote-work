@@ -1,6 +1,6 @@
 ## 2. Site Planning Reflection
 
-*Remember, reflections should only take about 10-15 minutes.*
+#### I spent [#] hours on this challenge.
 
 ### Site planning
 

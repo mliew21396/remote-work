@@ -1,5 +1,7 @@
 ## 11. GPS 1.1 Reflection
 
+#### I spent [#] hours on this challenge.
+
 - What git concepts were you struggling with prior to the GPS session?
 - What was clarified during the GPS?
 - What (if anything) was made more confusing?
