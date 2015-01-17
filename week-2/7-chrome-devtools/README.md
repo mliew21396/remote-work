@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Chrome DevTools
+# U1.W2: Chrome DevTools and CSS Positioning
 
 ## Learning Competencies
 - Navigate and manipulate a website's HTML and CSS elements using the Chrome DevTools inspector
