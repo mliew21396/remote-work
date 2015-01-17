@@ -2,7 +2,7 @@
 
 #U1.W3: GPS 1.2: Pairing Website
 
-**DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
+**DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR GUIDED PAIRING SESSION!!**
 
 ## Learning Competencies
   - Use HTML tags to place content on a website

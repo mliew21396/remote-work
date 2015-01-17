@@ -21,7 +21,7 @@ The return value would be
 "You live at 633 Folsom St., in the beautiful city of San Francisco, CA. Your zip is 94107."
 ```
 
-**Note**: the words your output that are not part of the method parameters must match exactly with the words in the output above.
+**Note:** The words in your output that are not part of the method parameters must match exactly with the words in the output above.
 
 
 ## Releases

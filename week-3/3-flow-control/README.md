@@ -14,10 +14,10 @@ Up to this point, you've had some pretty basic programs. You put something in; i
 ## Release 0: Read Ch. 7: Flow Control
 Read through this chapter. Pine wrote some good exercises here that definitely get a bit more tricky. You can choose to do them as bonus. As you can see, we've also decided to use one of them as well.
 
-## Release 1: Challenges
-Now you get to demonstrate your understanding of these concepts by working on some challenges that require flow control. They might take you outside of your comfort zone, and that's ok. You should also feel free to pair on these. Pairing is an awesome way to learn what you know and ask questions about what you don't know yet.
+## Release 1: Exercises
+Now you get to demonstrate your understanding of these concepts by working on some exercises that require flow control. They might take you outside of your comfort zone, and that's ok. You should also feel free to pair on these. Pairing is an awesome way to learn what you know and ask questions about what you don't know yet.
 
-Note: Reference the [Ruby Docs](http://ruby-doc.org/core-2.0.0/) (It's easier if you google a class like "Ruby 2.0 string") to find the right documentation. Skim the available methods on the left and then look at the method itself. These are powerful methods that will help you with some of these challenges.
+Note: Reference the [Ruby Docs](http://ruby-doc.org/core-2.0.0/) (It's easier if you google a class like "Ruby 2.0 string") to find the right documentation. Skim the available methods on the left and then look at the method itself. These are powerful methods that will help you with some of these exercises.
 
 - [Good Guess](../exercises/7-good-guess)
 - [Calculate a Letter Grade](../exercises/8-calculate-grade)
