@@ -28,7 +28,7 @@ for others it may not. Both are O.K. Read the following resources below to get b
 ## Release 1: Information Gathering
 The first step in creating a website is defining its purpose and target audience. You must know your site's goals and end users before you can think about its layout or design.
 
-In this unit, you'll be creating your own Phase 0 website where you'll post your weekly blog entries. It will be used after your graduate as a portfolio, so think about what content you'd like to see on there.
+In this unit, you'll be creating your own Phase 0 website where you'll post your weekly blog entries. It will be used after you graduate as a portfolio, so think about what content you'd like to see on there.
 
 You'll definitely want to include:
 
