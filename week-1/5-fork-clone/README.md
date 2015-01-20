@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Explain how and why to fork a GitHub Repository
-- Clone a fork onto a local machine.
+- Clone a fork onto a local machine
 
 ## Summary
 Now that you are a bit familiar with the idea of version control and git, you will learn how to get your own copy of this repository which is where you will keep your work (including those reflections you've already written!).
