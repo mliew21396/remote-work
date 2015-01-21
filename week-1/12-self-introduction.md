@@ -20,7 +20,7 @@ Once you've read them, or while reading through them, consider what you learned 
 
 ## Release 1: Intro Email
 
-Each cohort has its own email list visible on the cohort webpage. Email that list with the subject "self-introduction" or reply to the main thread you received. In your email, include your:
+Each cohort has its own email list visible on the cohort webpage. If you are the first person to send this, email your cohort's email list with the subject "self-introduction." If you've already received an email, reply to the main thread. In your email, include your:
 
 - Name
 - Location
