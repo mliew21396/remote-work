@@ -67,6 +67,8 @@ cd dotfiles
 ```
 Installing these files will configure your bash profile, enable auto complete, and make RSpec display with color. Note: this will replace your current bash profile.
 
+If the code runs properly, you will have a new line. The bash convention is to succeed silently, which means to not give a success message, only error messages.
+
 Restart your terminal to have these changes take place.
 
 
