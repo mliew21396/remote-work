@@ -30,7 +30,7 @@ Code your solution in the [my_solution.rb](my_solution.rb) file.
 ## Release 2: Test
 Run the tests to make sure your code passes!
 
-Remember, type `rspec` followed by the spec file name (and make sure you are in the proper directory).
+In this file, the RSpec is in the my_solution file. Run the file using `rspec my_solution.rb`.
 
 ## Release 3: Refactor
 Make any necessary changes based on the tests. Then run the tests again.
