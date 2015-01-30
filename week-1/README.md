@@ -2,7 +2,7 @@
 
 **Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and DBC community. Please make sure you've completed the [Phase 0 prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) **before** getting started with the weekly challenges. Be sure to read the handbook thoroughly to get a clear understanding of expectations and how Phase 0 operates.
 
-Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms (it's not enough to push your files to GitHub) to gauge whether we are giving too much, the right amount, or not enough work each week.
+Please keep track of how much time you spend on **each** Phase 0 challenge. You'll need to provide this information in your weekly submission forms. This will help us gauge whether we are giving too much, the right amount, or not enough work each week.
 
 When you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
 
@@ -22,6 +22,7 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 #### 10. [Technical Blog](10-technical-blog.md)
 #### 11. [Cultural Blog](11-cultural-blog.md)
 #### 12. [Self Introduction](12-self-introduction.md)
+#### 13. [BONUS CHALLENGES](BONUS-Challenges) *Work on these if you have extra time.*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
 
