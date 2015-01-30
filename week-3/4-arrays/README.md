@@ -25,7 +25,7 @@ As you can see, this would take a while. Instead, it would be better to use a di
 In this chapter Pine addresses arrays and iterating over arrays.
 
 ## Release 1: Challenges
-It will be useful for you to look at the [Ruby documentation for arrays](http://www.ruby-doc.org/core-2.0/Array.html). Although the documentation is difficult to read at first, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well. If you are spending more than an hour on these exercises, you should go back and visit the docs. There are some good simple methods to use to solve these exercises.
+It will be useful for you to look at the [Ruby documentation for arrays](http://ruby-doc.org/core-2.0.0/Array.html). Although the documentation is difficult to read at first, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well. If you are spending more than an hour on these exercises, you should go back and visit the docs. There are some good simple methods to use to solve these exercises.
 
 - [Find the smallest integer in an array](../exercises/12-smallest-integer)
 - [Find the largest integer in an array](../exercises/13-largest-integer)

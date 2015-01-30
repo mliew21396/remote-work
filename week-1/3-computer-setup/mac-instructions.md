@@ -61,6 +61,8 @@ cd dotfiles
 
 Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime.
 
+If it runs properly, you will have a new line. The bash convention is to succeed silently, which means to not give a success message, only error messages. 
+
 ## Release 5: Configure Git
 You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your GitHub email address in the following format:
 
