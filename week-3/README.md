@@ -4,15 +4,13 @@ Week 3's curriculum will be released with changes the Friday before the week beg
 
 <!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
-You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
+You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the exercises we assign.
 
-We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code or you can purchase it on Amazon or other major booksellers (for potentially less than the coupon code). You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
+Please go through the challenges in order (as indicated on the README). Exercises (from the exercises directory) will be referenced in each challenge. Please read through the challenge and complete the exercises as instructed. Also, please note you will not need to complete any of Chris Pine's exercises unless specifically asked to.
 
-Some challenges will have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+Some exercises will have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
 
 ## Challenges:
-You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
-
 Before starting, please read Chris Pine's Introduction p. xi - xv.
 
 1. [Numbers, Letters, and Variable Assignment](1-numbers-letters)
