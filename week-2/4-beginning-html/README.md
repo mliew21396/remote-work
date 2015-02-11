@@ -20,7 +20,7 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
 
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
-  - HTML Basics II (Sections 1-6 Only. Skip the styling sections.)
+  - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
   - HTML Basics III
 
 ## Release 1: Set up your HTML Page
