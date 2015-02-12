@@ -20,8 +20,8 @@ Read/Watch both of the following resources to get some background on the DOM (Do
 
 ## Release 1: Chrome's DevTools
 Use [Code School's DevTools course](http://discover-devtools.codeschool.com/) to acquaint yourself with Chrome's DevTools. Complete the challenges at the end of each. You only need to focus on the HTML and CSS chapters, when they move on to JavaScript, you are done.
-  - Chapter 1: "Elements" or "Getting Started and Basic DOM and Styles"
-  - Chapter 2: "Sources" or "Advanced DOM and Styles"
+  - Chapter 1: "Elements" or "Getting Started and Basic DOM and Styles" (also called Level 1)
+  - Chapter 2: "Sources" or "Advanced DOM and Styles" (also called Level 2)
 
 ## Release 2: Practice
 Now open [css-positioning.html](css-positioning.html) in Google Chrome.  For this release you will use CSS in DevTools to change the position and size of each of the boxes according to the exercise instructions. There are different ways to do each exercise. Using Dev Tools will help you practice (but don't expect to be a pro when you finish this exercise)! **DO NOT MODIFY ANY HTML TO COMPLETE ANY OF THESE EXERCISES.**
