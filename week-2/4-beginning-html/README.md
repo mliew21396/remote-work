@@ -21,7 +21,20 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
   - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
-  - HTML Basics III
+  - HTML Basics III *(see note below)*
+
+**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, because it's bad practice to style HTML in this way, we are giving you the code to get past it. Please paste the following into the `<head>` section. 
+
+```html
+	<head>
+		<title>Table Time</title>
+		<style>
+		    h1 {
+		        font-family: Arial;
+		    }
+		</style>
+	</head>
+```
 
 ## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!
