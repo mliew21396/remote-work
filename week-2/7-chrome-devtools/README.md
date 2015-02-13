@@ -46,7 +46,7 @@ Stack the elements in top of one another without any space between them (in orde
 <img src="../imgs/devtools-column.png" width="400" height="249">
 
 #### 3. Row
-Put the boxes in a row. Have them keep their original shape and size. HINT: Look at the [CSS Display](http://www.w3schools.com/cssref/pr_class_display.asp) property.<br>
+Put the boxes in a row. Have the boxes that have size dimensions defined keep their original shape and size. HINT: Look at the [CSS Display](http://www.w3schools.com/cssref/pr_class_display.asp) property.<br>
 <img src="../imgs/devtools-row.png" width="400" height="193">
 
 #### 4. Make Equidistant
