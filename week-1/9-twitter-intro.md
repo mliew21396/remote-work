@@ -95,4 +95,4 @@ Give a shoutout to @devbootcamp if you want our community team to see you’re t
 ## Release 3: Reflection
 Reflect on your twitter learnings on Twitter! Use the hashtag #DBCtwitter. This reflection should be super short. =)
 
-You'll be promoting and sharing your blogs using twitter and specialized hashtags so they are easily searchable. Twitter is also a great way to share who you are to people who don't know you so it's important to be a well-rounded person on Twitter. I've heard it's common for people in the tech community to trade twitter handles than business cards. If you haven't yet, it's time to embrace the twitter-verse!
+You'll be promoting and sharing your blogs using twitter and specialized hashtags so they are easily searchable. Twitter is also a great way to share who you are to people who don't know you so it's important to be a well-rounded person on Twitter. I've heard it's more common for people in the tech community to trade twitter handles than business cards. If you haven't yet, it's time to embrace the twitter-verse!

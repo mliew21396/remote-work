@@ -118,6 +118,8 @@ You'll use this later in Phase 0.
 ## Release 12: Install Rspec
 Type ```gem install rspec```
 
+**Restart your terminal**
+
 This will install RSpec, a Ruby testing framework.
 
 **Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.**

@@ -1,6 +1,6 @@
 # Week 2: HTML and CSS
 
-<!-- Week 2 curriculum will be released by the Friday before the week begins. -->
+Week 2 curriculum will be released by the Friday before the week begins.
 
 It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
@@ -28,8 +28,6 @@ Please keep track of the time you are spending on the mandatory sections of the 
 If you want to request feedback from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
-
-This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W2.** Only other DBC students can actually see your repositories because they are private.
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.

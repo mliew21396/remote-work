@@ -20,7 +20,7 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
 
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
-  - HTML Basics II (Sections 1-6 Only. Skip the styling sections.)
+  - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
   - HTML Basics III
 
 ## Release 1: Set up your HTML Page
@@ -33,7 +33,7 @@ As you go, validate your HTML in this [HTML Validation Tool](http://validator.w3
 ## Release 2:
 Now it's time to add the fun stuff. You don't need to point to the correct URL in the links; instead you can point to a placeholder (like`"#"`). You should try getting the content to look about the same as the image below.
 
-Consider whether you want to use a table or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
+Consider whether you want to use a table, list, or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
 
 You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-css) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
 
