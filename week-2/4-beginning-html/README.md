@@ -23,7 +23,7 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
   - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
   - HTML Basics III *(see note below)*
 
-**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, because it's bad practice to style HTML in this way, we are giving you the code to get past it. Please paste the following into the `<head>` section. 
+**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, because it's bad practice to style HTML in this way, we are giving you the code to get past it. Please paste the following into the `<head>` section. In between the `<style>` tags is CSS. While this is slightly better practice, it's still not great. Good practice is to have CSS in a separate file. 
 
 ```html
 	<head>
