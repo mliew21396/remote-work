@@ -65,7 +65,7 @@ Now it's time to make your changes live on GitHub. There are two ways to do this
 
 Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Pull changes from the remote to your local copy by typing:
 
-`git pull origin master` #pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
+`git pull origin master`  git pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
 
 Since you've been working on the master branch this entire time, it's easy to push changes to the master branch on GitHub. Simply type:
 
