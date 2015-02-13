@@ -23,18 +23,16 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
   - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
   - HTML Basics III *(see note below)*
 
-**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, because it's bad practice to style HTML in this way, we are giving you the code to get past it. Please paste the following into the `<head>` section. In between the `<style>` tags is CSS. While this is slightly better practice, it's still not great. Good practice is to have CSS in a separate file. 
+**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, because it's bad practice to style HTML in this way, we are giving you the code to get past it. Please paste the following into the `<head>` section underneath `<title>`. 
 
 ```html
-	<head>
-		<title>Table Time</title>
-		<style>
-		    h1 {
-		        font-family: Arial;
-		    }
-		</style>
-	</head>
+<style>
+  h1 {
+    font-family: Arial;
+  }
+</style>
 ```
+CSS is in between the `<style>` tags. You'll learn about using CSS in the next challenge. 
 
 ## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!
