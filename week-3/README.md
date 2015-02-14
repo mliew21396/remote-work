@@ -6,9 +6,11 @@ It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get 
 
 You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the exercises we assign.
 
-Please go through the challenges in order (as indicated on the README). Exercises (from the exercises directory) will be referenced in each challenge. Please read through the challenge and complete the exercises as instructed. Also, please note you will not need to complete any of Chris Pine's exercises unless specifically asked to.
+Please go through the challenges in order (as indicated below). Exercises (from the exercises directory) will be referenced in each challenge. Please read through the challenge and complete the exercises as instructed. Also, you should skip Chris Pine's exercises unless specifically asked to complete them.
 
 Some exercises will have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+
+If you find yourself getting stuck on terminal errors, please skip to challenge 6 so get some practice with error handling. You should be getting Ruby knowledge to know why errors are happening as you progress, but it may be helpful to decipher them.
 
 ## Challenges:
 Before starting, please read Chris Pine's Introduction p. xi - xv.
