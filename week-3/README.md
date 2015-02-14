@@ -25,7 +25,9 @@ Before starting, please read Chris Pine's Introduction p. xi - xv.
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
 10. [Accountability Groups](10-accountability-groups.md)
-11. [BONUS Challenges](11-BONUS-challenges) *Optional*
+11. [BONUS Challenges](11-BONUS-challenges)** *Optional*
+
+**We HIGHLY recommend working on the [Well-Grounded Rubyist](11-BONUS-challenges/Well-Grounded-Rubyist.md) bonus challenge this week if you have time. If you need chapter suggestions in later weeks, please review this challenge.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle of the week or when you're stuck in another challenge.
 
