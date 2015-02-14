@@ -37,5 +37,12 @@ It's easy to get carried away with research, so limit yourself to an hour for th
 After you've gotten a glimpse of the lay of the land, go back and spend more time with anything that sounded interesting. You should have a decent idea about what is out there, so now you can explore the areas that really interest you.
 
 ## Release 2: Reflect
-As mentioned previously, reflecting is essential for solidifying your learning. If you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video when you get your own copy of the curriculum. Because you don't have that yet, you'll need to keep track of your answers to the questions in the [reflection file](my_reflection.md) on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your reflection file in a later challenge. Remember to limit your reflection time to about 10-15 minutes.
+
+Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. If you feel more comfortable talking as opposed to writing, you can make video reflections.
+
+**Adding reflections for each challenge is mandatory.**
+
+Reflections should be about a paragraph long, and only take you about ten minutes to write.
+
+Please go to the [reflection associated with this challenge](my_reflection.md) to read the prompts and reflect on your learning. You should write the reflection in a file on your computer or on paper. You will add it to GitHub in a later challenge, so don't lose it.
 

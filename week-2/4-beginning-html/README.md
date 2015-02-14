@@ -20,8 +20,19 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
 
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
-  - HTML Basics II (Sections 1-6 Only. Skip the styling sections.)
-  - HTML Basics III
+  - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
+  - HTML Basics III *(see note below)*
+
+**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, (it's bad practice to style HTML in this way) we are giving you the code to get past it. Please paste the following into the `<head>` section underneath `<title>`. 
+
+```html
+<style>
+  h1 {
+    font-family: Arial;
+  }
+</style>
+```
+CSS is in between the `<style>` tags. You'll learn about using CSS in the next challenge. 
 
 ## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!
@@ -33,7 +44,7 @@ As you go, validate your HTML in this [HTML Validation Tool](http://validator.w3
 ## Release 2:
 Now it's time to add the fun stuff. You don't need to point to the correct URL in the links; instead you can point to a placeholder (like`"#"`). You should try getting the content to look about the same as the image below.
 
-Consider whether you want to use a table or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
+Consider whether you want to use a table, list, or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
 
 You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-css) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
 

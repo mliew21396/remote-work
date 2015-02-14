@@ -72,7 +72,10 @@ Now compare your HTML and CSS to the source. Make some notes of the differences 
   - Make the heading of the page look like a modern heading (rather than the top of a resume)
   - Add a new font
 
-## Release 5: Reflect
+## Release 5: Publish
+Commit your changes for each file in this challenge, and push your changes to github. You do not need to be able to see your clone as a website, you should just have your code pushed to your fork of the phase-0-unit-1 repository. 
+
+## Release 6: Reflect
 Edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub. Check they are there!
 
 ## Additional CSS Resources:

@@ -71,6 +71,7 @@ You should get a message saying that there was a conflict that prevented the mer
 
 You should see some notation added that looks something like this:
 
+```
 <<<<<<<<<<<HEAD<<<<<<<<<<<<<<<<<<
 
 some_code
@@ -80,6 +81,7 @@ some_code
 other_code
 
 >>>>>>>>>>>>>small_conflict>>>>>>
+```
 
 You will have to choose what you want to keep, some_code or other_code. Delete everything else ( ====, <<< and >>> ) that you do not need. Add and commit, merge conflict resolved!
 

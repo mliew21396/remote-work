@@ -80,7 +80,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 
 
 ## Release 4: Reflect
-You know the drill at this point! Consider the following questions, and write them down so you can add them to your next challenge reflection.
+You know the drill at this point! Consider the following questions, and answer them in your text editor or on paper so you can add them to your next challenge reflection properly using git.
 
 * Write an explanation of and compare git and GitHub to a non-technical audience.
 * Describe what version control is and how GitHub helps with it.
