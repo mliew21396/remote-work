@@ -75,7 +75,7 @@ Remove all of the size and positioning elements. They should stack on top like r
 Here is our example (You can do anything you want).<br>
 <img src="../imgs/devtools-personal.png" width="400" height="269">
 
-Upload each of your images into the week-2 [imgs](../imgs) directory and display them inline.
+Upload each of your images into the week-2 [imgs](../imgs) directory. In your reflection file, display them inline using markdown.
 
 ## Release 3: Reflect
 
