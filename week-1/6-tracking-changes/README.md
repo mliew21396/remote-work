@@ -22,7 +22,7 @@ Note: Emmanuel made a new branch here called `git-playground`. You don't have to
 
 ## Release 1: Good Commit Messages
 
-Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for commits. There's a bunch of advanced git talk here, so just focus on the first part of the post.
+Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for commits.There's a bunch of advanced git talk here, so just focus on the first part of the post. See [this article](http://365git.tumblr.com/post/3308646748/writing-git-commit-messages) for a better explanation of why to use the imperative form of verbs.  
 
 You can type your commit messages in your terminal with `git commit -m "message goes here between the quotes"` or you can use the verbose commit message to give yourself some room `git commit -v` will open your default editor according to git (learn how to change it [here](https://help.github.com/articles/associating-text-editors-with-git) follow instructions for sublime). After you write your message, save and close the file. Your commit will be recorded.
 
