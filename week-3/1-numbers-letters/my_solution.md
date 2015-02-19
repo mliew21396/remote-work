@@ -1,7 +1,6 @@
 # U1.W3: Methods: Notes for Numbers and Letters
 
 # I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
 
 #### I spent [#] hours on this challenge.
 
