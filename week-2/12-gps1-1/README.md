@@ -28,7 +28,7 @@ Navigator can now clone this repo as well.
 
 ## Release 2: Create a Feature Branch
 
-Now the driver will create a feature branch called add-command-log. To create a branch use this command:
+Now the driver will create a feature branch called `add-command-log`. To create a branch use this command:
 
   `$git checkout -b branch-name`
 
