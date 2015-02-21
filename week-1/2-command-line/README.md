@@ -3,6 +3,9 @@
 # U1.W1: Your Command Line (aka Terminal, Shell, Prompt)
 
 ## Learning Competencies
+- Explain what the "shell" is
+- Describe "bash"
+
 By the end of this lesson, you should be able to ___ in/using the command line.
 - Identify your location
 - Navigate between directories
@@ -24,12 +27,13 @@ Unfortunately (or fortunately), the command line is very simple. There are speci
 ## Releases
 
 ## Release 0: Read
-Get a bit of information on the command line in the ["What is the Command Line"](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) reading.
-
-Read through this and make a note of anything interesting.
+Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html). Most of the book should be available online through this link. If you have trouble accessing it, please create a trial account to read the two chapters required for this challenge.
 
 ## Release 1: Crash Course
-Now go through the [Command Line Crash Course](http://cli.learncodethehardway.org/book/) to get some practice.
+Now go through the [Command Line Crash Course](http://cli.learncodethehardway.org/book/) to get some practice using the command line.
 
-## Release 2: Reflect
+## Release 2: Read
+Read *Learning the Bash Shell* [Chapter 3](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch03.html). In this chapter, you should start understanding your environment. Knowing a bit about this will be valuable prior to setting up your computer in the next challenge.
+
+## Release 3: Reflect
 Reflecting is essential for solidifying your learning. If you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video when you get your own copy of the curriculum. Because you don't have that yet, you'll need to keep track of your answers to the questions in the [reflection file](my_reflection.md) on your computer or in your notes. Be sure to write them down! You'll be expected to add them to the reflection file associated with this challenge later once you learn to push changes to GitHub. Limit your reflection time to about 10-15 minutes.

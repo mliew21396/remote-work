@@ -4,7 +4,7 @@
 
 Now that you know a bit about your command line, you can now get your computer set up for DBC!
 
-Setting up your computer can be tricky, and there are specific technologies we will need you to have in Phases 0, 1, and 2. We've created instructions for installing each of these in Linux, Mac, and Windows.
+Setting up your computer can be tricky, and there are specific technologies we will need you to have in Phases 0, 1, and 2. We've created instructions for installing each of these in Linux, Mac, and Windows. You may want to review the information you learned in the last challenge about bash while you go through this process. If you are using Windows, the principles should be similar to what was described in *Learning the Bash Shell,* but not exactly the same.
 
 If you have already set up your computer with a dev environment, please make sure you have each of the necessary technologies installed.
 
@@ -14,4 +14,6 @@ If you run into installation problems, please join [office hours](https://phase0
 
 - [Linux](linux-instructions.md)
 - [Mac](mac-instructions.md)
-- [Windows](windows-instructions.md)
+- [Windows](windows-instructions.md)**
+
+**Dev Bootcamp does not provide technical support for Windows beyond these instructions. If students are interested in learning about how to use a different shell, the learning for that is up to them. The instructors at DBC have most experience with Mac, and we use Macs on site.
