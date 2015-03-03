@@ -49,7 +49,7 @@ Your files should look like this:
 
 ![proper structure](../imgs/correct-file-structure.png)
 
-<b>NOT</b> like this:
+# <b>NOT</b> like this:
 
 ![improper structure](../imgs/improper-structure.png)
 
