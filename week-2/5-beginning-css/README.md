@@ -25,13 +25,13 @@ Go through the following resources to learn the basics of CSS.
     - CSS Selectors
     - CSS Positioning
 
-## Release 1: Link your Stylesheet
+## Release 1: Linking  Stylesheet
 
-There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to.
+There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to. 
 
 If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly and open it in a browser. When you have it linked, you can promptly delete that CSS.
 
-You'll want to add the link to the my-berkshire-stylesheet.css in your [4-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html)
+You'll want to add the link to the my-berkshire-stylesheet.css in your [4-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html).
 
 ## Release 2: Add CSS
 Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
