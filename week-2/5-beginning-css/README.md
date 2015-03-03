@@ -25,7 +25,7 @@ Go through the following resources to learn the basics of CSS.
     - CSS Selectors
     - CSS Positioning
 
-## Release 1: Linking  Stylesheet
+## Release 1: Link Your Stylesheet
 
 There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to. 
 
