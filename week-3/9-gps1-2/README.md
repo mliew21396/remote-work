@@ -18,24 +18,22 @@ This GPS is designed to help you examine pair programming and the roles of drive
 ## Release 0: Wireframe the site
 First, you'll want to create a wireframe. In this wireframe, you will want to draw space for:
 - a Header
-- 2 Columns
+- 2 Columns for content
 - a Footer
 
 If you want to use a collaborative drawing site, you can use [Precursor](https://prcrsr.com/) or [flockdraw](http://flockdraw.com) (It's like a collaborative version of MSPaint). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
 
 ## Release 1: HTML
-
-Open a stypi file (only one person needs to do this) and name it with a `.html` extension (You will be able to see it in stypi by either hovering or clicking on the "eye" in the top right of the navigation bar). Share the URL with your pair and guide.
-
-Be sure to include a link to the phase-0-unit-1/week-3/9-gps1-2/gps1-2.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
-
-Before you get started on positioning, take a brief look at the HTML and evaluate the following:
+Before you get started, take a brief look at the HTML and evaluate the following:
 
 - What is the DOCTYPE specifying?
 - What is the point of a charset?
 - What version of HTML is this? Do you think it's easier, more difficult, or the same in terms of readability as other versions?
 - What does `<title>` do?
 
+Go to [JSfiddle](jsfiddle.net), this is a tool to collaborate on coding in HTML, CSS, and JavaScript. Press the "Collaboration" button and share the link provided to start the session. This website provides a way to code together and render the HTML and CSS . Navigate to the gps1-2.html file and copy everything **between the `<body> tags** and paste it to the HTML window. Click run (or ctrl + enter) to render the HTML.
+
+Be sure to include a link to the phase-0-unit-1/week-3/9-gps1-2/gps1-2.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
 
 ## Release 2: Position the Elements
 Now's the time to position all of the HTML elements based on the wireframe you created. Use CSS as much as possible. It's considered bad practice to incorporate styling into HTML tags.
