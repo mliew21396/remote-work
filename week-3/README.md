@@ -13,7 +13,7 @@ Some exercises will have tests already developed using RSpec (a tool for testing
 If you find yourself getting stuck on terminal errors, please skip to challenge 6 so get some practice with error handling. You should be getting Ruby knowledge to know why errors are happening as you progress, but it may be helpful to decipher them.
 
 ## Challenges:
-Before starting, please read Chris Pine's Introduction p. xi - xv.
+Before starting, please read Chris Pine's Introduction p. xi - xv. Also, make sure to download the 2nd edition of the book so the chapter numbers line up.
 
 1. [Numbers, Letters, and Variable Assignment](1-numbers-letters)
 2. [Variables and Methods](2-methods)
