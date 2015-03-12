@@ -67,7 +67,7 @@ shower operators in the pure luxury of 80 columns of text with 24 rows of text
 e.g. the [vt100][], the design patterns had taken root: _searching_ and
 navigating accurately _without_ a scrollback_ was a given.
 
-![Image of Vt100 Terminal](./img/DEC_VT100_terminal.jpg)
+<img src="./img/DEC_VT100_terminal.jpg" width="400" height="249">
 
 While these tools weren't the most friendly to the uninitiated, their speed and
 "getting the answer you want" quality has kept them alive and relevant for the
