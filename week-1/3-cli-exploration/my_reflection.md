@@ -22,4 +22,4 @@ Answer the following prompts to reflect on your learning. Keep track of your ans
 
 
 
-6. Briefly describe the computer environment and how it works
+6. Briefly describe the computer environment and how it works.
