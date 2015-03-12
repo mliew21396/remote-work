@@ -34,7 +34,7 @@ Before you get started, take a brief look at the HTML and evaluate the following
 
 Each of you should include a link to the phase-0-unit-1/week-3/9-gps1-2/gps1-2.css stylesheet in your html and show each other. Explain how to link a stylesheet.
 
-Go to [JSfiddle](jsfiddle.net), this is a tool to collaborate on coding in HTML, CSS, and JavaScript. Press the "Collaboration" button and share the link provided to start the session. This website provides a way to code together and render the HTML and CSS.
+Go to [JSfiddle](https://jsfiddle.net/), this is a tool to collaborate on coding in HTML, CSS, and JavaScript. Press the "Collaboration" button and share the link provided to start the session. This website provides a way to code together and render the HTML and CSS.
 
 Navigate to the gps1-2.html file and copy everything **between the `<body>` tags** and paste it to the HTML window. Click run (or ctrl + enter) to render the HTML.
 
