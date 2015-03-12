@@ -281,7 +281,7 @@ re-configure your shell environment over and over and over again.
 
 ## Release 6: Further
 
-These documents serve to show you that Unix is, in many ways, a powerful
+These releases serve to show you that Unix is, in many ways, a powerful
 programming environment in and of itself. As a taste of what's possible, let's
 examine `pagers/development.log`. Let's say we wanted to know how many times
 the user at 127.0.0.1 committed a POST action at the path called `/twoots`.
