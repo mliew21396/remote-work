@@ -187,7 +187,7 @@ Sometimes it's handy to be able to find a line in a text file that matches a
 RegExp ([Regular Expression](http://image.slidesharecdn.com/regex-public-131204120546-phpapp01/95/regex-101-4-638.jpg?cb=1386180910)). That's what `grep` does. `G`lobal `r`egular `e`xpression `p`rint.
 
 Inside the `grep_and_find` directory you'll find a database dump for a wine
-store. Let's say we wanted to find out how many tables this database has. We
+store. (Use `ls` to find out what it's called). Let's say we wanted to find out how many tables this database has. We
 could deduce that by finding all the `CREATE TABLE` commands. In order to
 extract those from this file, we can use `grep`.
 
