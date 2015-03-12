@@ -187,7 +187,7 @@ Sometimes it's handy to be able to find a line in a text file that matches a
 RegExp ([Regular Expression](http://image.slidesharecdn.com/regex-public-131204120546-phpapp01/95/regex-101-4-638.jpg?cb=1386180910)). That's what `grep` does. `G`lobal `r`egular `e`xpression `p`rint.
 
 Inside the `grep_and_find` directory you'll find a database dump for a wine
-store. Let's say we wanted to find out how many tables this database has. We
+store. (Use `ls` to find out what it's called). Let's say we wanted to find out how many tables this database has. We
 could deduce that by finding all the `CREATE TABLE` commands. In order to
 extract those from this file, we can use `grep`.
 
@@ -197,9 +197,9 @@ expression need not be complicated, `grep "CREATE" filename` should suffice.
 Maybe you can `pushd` to the `pagers` directory and search for all the lines
 containing `GET` inside the `development.log` file. Maybe that creates too
 much output. You could, perhaps use a tool we've just discussed to limit that
-output. When you're done you can `popd` back whence you came.
+output (You'll need to research how to combine these). When you're done you can `popd` back whence you came.
 
-### Release 5: Finding a File
+### Finding a File
 
 As your programs get bigger and your comfort with Unix grows you're going to
 eventually misplace a file. You'll think you created it in the right terminal
@@ -229,14 +229,14 @@ And that is not a string that matches any file name.
 `find . -name "m*.txt"` will work as you expect.
 
 As a bonus, why don't you try using `pushd` and visit each directory with a
-`message.txt` file and get a special message from me.
+`message.txt` file, view the message file, and get a special message from me.
 
 As a super bonus, try using `find`'s `exec` flag to find all files matching
 `message.txt` and then `cat` the file's contents. `exec` is one of the least
 friendly options for an argument ever, but with a bit of Google, I'm sure you
 can figure it out.
 
-## The Environment and `echo`
+## Release 5: The Environment and `echo`
 
 Every process (i.e. command) in Unix is a child of a parent process. When
 electricity is plugged into a Unix machine, the chips on the hardware start the
@@ -281,7 +281,7 @@ re-configure your shell environment over and over and over again.
 
 ## Release 6: Further
 
-These documents serve to show you that Unix is, in many ways, a powerful
+These releases serve to show you that Unix is, in many ways, a powerful
 programming environment in and of itself. As a taste of what's possible, let's
 examine `pagers/development.log`. Let's say we wanted to know how many times
 the user at 127.0.0.1 committed a POST action at the path called `/twoots`.
