@@ -197,7 +197,7 @@ expression need not be complicated, `grep "CREATE" filename` should suffice.
 Maybe you can `pushd` to the `pagers` directory and search for all the lines
 containing `GET` inside the `development.log` file. Maybe that creates too
 much output. You could, perhaps use a tool we've just discussed to limit that
-output. When you're done you can `popd` back whence you came.
+output (You'll need to research how to combine these). When you're done you can `popd` back whence you came.
 
 ### Release 5: Finding a File
 
