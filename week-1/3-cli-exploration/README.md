@@ -199,7 +199,7 @@ containing `GET` inside the `development.log` file. Maybe that creates too
 much output. You could, perhaps use a tool we've just discussed to limit that
 output (You'll need to research how to combine these). When you're done you can `popd` back whence you came.
 
-### Release 5: Finding a File
+### Finding a File
 
 As your programs get bigger and your comfort with Unix grows you're going to
 eventually misplace a file. You'll think you created it in the right terminal
@@ -236,7 +236,7 @@ As a super bonus, try using `find`'s `exec` flag to find all files matching
 friendly options for an argument ever, but with a bit of Google, I'm sure you
 can figure it out.
 
-## The Environment and `echo`
+## Release 5: The Environment and `echo`
 
 Every process (i.e. command) in Unix is a child of a parent process. When
 electricity is plugged into a Unix machine, the chips on the hardware start the
