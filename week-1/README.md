@@ -12,7 +12,7 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 
 #### 1. [Think about time](1-think-about-time)
 #### 2. [The Command Line](2-command-line)
-#### 3. [Command Line Exploration](3-cli-exploration)
+#### 3. [Intermediate Command Line Exploration](3-cli-exploration)
 #### 3. [Computer Setup](4-computer-setup)
 #### 4. [GitHub Intro](5-github-intro)
 #### 5. [Forking and Cloning](6-fork-clone)
