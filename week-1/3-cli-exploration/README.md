@@ -321,7 +321,7 @@ Reflecting is essential for solidifying your learning. Because you don't have th
 ## Resources
 
 * [Teletype Corporation][teletype]
-* [DEC Vt100 terminal][vt100] terminal
+* [DEC Vt100 terminal][vt100]
 
 [teletype]: http://en.wikipedia.org/wiki/Teletype_Corporation
 [vt100]: http://en.wikipedia.org/wiki/VT100
