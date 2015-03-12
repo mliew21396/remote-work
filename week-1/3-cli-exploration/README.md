@@ -1,8 +1,12 @@
-# Title CLI Exploration Challenge
+# Intermediate CLI Exploration Challenge
 
 ## Learning Competencies
 
-* Explain why development tools are useful
+- Summarize the reasons you would use command line tools
+- Use `pushd` and `popd` and explain how they work
+- Compare and use `less` and `more`
+- Find text within files and files using search terms
+- Describe the computer environment
 
 ## Summary
 
@@ -19,20 +23,13 @@ do your work of development quickly and efficiently.
 In this challenge we will take some time to explore some of the most essential
 utilities and will attempt to understand when to reach for them.
 
+As you see commands you don't understand, look them up. Own your education insofar as you can see strange things and _choose_ to explore versus having the lesson spoon-fed.
+
+Reflect upon what constraints each of these utilities might have been implemented in response to.
+
 ## Releases
 
-This challenge has no releases but rather asks you to explore these utilities
-with full integrity.
-
-## Optimize your learning
-
-* As you see commands you don't understand, look them up. Own your education
-  insofar as you can see strange things and _choose_ to explore versus having
-  the lesson spoon-fed.
-* Reflect upon what constraints each of these utilities might have been
-  implemented in response to.
-
-## Background
+## Release 0: Background
 
 When Unix was invented (circa 1969), one of the primary peripherals was a means for
 displaying text. Yes, even back then humans had evolved eyeballs and it was
@@ -56,9 +53,9 @@ It was the dark ages.
 Given these constraints certain features of the Unix operating system were
 born.
 
-* Privilege focused queries to produce focused output.
-* Report nothing unless something went wrong.
-* There is no scrollback (unless you literally look at the paper output
+- Privilege focused queries to produce focused output.
+- Report nothing unless something went wrong.
+- There is no scrollback (unless you literally look at the paper output
   that had been printed thus far).
 
 These design decisions align well with a universe where each command results in
@@ -76,7 +73,7 @@ past near half-century. Imagine any technological bets that you might have
 made in 1969 that would still be right today. The Unix design philosophy is
 one of them.
 
-## Modern Times.
+## Release 1: Modern Times
 
 While a modern terminal emulator will have scrollback, search in buffer, etc.
 it is often better and more accurate to make better use of Unix tools.
@@ -85,7 +82,7 @@ system to produce the right answer without having to do a bunch of massaging,
 formatting, cutting and pasting, and other inefficient work is a distinguishing
 mark. Let's meet these power-tools: elegant weapons of a more civilized time.
 
-## `pushd` and `popd`
+## Release 2: `pushd` and `popd`
 
 As you spend more time in the terminal environment, you'll find that
 traversing directory locations makes up a lot of your work. Obviously, on
@@ -105,11 +102,11 @@ burger joint to place an order.
 
 We need to visit the following directories in this order:
 
-* `kiddie_gym`
-* `mechanic`
-* `hair_salon`
-* `bank`
-* `vegetarian_burger_joint`
+- `kiddie_gym`
+- `mechanic`
+- `hair_salon`
+- `bank`
+- `vegetarian_burger_joint`
 
 And in each one `touch` a file called "visited." Visit each directory using
 `pushd` and touch a file called `visited`. When you're done, change back
@@ -121,16 +118,16 @@ visited, you'll see that `head_home` has made new files for you in each
 directory. Keep using `popd` until you're (again) back in the
 `pushd_popd_ville` root.
 
-## Benefits
+### Benefits of `pushd` and `popd`
 
-* Exposure to one of the most powerful data structures in computing a "stack."
+- These commands expose one of the most powerful data structures in computing, known as a "stack."
   `pushd` pushes a directory into a stack of directories and `popd` pulls the
   directory name off the stack _and `cd`s you into it_.
-* Faster than using a mouse to copy and paste directory paths.
-* Should you need to log into a remote system, you may not have mouse support.
-* As you work on bigger applications you may want to add directories.
+- They are faster than using a mouse to copy and paste directory paths.
+- You may need to use them if you don't have mouse support and need to log into a remote system.
+- As you work on bigger applications you may want to add directories.
 
-## `less` and `more`
+## Release 3: `less` and `more`
 
 Remember how I mentioned people were on teletypes or, better yet, terminals?
 Well, since the mouse hadn't been implemented yet (I know!), sometimes a file
@@ -148,13 +145,13 @@ Here it is on my Mac:
     MD5 (/usr/bin/less) = 406fc2503cac7223db46b142ca9a9e73
 
 `md5` proves that these two files produce the exact same cryptographic hash.
-They're as identical as identical can be!
+They're as identical as identical can be! (If you are confused about this, try doing a little research on it.)
 
 So let's take `less` for a spin.
 
 Inside the `pagers` directory is a typical Rails log file.
 
-Let's use `cat` to display it on the screen.  By the way, meet the `cat`
+Let's use `cat` to display it on the screen. By the way, meet the `cat`
 command, it reads contents from a source and, by default, sends them to the
 screen. Some of you clever people might be wondering what happens if you want
 to override that default...good question, let's explore it later.
@@ -182,27 +179,27 @@ with millions of lines. How can you quickly check out what's at the top?
 `head`. **You will need these utilities in order to efficiently get data about
 your applications**.
 
-## Finding Things
+## Release 4: Finding Things
 
 ### Finding Text in a File
 
 Sometimes it's handy to be able to find a line in a text file that matches a
-RegExp. That's what `grep` does. `G`lobal `r`egular `e`xpression `p`rint.
+RegExp ([Regular Expression](http://image.slidesharecdn.com/regex-public-131204120546-phpapp01/95/regex-101-4-638.jpg?cb=1386180910)). That's what `grep` does. `G`lobal `r`egular `e`xpression `p`rint.
 
 Inside the `grep_and_find` directory you'll find a database dump for a wine
 store. Let's say we wanted to find out how many tables this database has. We
 could deduce that by finding all the `CREATE TABLE` commands. In order to
-extract those from this file, we use `grep`.
+extract those from this file, we can use `grep`.
 
 Try invoking `grep` with a regular expression and a file name. The regular
-expression need not be complicated, `CREATE` should suffice.
+expression need not be complicated, `grep "CREATE" filename` should suffice.
 
 Maybe you can `pushd` to the `pagers` directory and search for all the lines
 containing `GET` inside the `development.log` file. Maybe that creates too
 much output. You could, perhaps use a tool we've just discussed to limit that
 output. When you're done you can `popd` back whence you came.
 
-### Finding a File
+### Release 5: Finding a File
 
 As your programs get bigger and your comfort with Unix grows you're going to
 eventually misplace a file. You'll think you created it in the right terminal
@@ -211,8 +208,8 @@ wildcard? `find` is your friend here.
 
 Why don't you try `find . -name message.txt`?
 
-Cool! Here are all the files that match this pattern. You can use wildcards
-too
+Cool! Here are all the files that match this pattern. You can use wildcards (*)
+too.
 
 Why don't you try `find . -name m*.txt`?
 
@@ -236,7 +233,7 @@ As a bonus, why don't you try using `pushd` and visit each directory with a
 
 As a super bonus, try using `find`'s `exec` flag to find all files matching
 `message.txt` and then `cat` the file's contents. `exec` is one of the least
-friendly options for an argument ever, but with a bit of Google I'm sure you
+friendly options for an argument ever, but with a bit of Google, I'm sure you
 can figure it out.
 
 ## The Environment and `echo`
@@ -282,7 +279,7 @@ Control) or `.bash_profile`. Stretch yourself and explore these files.
 Realize that all these files do is save you the tedium of having to
 re-configure your shell environment over and over and over again.
 
-## Further
+## Release 6: Further
 
 These documents serve to show you that Unix is, in many ways, a powerful
 programming environment in and of itself. As a taste of what's possible, let's
@@ -313,7 +310,8 @@ constantly be revising his or her mastery of these tools.  A good programmer
 will take notes of other shortcuts that other Unix masters use and will
 zealously add them into his or her toolbox.  Unix power users will even play
 "Unix golf" where they try to find the shortest way to accomplish a task using
-the Unix toolset.
+the Unix toolset. Furthermore, you'll need to continually find excuses to practice
+using these commands through the rest of Dev Bootcamp to keep your skills sharp.
 
 ## Resources
 
