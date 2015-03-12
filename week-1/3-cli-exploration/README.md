@@ -1,4 +1,6 @@
-# Intermediate CLI Exploration Challenge
+[Week 1 Home](../)
+
+# U1.W1: Intermediate CLI Exploration Challenge
 
 ## Learning Competencies
 
