@@ -229,7 +229,7 @@ And that is not a string that matches any file name.
 `find . -name "m*.txt"` will work as you expect.
 
 As a bonus, why don't you try using `pushd` and visit each directory with a
-`message.txt` file and get a special message from me.
+`message.txt` file, view the message file, and get a special message from me.
 
 As a super bonus, try using `find`'s `exec` flag to find all files matching
 `message.txt` and then `cat` the file's contents. `exec` is one of the least
