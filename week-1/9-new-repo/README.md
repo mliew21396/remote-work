@@ -39,7 +39,7 @@ Up to this point, you have been working with existing repositories. In this chal
 
 ## Release 1: Clone the repository
 
-Now we want to bring the repository to our computer like we did in the last challenge. Go through the cloning workflow (not the forking part) you created in the [fork and clone](URL NEEDED) challenge. Before you clone, make sure you are **NOT** in your phase-0-unit-1 directory in your command line. You should be in a separate directory.
+Now we want to bring the repository to our computer like we did in the last challenge. Go through the cloning workflow (not the forking part) you created in the [fork and clone](../5-fork-clone) challenge. Before you clone, make sure you are **NOT** in your phase-0-unit-1 directory in your command line. You should be in a separate directory.
 
 The first step is to get the URL of the repo. This is found here:
 
@@ -49,7 +49,7 @@ Your files should look like this:
 
 ![proper structure](../imgs/correct-file-structure.png)
 
-<b>NOT</b> like this:
+# <b>NOT</b> like this:
 
 ![improper structure](../imgs/improper-structure.png)
 

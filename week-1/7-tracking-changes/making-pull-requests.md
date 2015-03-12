@@ -18,9 +18,13 @@ Right below the branch drop-down will be a grey bar that has pull request and co
 
 ![Pull Request 1](../imgs/pull-request-1.png)
 
-Click on "pull request." This will show you a summary of the files that were changed. At the top, it will show you which branch you are making the pull request on. Make sure to change it from Devbootcamp:master to base:master.
+Click on "pull request." This will show you a summary of the files that were changed. At the top, it will show you which branch you are making the pull request on.
 
-![Pull Request DBC](../imgs/pull-request-dbc.png)
+In this scenario we are going to perform a test pull request on ourselves so you can experience both sides of a pull request interaction. At the top, you will see several dropdown boxes. On the left change the first dropdown "base fork" from Devbootcamp/phase-0-unit-1 to your own own base repo username/phase-0-unit-1. Use the search box to find your repo. The second dropdown "base" should be base: master.
+
+On the right your first dropdown should be your own fork username/phase-0-unit-1 and second dropdown "compare" should be the new branch you just created, not the master.
+
+![Pull Request DBC](../imgs/pull-request-change-base-fork.png)
 
 Once you have the correct branches, you may want to put a comment in on what you changed, or just press "Create pull Request."
 
