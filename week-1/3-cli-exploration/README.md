@@ -213,7 +213,7 @@ Why don't you try `find . -name message.txt`?
 Cool! Here are all the files that match this pattern. You can use wildcards (*)
 too.
 
-Why don't you try `find . -name m*.txt`?
+<!-- Why don't you try `find . -name m*.txt`?
 
 This won't work. If you're going to use wildcards you need to escape the
 special character *.  What the shell sees is:
@@ -226,9 +226,9 @@ jeannie
 larry_tate
 winestore-db-dump.sql`
 
-And that is not a string that matches any file name.
+And that is not a string that matches any file name. -->
 
-`find . -name "m*.txt"` will work as you expect.
+Why don't you try `find . -name "m*.txt"`?
 
 As a bonus, why don't you try using `pushd` and visit each directory with a
 `message.txt` file, view the message file, and get a special message from me.
