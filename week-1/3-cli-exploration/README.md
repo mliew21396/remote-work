@@ -175,7 +175,7 @@ debug log, etc.
 
 Related to `less` is `head` and `tail`. These utilities can be used to give
 you the first 10 lines or the last 10 lines of a file. While you _can_ open a
-large file in Sublime, realize that Sublime is not equipped to read in a file
+large file in Sublime, realize that Sublime is not equipped to read a file
 with a million lines. Unix, however, is well equipped to generate a text file
 with millions of lines. How can you quickly check out what's at the top?
 `head`. **You will need these utilities in order to efficiently get data about
