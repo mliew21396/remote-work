@@ -1,6 +1,6 @@
 # 1: Command Line Reflection
 
-Write your reflection on a document or by hand on the following questions. Keep track of your answers because you'll be asked to add them to this document in challenge [6: Tracking Changes](../6-tracking-changes).
+Write your reflection on a document or by hand on the following questions. Keep track of your answers because you'll be asked to add them to this document in challenge [7: Tracking Changes](../7-tracking-changes).
 
 1. What is a shell? What is "bash?"
 2. What was the most challenging for you in going through this material?

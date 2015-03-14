@@ -22,7 +22,7 @@ Note: Emmanuel made a new branch here called `git-playground`. You don't have to
 
 ## Release 1: Good Commit Messages
 
-Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for commits.There's a bunch of advanced git talk here, so just focus on the first part of the post. See [this article](http://365git.tumblr.com/post/3308646748/writing-git-commit-messages) for a better explanation of why to use the imperative form of verbs.  
+Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for commits.There's a bunch of advanced git talk here, so just focus on the first part of the post. See [this article](http://365git.tumblr.com/post/3308646748/writing-git-commit-messages) for a better explanation of why to use the imperative form of verbs.
 
 You can type your commit messages in your terminal with `git commit -m "message goes here between the quotes"`.
 
@@ -79,4 +79,4 @@ Go to your fork on GitHub to see your changes live!
 Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes!
 
 ## Release 6: Practice
-Remember the reflection you did for the first couple of challenges on the [command line](../2-command-line) and [thinking about time](../1-think-about-time)? Go through the workflow to edit the reflection files for each challenge to add your answers.
+Remember the reflections you did for the first three challenges? Find your answers and go through the workflow to edit the reflection files for each challenge to add your answers.
