@@ -12,6 +12,8 @@
 
 ## Summary
 
+## WARNING: This challenge works best after you have cloned the phase-0-unit-1 repo to your computer. Skip this challenge and come back after you have done so. 
+
 Most modern web-stack development occurs on operating systems that are modeled
 on or which use the paradigms of the Unix operating system. Invented in 1969
 at Bell the Unix operating system predates Mac OSX, MacOS, Windows, etc. by
