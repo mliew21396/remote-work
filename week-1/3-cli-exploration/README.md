@@ -11,8 +11,9 @@
 - Describe the computer environment
 
 ## Summary
-
-## WARNING: This challenge works best after you have cloned the phase-0-unit-1 repo to your computer. Skip this challenge and come back after you have done so. 
+You may have already forgotten a bunch of what you learned in the first command line
+challenge, so here is the chance to refresh your understanding and practice using the
+more complicated commands. 
 
 Most modern web-stack development occurs on operating systems that are modeled
 on or which use the paradigms of the Unix operating system. Invented in 1969
@@ -318,7 +319,7 @@ the Unix toolset. Furthermore, you'll need to continually find excuses to practi
 using these commands through the rest of Dev Bootcamp to keep your skills sharp.
 
 ## Release 7: Reflect
-Reflecting is essential for solidifying your learning. Because you don't have the ability to edit these reflections directly yet, you'll need to keep track of your answers to the questions in the [reflection file](my_reflection.md) on your computer or in your notes. Be sure to write them down! You'll be expected to add them to the reflection file associated with this challenge later once you learn to push changes to GitHub. Limit your reflection time to about 10-15 minutes.
+Reflecting is essential for solidifying your learning. Visit the [my_reflection.md](my_reflection.md) file associated with this challenge to add your reflection. Limit your reflection time to about 10-15 minutes.
 
 ## Resources
 
