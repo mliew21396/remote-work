@@ -12,18 +12,18 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 
 #### 1. [Think about time](1-think-about-time)
 #### 2. [The Command Line](2-command-line)
-#### 3. [Intermediate Command Line Exploration](3-cli-exploration)
 #### 3. [Computer Setup](4-computer-setup)
 #### 4. [GitHub Intro](5-github-intro)
 #### 5. [Forking and Cloning](6-fork-clone)
 #### 6. [Tracking Changes](7-tracking-changes)
 #### 7. [Setting Remotes](8-set-remotes)
-#### 8. [Your Website](9-new-repo)
-#### 9. [Introduction to Twitter](10-twitter-intro.md)
-#### 10. [Technical Blog](11-technical-blog.md)
-#### 11. [Cultural Blog](12-cultural-blog.md)
-#### 12. [Self Introduction](13-self-introduction.md)
-#### 13. [BONUS CHALLENGES](14-BONUS-Challenges) *Work on these if you have extra time.*
+#### 8. [Intermediate Command Line Exploration](3-cli-exploration)
+#### 9. [Your Website](9-new-repo)
+#### 10. [Introduction to Twitter](10-twitter-intro.md)
+#### 11. [Technical Blog](11-technical-blog.md)
+#### 12. [Cultural Blog](12-cultural-blog.md)
+#### 13. [Self Introduction](13-self-introduction.md)
+#### 14. [BONUS CHALLENGES](14-BONUS-Challenges) *Work on these if you have extra time.*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
 
