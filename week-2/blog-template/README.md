@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Blog Template - Mandatory Pairing Challenge!
+# U1.W2: Blog Template
 
 ## Learning Competencies
 - Use a wireframe to construct a website
@@ -10,16 +10,14 @@
 ## Summary
 In this challenge, you will be transforming our generic blog template into an actual template for you to use for each blog post moving forward.
 
-This is a mandatory pairing challenge, which means you will need to work on it with a partner.  This challenge should only take between 60 and 90 minutes so remember to time box!
-
 ## Releases
 
 ## Release 0: Wireframe
 View the [blog-template.html](blog-template.html) file in a browser. See how simple it is?
 
-With your pair, decide how you want to display blog posts. Create a simple wireframe that positions each element on the page.
+Decide how you want to display blog posts. Create a simple wireframe that positions each element on the page.
 
-Save an image of your wireframe and upload it to this directory (week-2/6-blog-template).
+Save an image of your wireframe and upload it to this directory (week-2/blog-template).
 
 ## Release 1: Apply CSS
 Using the command line, copy the blog-template.html from this directory into your [USERNAME].github.io/blog directory.
@@ -40,5 +38,5 @@ Now that you've made your template, you're ready to use it in the blog assignmen
 
 Now go to [USERNAME].github.io/blog/t1-git-blog.html and [USERNAME].github.io/blog/c1-chefs-kitchen.html. Are your files displaying as you expected them to with your CSS? If not, can you find out what the issue is?
 
-## Release 5: Reflect
+## Release 4: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.

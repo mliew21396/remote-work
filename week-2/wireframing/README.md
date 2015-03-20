@@ -40,7 +40,7 @@ You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wirefr
 
 **PLEASE NOTE:** Don't worry about actually creating any of these pages using HTML yet. You'll do that in your solo challenge.
 
-## Release 2: Wireframe your blog/index.html Template
+## Release 2: Wireframe your `blog/index.html` Template
 
 When people navigate to your blog from the main index of your [USERNAME].github.io site, you will want them to see a list of your blog posts.
 

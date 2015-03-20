@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Beginning HTML
+# U1.W2: Beginning HTML - Mandatory Pairing Challenge!
 
 ## Learning Competencies
 - Set up a basic HTML page with the appropriate tags (html, head, title,etc.)
@@ -8,11 +8,11 @@
 - Divide content on a page using divs and spans
 
 ## Summary
-In this challenge, you will be building an HTML-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/) without looking at the source code. It's a pretty simple site, but can be done in various ways. It should not look exactly like the original site after this challenge. You will be adding CSS in the next challenge. The point of this challenge is to get the HTML skeleton up and running. 
+In this challenge, you will be building an HTML-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/) without looking at the source code. It's a pretty simple site, but can be done in various ways. It should not look exactly like the original site after this challenge. You will be adding CSS in the next challenge. The point of this challenge is to get the HTML skeleton up and running.
 
 The site shouldn't be an exact copy. It should just be as close as you can make it without any formatting. Remember to time box!
 
-If you want to pair on this, we recommend going through Release 0 by yourself. Then get together with your pair for releases 1 and 2.
+Before you pair, go through Release 0 by yourself. Then get together with your pair for releases 1 and 2.
 
 ## Releases
 
@@ -23,7 +23,7 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
   - HTML Basics II (Sections 1-6 Only. Skip the styling sections -- It's bad practice to style HTML directly, so please skip this. You'll learn about styling in the CSS challenge.)
   - HTML Basics III *(see note below)*
 
-**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, (it's bad practice to style HTML in this way) we are giving you the code to get past it. Please paste the following into the `<head>` section underneath `<title>`. 
+**NOTE: In HTML Basics III, they ask you to make sure the font-family is Arial. Because we asked you to skip over the styling sections, (it's bad practice to style HTML in this way) we are giving you the code to get past it. Please paste the following into the `<head>` section underneath `<title>`.
 
 ```html
 <style>
@@ -32,7 +32,7 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
   }
 </style>
 ```
-CSS is in between the `<style>` tags. You'll learn about using CSS in the next challenge. 
+CSS is in between the `<style>` tags. You'll learn about using CSS in the next challenge.
 
 ## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!

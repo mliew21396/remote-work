@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Beginning CSS
+# U1.W2: Beginning CSS - Mandatory Pairing Challenge
 
 ## Learning Competencies
 - Link an external stylesheet to an html document
@@ -11,7 +11,7 @@
 ## Summary
 In this challenge, you will be adding CSS to your clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/).
 
-If you want to pair on this, we recommend going through Releases 0 and 1 prior to pairing. Then get together with your pair for releases 2, 3, and 4.
+Go through Releases 0 and 1 prior to pairing. Then get together with your pair for releases 2, 3, and 4.
 
 This challenge will also be completed in your phase-0-unit-1 repository.
 
@@ -26,12 +26,13 @@ Go through the following resources to learn the basics of CSS.
     - CSS Positioning
 
 ## Release 1: Link Your Stylesheet
+Select one person's HTML version of the [Berkshire Site HTML](../beginning-html/my-berkshire-site.html) to modify with CSS. Then, using your command line, make a copy of that file in this css directory.
 
-There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to. 
+There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to.
 
 If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly and open it in a browser. When you have it linked, you can promptly delete that CSS.
 
-You'll want to add the link to the my-berkshire-stylesheet.css in your [4-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html).
+You'll want to add the link to the my-berkshire-stylesheet.css in the html file you just copied into this directory.
 
 ## Release 2: Add CSS
 Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
@@ -73,7 +74,7 @@ Now compare your HTML and CSS to the source. Make some notes of the differences 
   - Add a new font
 
 ## Release 5: Publish
-Commit your changes for each file in this challenge, and push your changes to github. You do not need to be able to see your clone as a website, you should just have your code pushed to your fork of the phase-0-unit-1 repository. 
+Commit your changes for each file in this challenge, and push your changes to github. You do not need to be able to see your clone as a website, you should just have your code pushed to your fork of the phase-0-unit-1 repository.
 
 ## Release 6: Reflect
 Edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub. Check they are there!
