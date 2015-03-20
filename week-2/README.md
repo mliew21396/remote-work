@@ -11,19 +11,19 @@ It's important to start recognizing when you are spending too much time on a cha
 Please keep track of the time you are spending on the mandatory sections of the challenges for your final week submission form so we can assess the amount of work we are assigning.
 
 ## Challenges
-1. [Cultural Assignment](1-cultural-assignment.md)
-2. [Site Planning](2-site-planning)
-3. [Wireframing](3-wireframing)
-4. [Beginning HTML](4-beginning-html)
-5. [Beginning CSS](5-beginning-css)
-6. [Create a Blog Template](6-blog-template) **Mandatory Pairing Challenge**
-7. [Chrome Dev Tools and Positioning](7-chrome-devtools)
-8. [Your Own Website - SOLO CHALLENGE!](8-your-website-solo-challenge)
-9. [Testing and Maintenance](9-testing-and-maintenance)
-10. [Technical Blog](10-technical-blog.md)
-11. [Accountability Groups](11-accountability-groups.md)
-12. [GPS 1.1](12-gps1-1) **Do not look at this until your pairing session**
-13. [BONUS challenges](13-BONUS-challenges)
+1. [Cultural Assignment](cultural-assignment.md)
+2. [Site Planning](site-planning)
+3. [Wireframing](wireframing)
+4. [Beginning HTML](beginning-html) **Mandatory Pairing Challenge**
+5. [Beginning CSS](beginning-css) **Mandatory Pairing Challenge**
+6. [Chrome Dev Tools and Positioning](chrome-devtools)
+7. [Create a Blog Template](blog-template)
+8. [Your Own Website - SOLO CHALLENGE!](your-website-solo-challenge)
+9. [Testing and Maintenance](testing-and-maintenance)
+10. [Technical Blog](technical-blog.md)
+11. [Accountability Groups](accountability-groups.md)
+12. [GPS 1.1](gps1-1) **Do not look at this until your pairing session**
+13. [BONUS challenges](BONUS-challenges)
 
 If you want to request feedback from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
 
