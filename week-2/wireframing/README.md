@@ -22,7 +22,7 @@ It's easy to go down a rabbit hole while wireframing, so keep it simple and time
 ## Release 0: Intro to Wireframing
 
 - Read: [A Beginners Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
-- Read: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
+- Read: [Beyond Wireframing: Real Life UX Design Process (Optional)](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
 
 ## Release 1: Wireframe your site's index
