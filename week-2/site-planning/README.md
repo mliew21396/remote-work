@@ -20,9 +20,12 @@ In this challenge, you will learn about design thinking and take the first steps
 Like software engineers, designers are problem solvers. They just solve problems visually instead of with code. For some of you, this may come really naturally;
 for others it may not. Both are O.K. Read the following resources below to get background on design thinking.
 
+**Required**
 - [6 Phases of the Web Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.UxuuUuddUtU)
-- [Design is about solving problems](http://www.smashingmagazine.com/2011/08/24/design-solving-problems/)
 - [What is User Experience Design?](http://www.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
+
+**Optional**
+- [Design is about solving problems](http://www.smashingmagazine.com/2011/08/24/design-solving-problems/)
 - [Design for performance](https://www.speakerdeck.com/lara/design-for-performance)
 
 ## Release 1: Information Gathering
