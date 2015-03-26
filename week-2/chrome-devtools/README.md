@@ -3,7 +3,7 @@
 # U1.W2: Chrome DevTools and CSS Positioning
 
 ## Learning Competencies
-- Navigate and manipulate a website's HTML and CSS elements using the Chrome DevTools inspector
+- Manipulate a website's HTML and CSS elements using the Chrome DevTools inspector
 - Describe how to resize elements on the DOM using CSS
 - Identify differences between and use Absolute, Fixed, Static, and Relative positioning
 - Describe the differences between Margin, Border, and Padding
