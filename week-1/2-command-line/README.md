@@ -27,13 +27,15 @@ Unfortunately (or fortunately), the command line is very simple. There are speci
 ## Releases
 
 ## Release 0: Read
-Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html). Most of the book should be available online through this link. If you have trouble accessing it, please create a trial account to read the two chapters required for this challenge.
+Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html). Most of the book should be available online through this link. If you have trouble accessing it, please create a trial account to read the two chapters required for this challenge. 
+
+As a warning, this reading is dense so don't expect yourself to understand every little bit of it. It's about getting some context on the shell in advance of using it. Take what you can from it. We are looking to create a more beginner-friendly resource, but haven't had the time yet. 
 
 ## Release 1: Crash Course
 Now go through the [Command Line Crash Course](http://cli.learncodethehardway.org/book/) to get some practice using the command line.
 
 ## Release 2: Read
-Read *Learning the Bash Shell* [Chapter 3](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch03.html). In this chapter, you should start understanding your environment. Knowing a bit about this will be valuable prior to setting up your computer in the next challenge.
+Read *Learning the Bash Shell* [Chapter 3](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch03.html). In this chapter, you should start understanding your environment. Knowing a bit about this will be valuable prior to setting up your computer in the next challenge. This is similarly dense, so try to get what you can out of it. 
 
 ## Release 3: Reflect
 Reflecting is essential for solidifying your learning. If you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video when you get your own copy of the curriculum. Because you don't have that yet, you'll need to keep track of your answers to the questions in the [reflection file](my_reflection.md) on your computer or in your notes. Be sure to write them down! You'll be expected to add them to the reflection file associated with this challenge later once you learn to push changes to GitHub. Limit your reflection time to about 10-15 minutes.
