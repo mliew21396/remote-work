@@ -37,7 +37,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W
 
 ## Remember the Unit Expectations!
 
-**NOTE: We do not expect you to peer-pair during week 1. This is here as an FYI. You should still rate at least 7 pieces of feedback.**
+**NOTE: We do not expect you to peer-pair or give feedback during week 1. This is here as an FYI. You should still rate at least 7 pieces of feedback this week. Click on the link provided to rate feedback.**
 
 Expectation | Times per Unit | Times per Week
 ------------|----------|---------
