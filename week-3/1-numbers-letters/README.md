@@ -9,7 +9,7 @@
 - Define local variables
 
 ## Summary
-For the challenges in week 3 you will want to read specified chapters in Chris Pine's [*Learn to Program*](https://pine.fm/LearnToProgram/).
+For the challenges in week 3 you will want to read specified chapters in Chris Pine's [*Learn to Program*](https://pine.fm/LearnToProgram/), 2nd edition. (If you are using the first edition, the chapter numbers will be off).
 
 In this challenge you will go through basic mathematical operations.
 
