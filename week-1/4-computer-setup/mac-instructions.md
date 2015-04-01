@@ -90,18 +90,14 @@ Type: ```brew install ruby-build```
 
 Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of Ruby on your machine?)
 
-**NOTE:** If you are using RVM instead of rbenv, you will not need to install ruby-build.
-
-## Release 9: Install Ruby 2.0.0
-Type: ```rbenv install 2.0.0-p481```
+## Release 9: Install Ruby 2.2.1
+Type: ```rbenv install 2.2.1```
 
 Now, you need to set the default Ruby in your computer to the Ruby we just installed.
 
-Type: ``` rbenv global 2.0.0-p481```
+Type: ``` rbenv global 2.2.1```
 
 **Restart your terminal**
-
-NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0.
 
 ## Release 10: Install Git
 Type: ```brew install git```

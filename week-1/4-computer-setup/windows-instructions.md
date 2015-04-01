@@ -65,10 +65,10 @@ It will give you a message to say that chocolatey has finished installing and yo
 Now we can install our first package, Ruby. In your root directory type:
 
 ```shell
-C:/ cinst ruby
+C:/ choco install  ruby
 ```
 
-This will install Ruby 2.0.0, type ruby -v, if you get an output that declares your Ruby version, you are good to go!
+This will install Ruby 2.1.5, type ruby -v, if you get an output that declares your Ruby version, you are good to go!
 
 ## Release 3: Install Rspec
 
@@ -90,24 +90,28 @@ to check your install
 Similar to Ruby, we just use a different command.
 
 ```shell
-C:/ cinst nodejs
+C:/ choco install nodejs.install
 ```
 
-type node -v to test your succcess.
+Restart your command line terminal.
+
+Type node -v to test your succcess.
 
 ## Release 5: Install and Configure Git
 
 You get the idea:
 
 ```shell
-C:/ cinst git
+C:/ choco install git.install
 ```
 
-type git --version to test your install.
+Restart your command line terminal.
+
+Type git --version to test your install.
 
 Now we can configure some of the git settings.
 
-first thing is to set your username and email you have related to your GitHub account
+First thing is to set your username and email you have related to your GitHub account
 
 ```shell
 git config --global user.name "John Doe"
@@ -120,14 +124,15 @@ Then we want to set up our default git editor to sublime. Follow [these instruct
 
 The DLL
 ```shell
-C:/ cinst SQLite
+C:/ choco install  sqlite
 ```
 And the SQLite shell
 ```shell
-C:/ cinst sqlite.shell
+C:/ choco install  sqlite.shell
 ```
+Restart your terminal.
 
-type this to test:
+Type this to test:
 
 ```shell
 sqlite3 -version
