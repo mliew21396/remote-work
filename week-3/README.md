@@ -1,8 +1,8 @@
 # Week 3: Introduction to Ruby
 
-<!-- Week 3's curriculum will be released with changes the Friday before the week begins. -->
+Week 3's curriculum will be released with changes the Friday before the week begins.
 
-It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's *Learn to Program, 2nd edition*. You can get this in an instant e-book or paperback format from the publisher or on Amazon. The first version is available online for free. If you choose to use the first version, the chapter numbers will be different and there may be some information that is missing. This week, you will be reading the content in the book and then completing the exercises we assign.
 
@@ -52,3 +52,4 @@ Expectation | Times per Unit | Times per Week
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
+ -->
