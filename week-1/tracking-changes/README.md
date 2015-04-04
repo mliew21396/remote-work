@@ -77,6 +77,16 @@ Pull changes from the remote to your local copy by typing:
 
 `git pull`  git pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
 
+Now that you have the changes, you'll need to merge them into your `making-changes` branch. 
+
+Navigate to that branch by typing:
+`git co making-changes`
+
+Then merge the branches by typing:
+`git merge master`
+
+This will merge the changes. Sometimes it will pop up a window in Sublime, if this happens, you should update the first line with the reason for the merge, save, and then close the tab. That will allow them to merge. 
+
 Since you've been working on the making-changes branch you'll want to push that branch up to GitHub. Simply type:
 
 `git push origin making-changes`
