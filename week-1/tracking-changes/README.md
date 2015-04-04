@@ -65,7 +65,9 @@ Make sure all of your changes are committed before moving on.
 
 ## Release 4: Pushing Changes
 
-Now it's time to make your changes live on GitHub. There are two ways to do this. The best practice way is by [making pull requests](making-pull-requests.md), which is highly favored when working with teams. We recommend using it, because you will not be happy with yourself if you push to master at Dev Bootcamp. If any of these steps are confusing look at the link above and hopefully that will help.
+Now it's time to make your changes live on GitHub. There are two ways to do this, but we aren't going to cover the easiest one because it's bad practice and we've had feedback from students that it should not be included in the curriculum.
+
+The best practice way is by [making pull requests](making-pull-requests.md), which is highly favored when working with teams. We recommend using it, because you will not be happy with yourself if you push to master at Dev Bootcamp. If any of these steps are confusing look at the link above and hopefully that will help.
 
 Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Checkout your master branch by typing:
 
