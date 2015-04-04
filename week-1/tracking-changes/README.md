@@ -90,7 +90,9 @@ Right below the branch name you should see a grey bar. On the right of that bar 
 Once created, GitHub will tell you whether your changes can be automatically merged. If they can, you should merge them and delete the branch. If they can't, then you have changes somewhere that are causing conflicts. If this is the case, ask for help on the community.
 
 ## Release 5: Reflect
-Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes!
+Now that you have pushed your changes once, go through it again to add your reflection. You'll want to start off every challenge by creating a new branch. 
+
+Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes, make a pull request, and merge it!
 
 ## Release 6: Practice
 Remember the reflections you did for the first three challenges? Find your answers and go through the workflow to edit the reflection files for each challenge to add your answers.
