@@ -47,7 +47,9 @@ HEAD is the commit you are currently on, HEAD^ is the last commit, HEAD~3, HEAD~
 
 ## Release 3: Make Changes
 
-Now you know about how git tracks changes, so it's time to make some changes! Make sure you are on the `master` branch for this. If you were on the `git-playground` branch, type `git checkout master` to go back to your master branch.
+Now you know about how git tracks changes, so it's time to make some changes! Make sure you are on the `master` branch for this.
+
+Type `git checkout -b making-changes` to create a new branch called `making-changes`.
 
 - Using Sublime, open the [my_reflection.md](my_reflection.md) file associated with this challenge
 - Answer the first question in the reflection file - make sure to save your file
@@ -59,21 +61,31 @@ Now you know about how git tracks changes, so it's time to make some changes! Ma
 - Add and commit the changes for my_reflection.md
 - Check the git log to see your commits
 
+Make sure all of your changes are committed before moving on.
+
 ## Release 4: Pushing Changes
 
-Now it's time to make your changes live on GitHub. There are two ways to do this. The first is the faster way, and the second is by [making pull requests](making-pull-requests.md), which is highly favored when working with teams. You can choose which you would like to do. We are outlining the faster version below, but we highly recommend taking a look at the process for making pull requests as well to get a feel for it.
+Now it's time to make your changes live on GitHub. There are two ways to do this. The best practice way is by [making pull requests](making-pull-requests.md), which is highly favored when working with teams. We recommend using it, because you will not be happy with yourself if you push to master at Dev Bootcamp. If any of these steps are confusing look at the link above and hopefully that will help.
 
-Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Pull changes from the remote to your local copy by typing:
+Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Checkout your master branch by typing:
 
-`git pull origin master`  git pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
+`git co master` (if you have the co shortcut working, otherwise write out "checkout")
 
-Since you've been working on the master branch this entire time, it's easy to push changes to the master branch on GitHub. Simply type:
+Pull changes from the remote to your local copy by typing:
 
-`git push origin master`
+`git pull`  git pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
 
-`origin` refers to the remote location (in this case your repository on Github), and `master` is the branch you want to push to.
+Since you've been working on the making-changes branch you'll want to push that branch up to GitHub. Simply type:
 
-Go to your fork on GitHub to see your changes live!
+`git push origin making-changes`
+
+`origin` refers to the remote location (in this case your repository on Github), and `making-changes` is the branch you want to push to.
+
+Go to your fork on GitHub. If you click on "Branches" you should see a `making-changes` branch. Click on that.
+
+Right below the branch name you should see a grey bar. On the right of that bar should be a "pull request" button. Click on that. From here, you should see the base pointing to your Fork's master branch. (base:master). Below that you should see a box to type what you changed and a list of the files that have been changed. Fill in the box with important information - like what you did. Then click "Create Pull Request."
+
+Once created, GitHub will tell you whether your changes can be automatically merged. If they can, you should merge them and delete the branch. If they can't, then you have changes somewhere that are causing conflicts. If this is the case, ask for help on the community.
 
 ## Release 5: Reflect
 Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes!
