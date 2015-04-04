@@ -10,24 +10,26 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 
 ## This Week's Challenges
 
-#### 1. [Think about time](1-think-about-time)
-#### 2. [The Command Line](2-command-line)
-#### 3. [Computer Setup](4-computer-setup)
-#### 4. [GitHub Intro](5-github-intro)
-#### 5. [Forking and Cloning](6-fork-clone)
-#### 6. [Tracking Changes](7-tracking-changes)
-#### 7. [Setting Remotes](8-set-remotes)
-#### 8. [Intermediate Command Line Exploration](3-cli-exploration)
-#### 9. [Your Website](9-new-repo)
-#### 10. [Introduction to Twitter](10-twitter-intro.md)
-#### 11. [Technical Blog](11-technical-blog.md)
-#### 12. [Cultural Blog](12-cultural-blog.md)
-#### 13. [Self Introduction](13-self-introduction.md)
-#### 14. [BONUS CHALLENGES](14-BONUS-Challenges) *Work on these if you have extra time.*
+#### 1. [Think about time](think-about-time)
+#### 2. [The Command Line](command-line)
+#### 3. [Computer Setup](computer-setup)
+#### 4. [GitHub Intro](github-intro)
+#### 5. [Forking and Cloning](fork-clone)
+#### 6. [Tracking Changes](tracking-changes)
+#### 7. [Setting Remotes](set-remotes)
+#### 8. [Intermediate Command Line Exploration](cli-exploration)
+#### 9. [Your Website](new-repo)
+#### 10. [Introduction to Twitter](twitter-intro.md)
+#### 11. [Technical Blog](technical-blog.md)
+#### 12. [Cultural Blog](cultural-blog.md)
+#### 13. [Self Introduction](self-introduction.md)
+#### 14. [BONUS CHALLENGES](BONUS-Challenges) *Work on these if you have extra time.*
+#### 15. [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c) **Mandatory**
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
 
 ## Submitting your work
+- First complete the Week 1 Quiz (link above).
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.
 
