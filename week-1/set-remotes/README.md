@@ -56,4 +56,6 @@ It's important to know that fetching changes will not impact your work at all. G
 <!-- [Merge Conflict](https://www.youtube.com/watch?v=NW9AVnzx1B8)
  -->
 ## Reflect
-In the [my_reflection.md](my_reflection.md) file, answer the questions. Then go through the process of adding your changes, committing, and pushing. You should see your answers live on github!
+Create a new branch and go through the making changes and pull requests process to add your changes to GitHub. 
+
+In the [my_reflection.md](my_reflection.md) file, answer the questions. 
