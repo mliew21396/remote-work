@@ -47,6 +47,14 @@ If that went without error you can now get curl:
 ```shell
 sudo apt-get curl
 ```
+
+If that doesn't work, you may need to try:
+
+```shell
+sudo apt-get install curl
+```
+
+
 Now we are ready to install Rbenv
 
 ## Release 3: get Rbenv
