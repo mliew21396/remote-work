@@ -17,10 +17,10 @@ Before starting, please read Chris Pine's Introduction p. xi - xv. Also, make su
 
 1. [Numbers, Letters, and Variable Assignment](numbers-letters)
 2. [Variables and Methods](methods)
-3. [Flow Control](flow-control)
-4. [Arrays, Iterators, and Hashes](arrays)
-5. [More Methods](more-methods)
-6. [Analyze Errors](analyze-errors)
+3. [Analyze Errors](analyze-errors)
+4. [Flow Control](flow-control)
+5. [Arrays, Iterators, and Hashes](arrays)
+6. [More Methods](more-methods)
 7. [Technical Blog](technical-blog.md)
 8. [Cultural Blog](cultural-blog.md)
 9. [GPS 1.2](gps1-2) **Do not look at this until your guided pairing session!**
