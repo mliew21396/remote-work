@@ -24,7 +24,7 @@ Using the command line, copy the blog-template.html from this directory into you
 
 Because you will use this blog template on your site from now on, you'll want to make it relatively generic in terms of colors, fonts, and other more personal choices. Focus on positioning each HTML element in this challenge based on the wireframe you built with your pair.
 
-In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your [USERNAME].github.io/blog/blog-template.html.
+In your "stylesheets" directory, create a "blog-stylesheet.css" Link to that stylesheet in your [USERNAME].github.io/blog/blog-template.html.
 
 Use CSS to position the content on your blog template. Once you have it displayed as you want, move on to the next release.
 
