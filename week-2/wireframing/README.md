@@ -42,7 +42,7 @@ You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wirefr
 
 ## Release 2: Wireframe your `blog/index.html` Template
 
-When people navigate to your blog from the main index of your [USERNAME].github.io site, you will want them to see a list of your blog posts.
+When people navigate to your blog from the main index of your [USERNAME].github.io site, you will want them to see a list of your blog posts. This will be located at: [USERNAME].github.io/blog/index.html
 
 Wireframe the way you want this landing page to look. Keep in mind, you will have 16 blog posts when you finish Phase 0, so you may want to think about how you want to display your links.
 

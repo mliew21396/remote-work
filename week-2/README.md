@@ -1,8 +1,8 @@
 # Week 2: HTML and CSS
 
-Week 2's curriculum will be released with changes first thing on Monday morning PST.
+<!-- Week 2's curriculum will be released with changes first thing on Monday morning PST. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
 
@@ -17,13 +17,14 @@ Please keep track of the time you are spending on the mandatory sections of the 
 4. [Beginning HTML](beginning-html) **Mandatory Pairing Challenge**
 5. [Beginning CSS](beginning-css) **Mandatory Pairing Challenge**
 6. [Chrome Dev Tools and Positioning](chrome-devtools)
-7. [Create a Blog Template](blog-template)
-8. [Your Own Website - SOLO CHALLENGE!](your-website-solo-challenge)
+7. [Your Own Website - SOLO CHALLENGE!](your-website-solo-challenge)
+8. [Create a Blog Template](blog-template)
 9. [Testing and Maintenance](testing-and-maintenance)
 10. [Technical Blog](technical-blog.md)
 11. [Accountability Groups](accountability-groups.md)
 12. [GPS 1.1](gps1-1) **Do not look at this until your pairing session**
-13. [BONUS challenges](BONUS-challenges)
+13. [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=tnh5528597d1e7db) **Mandatory**
+14. [BONUS challenges](BONUS-challenges)
 
 If you want to request feedback from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
 
@@ -47,4 +48,3 @@ Expectation | Times per Unit | Times per Week
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | 4 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
- -->

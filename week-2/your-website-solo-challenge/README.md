@@ -45,7 +45,7 @@ Remember, your website is a work in progress. Do not deviate from your wireframe
 #### Apply CSS
 Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them.
 
-In your stylesheets directory, add a `default.css` sheet. Using [this document](http://www.basictips.com/using-multiple-external-style-sheets.shtml) as a reference, add the default.css stylesheet to your blog-template.html (and week 1 blogs) so the default.css will be the first stylesheet referenced and will be supplemented by your `blog-stylesheet.css`
+In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. Add a `default.css` sheet. Using [this document](http://www.basictips.com/using-multiple-external-style-sheets.shtml) as a reference, add the default.css stylesheet to your blog-template.html (and week 1 blogs) so the default.css will be the first stylesheet referenced and will be supplemented by your `blog-stylesheet.css` you make later.
 
 In your `default.css` stylesheet:
 - Add styling to your header and footer

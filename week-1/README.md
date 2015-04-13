@@ -23,8 +23,8 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 #### 11. [Technical Blog](technical-blog.md)
 #### 12. [Cultural Blog](cultural-blog.md)
 #### 13. [Self Introduction](self-introduction.md)
-#### 14. [BONUS CHALLENGES](BONUS-Challenges) *Work on these if you have extra time.*
-#### 15. [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory** 
+#### 14. [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory**
+#### 15. [BONUS CHALLENGES](BONUS-Challenges) *Work on these if you have extra time.*
 
 * *Use the email address associated with your DBC accounts*
 
