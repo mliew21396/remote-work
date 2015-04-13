@@ -26,7 +26,7 @@ for others it may not. Both are O.K. Read the following resources below to get b
 
 **Optional**
 - [Design is about solving problems](http://www.smashingmagazine.com/2011/08/24/design-solving-problems/)
-- [Design for performance](https://www.speakerdeck.com/lara/design-for-performance)
+- [Designing for performance](https://speakerdeck.com/lara/designing-for-performance)
 
 ## Release 1: Information Gathering
 The first step in creating a website is defining its purpose and target audience. You must know your site's goals and end users before you can think about its layout or design.
