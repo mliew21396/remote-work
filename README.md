@@ -9,7 +9,7 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. T
 ## Important Tip
 Phase 0 is a remote program, which means there will be a bit of reading required. Be sure to read the README files thoroughly. That's why they are called "README" files (this is an industry standard).
 
-Whenever you encounter a typo or confusing instruction, please make a note of it or direct our attention to it. The curriculum is always being improved, it's not a static or perfect. We want your help to make it better.
+Whenever you encounter a typo or confusing instruction, please make a note of it or direct our attention to it. The curriculum is always being improved; it's not a static or perfect project. We want your help to make it better.
 
 ## Required Books
 You will need to get four books for Phase 0 (and Dev Bootcamp). There are two others that may be useful to you. Some are available for free online, and others will need to be purchased. Please make it a priority to get these books early.
