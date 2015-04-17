@@ -75,3 +75,6 @@ Now you'll want to expand your brain a bit by working on the following exercises
 
 ## Release 5: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
+
+## Release 6: Read (Optional)
+If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md) reading, read chapter 2 on "Objects, methods, and local variables." You'll be glad you did it early!
