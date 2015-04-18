@@ -12,7 +12,7 @@ Please keep track of the time you are spending on the mandatory sections of the 
 
 ## Challenges
 Number | Challenge Name | Est. time (hrs)**
---|----------------|----------
+---|--------------------|----------
 1. | [Cultural Assignment](cultural-assignment.md) | < 1
 2. | [Site Planning](site-planning) | 2
 3. | [Wireframing](wireframing) | 2
