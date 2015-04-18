@@ -20,12 +20,12 @@ Number | Challenge Name | Est. time (hrs)**
 #### 7. |[Setting Remotes](set-remotes) | 1.25
 #### 8. |[Intermediate Command Line Exploration](cli-exploration) | 2
 #### 9. |[Your Website](new-repo) | 1.5
-#### 10.|[Introduction to Twitter](twitter-intro.md) | 1
-#### 11.|[Technical Blog](technical-blog.md) | 1.5
-#### 12.|[Cultural Blog](cultural-blog.md) | 1.5
-#### 13.|[Self Introduction](self-introduction.md) | 1
-#### 14.|[Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory** | N/A
-#### 15.|[BONUS CHALLENGES](BONUS-Challenges) | N/A
+#### 10. |[Introduction to Twitter](twitter-intro.md) | 1
+#### 11. |[Technical Blog](technical-blog.md) | 1.5
+#### 12. |[Cultural Blog](cultural-blog.md) | 1.5
+#### 13. |[Self Introduction](self-introduction.md) | 1
+#### 14. |[Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory** | N/A
+#### 15. |[BONUS CHALLENGES](BONUS-Challenges) | N/A
 
 * *Use the email address associated with your DBC accounts*
 

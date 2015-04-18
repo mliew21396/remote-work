@@ -22,11 +22,11 @@ Number | Challenge Name | Est. time (hrs)**
 7. | [Your Own Website - SOLO CHALLENGE!](your-website-solo-challenge) | 5.75
 8. | [Create a Blog Template](blog-template) | 2.5
 9. | [Testing and Maintenance](testing-and-maintenance) | 1
-10.| [Technical Blog](technical-blog.md) | 1.5
-11.| [Accountability Groups](accountability-groups.md) | N/A
-12.| [GPS 1.1](gps1-1) **Do not look at this until your pairing session** | 1.75
-13.| [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=tnh5528597d1e7db) **Mandatory** | N/A
-14. [BONUS challenges](BONUS-challenges) | N/A
+10. | [Technical Blog](technical-blog.md) | 1.5
+11. | [Accountability Groups](accountability-groups.md) | N/A
+12. | [GPS 1.1](gps1-1) **Do not look at this until your pairing session** | 1.75
+13. | [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=tnh5528597d1e7db) **Mandatory** | N/A
+14. | [BONUS challenges](BONUS-challenges) | N/A
 
 ** Estimated hours are averages from four previous cohorts. We've been trying to get Week 2 down in terms of time commitment, so aim to spend less than these if you can - especially on the Beginning CSS challenge and the Blog Template.
 
