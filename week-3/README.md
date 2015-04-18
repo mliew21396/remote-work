@@ -14,21 +14,21 @@ Some challenges have tests that will help you determine whether you've met the m
 ## Challenges:
 Before starting, please read Chris Pine's Introduction p. xi - xv. The chapters are based on the 2nd edition of the book.
 
-Number | Challenge Name | Est. time (hrs)**
---|----------------|----------
-1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25
-2. | [Variables and Methods](methods) | 1.5
-3. | [Analyze Errors](analyze-errors) | 1.25
-4. | [Flow Control](flow-control) | 2.25
-5. | [Arrays, Iterators, and Hashes](arrays) | 2.5
-6. | [More Methods](more-methods) | 2.25
-7. | [Technical Blog](technical-blog.md) | 1.5
-8. | [Cultural Blog](cultural-blog.md) | 1.25
-9. | [GPS 1.2](gps1-2) **Do not look at this until your guided pairing session!** | 1.75
-10.| [Accountability Groups](accountability-groups.md) | variable
-11.| [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown
-12.| [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=an95531a5ad96c18) | < 1
-12.| [BONUS Challenges](BONUS-challenges)** *Optional* | variable
+|Number | Challenge Name | Est. time (hrs)** |
+|--|----------------|----------|
+| 1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25 |
+| 2. | [Variables and Methods](methods) | 1.5 |
+| 3. | [Analyze Errors](analyze-errors) | 1.25 |
+| 4. | [Flow Control](flow-control) | 2.25 |
+| 5. | [Arrays, Iterators, and Hashes](arrays) | 2.5 |
+| 6. | [More Methods](more-methods) | 2.25 |
+| 7. | [Technical Blog](technical-blog.md) | 1.5 |
+| 8. | [Cultural Blog](cultural-blog.md) | 1.25 |
+| 9. | [GPS 1.2](gps1-2) **Do not look at this until your guided pairing session!** | 1.75 |
+| 10.| [Accountability Groups](accountability-groups.md) | variable |
+| 11.| [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown |
+| 12.| [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=an95531a5ad96c18) | < 1 |
+| 13.| [BONUS Challenges](BONUS-challenges)** *Optional* | variable |
 
 **These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
 
