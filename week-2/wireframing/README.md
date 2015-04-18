@@ -50,7 +50,7 @@ When you finish your wireframe, name it "wireframe-blog-index" and upload it to 
 
 ## Release 3: Display your wireframes
 
-Now that you have your wireframes designed and a digital image of each saved in this directory, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](../2-site-planning) to add both images to your site.
+Now that you have your wireframes designed and a digital image of each saved in this directory, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](../site-planning) to add both images to your site.
 
 ## Release 4: Reflect
 On your local `phase-0-unit-1` repo, navigate to the [my_reflection.md](my_reflection.md) file associated with this challenge and answer the questions by editing the file. Commit your changes and push them to GitHub.
