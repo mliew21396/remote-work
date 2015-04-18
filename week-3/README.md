@@ -15,7 +15,7 @@ If you find yourself getting stuck on terminal errors, please skip to challenge 
 ## Challenges:
 Before starting, please read Chris Pine's Introduction p. xi - xv. The chapters are based on the 2nd edition of the book.
 
-# | Challenge Name | Est. time (hrs)**
+Number | Challenge Name | Est. time (hrs)**
 --|----------------|----------
 1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25
 2. | [Variables and Methods](methods) | 1.5

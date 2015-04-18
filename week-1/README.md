@@ -9,26 +9,27 @@ When you have questions about the instructions or how to do something, are confu
 We do not expect you to peer-pair during week 1. Most of the challenges are difficult to pair on, so pairing can really start in week 2. That is why we expect you to pair less in Unit 1 than the other units.
 
 ## This Week's Challenges
-
-#### 1. [Think about time](think-about-time)
-#### 2. [The Command Line](command-line)
-#### 3. [Computer Setup](computer-setup)
-#### 4. [GitHub Intro](github-intro)
-#### 5. [Forking and Cloning](fork-clone)
-#### 6. [Tracking Changes](tracking-changes)
-#### 7. [Setting Remotes](set-remotes)
-#### 8. [Intermediate Command Line Exploration](cli-exploration)
-#### 9. [Your Website](new-repo)
-#### 10. [Introduction to Twitter](twitter-intro.md)
-#### 11. [Technical Blog](technical-blog.md)
-#### 12. [Cultural Blog](cultural-blog.md)
-#### 13. [Self Introduction](self-introduction.md)
-#### 14. [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory**
-#### 15. [BONUS CHALLENGES](BONUS-Challenges) *Work on these if you have extra time.*
+Number | Challenge Name | Est. time (hrs)**
+--|----------------|----------
+#### 1. |[Think about time](think-about-time) | 2
+#### 2. |[The Command Line](command-line) | 3.5
+#### 3. |[Computer Setup](computer-setup) | 1.75
+#### 4. |[GitHub Intro](github-intro) | 1.5
+#### 5. |[Forking and Cloning](fork-clone) | 1.75
+#### 6. |[Tracking Changes](tracking-changes) | 2
+#### 7. |[Setting Remotes](set-remotes) | 1.25
+#### 8. |[Intermediate Command Line Exploration](cli-exploration) | 2
+#### 9. |[Your Website](new-repo) | 1.5
+#### 10.|[Introduction to Twitter](twitter-intro.md) | 1
+#### 11.|[Technical Blog](technical-blog.md) | 1.5
+#### 12.|[Cultural Blog](cultural-blog.md) | 1.5
+#### 13.|[Self Introduction](self-introduction.md) | 1
+#### 14.|[Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory** | N/A
+#### 15.|[BONUS CHALLENGES](BONUS-Challenges) | N/A
 
 * *Use the email address associated with your DBC accounts*
 
-This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
+If you want to request feedback on your challenges from your peers, tweet on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
 
 ## Submitting your work
 - First complete the Week 1 Quiz (link above).
