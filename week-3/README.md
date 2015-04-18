@@ -14,7 +14,7 @@ Some challenges have tests that will help you determine whether you've met the m
 ## Challenges:
 Before starting, please read Chris Pine's Introduction p. xi - xv. The chapters are based on the 2nd edition of the book.
 
-Number | Challenge Name | Est. time (hrs)** 
+Number | Challenge Name | Est. time (hrs)**
 -------|----------------|----------
  1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25 |
  2. | [Variables and Methods](methods) | 1.5 |
@@ -30,7 +30,7 @@ Number | Challenge Name | Est. time (hrs)**
  12. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=an95531a5ad96c18) | < 1 |
  13. | [BONUS Challenges](BONUS-challenges)** *Optional* | variable |
 
-**These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
+** These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle of the week or when you're stuck in another challenge.
 
