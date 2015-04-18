@@ -18,7 +18,8 @@ Now that you've used arrays and hashes a bit, it is your chance to fully formali
 Write a blog post that describes and compares arrays and hashes. Be sure to include examples! Learn how to include code snippets for Ruby in html as well so it's beautifully formatted!
 
 ## Release 3: Publish
-Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit and push your changes to GitHub!
+Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit your changes and make a pull request to your repository. Using the GitHub web interface, merge your pull request into your master branch.
+
 
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohort mates using Twitter!

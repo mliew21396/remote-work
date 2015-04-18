@@ -71,10 +71,13 @@ Repeat release 0 and 1 for each error until there are no errors left to assess!
 ## Release 3: Reflect
 Once you've assessed all of the errors, write a reflection (keep it to 10-15 min) in the [my_solution.rb](my_solution.rb) file.
 
+## Release 4: Create a pull Request
+Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
+
 ## Additional Resources
 Check out these links to better understand how errors work in Ruby and how you can "catch" them instead of letting them crash your program.
 
 - [http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/](SKORKS: Ruby Exceptions And Exception Handling)
 - [http://rubylearning.com/satishtalim/ruby_exceptions.html](Rubylearning: Ruby Exceptions)
 - [http://www.tutorialspoint.com/ruby/ruby_exceptions.htm](Tutorialspoint: Ruby Exceptions)
-- *The Well-Grounded Rubyist* by David A. Black ch. 6.4 
+- *The Well-Grounded Rubyist* by David A. Black ch. 6.4

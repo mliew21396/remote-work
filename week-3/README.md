@@ -8,9 +8,8 @@ You'll want to get a copy of Chris Pine's *Learn to Program, 2nd edition*. You c
 
 Please go through the challenges in order (as indicated below). Exercises (from the exercises directory) will be referenced in each challenge. Please read through the challenge and complete the exercises as instructed. Also, you should skip Chris Pine's exercises unless specifically asked to complete them.
 
-Some exercises will have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
-
-If you find yourself getting stuck on terminal errors, please skip to challenge 6 so get some practice with error handling. You should be getting Ruby knowledge to know why errors are happening as you progress, but it may be helpful to decipher them.
+### RSpec
+Some challenges have tests that will help you determine whether you've met the minimum requirements in the challenge. These tests have been written using RSpec, a popular testing framework for Ruby. If you want more information on RSpec, read Team Treehouse's [blog post](http://blog.teamtreehouse.com/an-introduction-to-rspec) on it. Please note, you will not be expected to write, or even fully understand RSpec in Phase 0. Focus on the output of the tests, which are designed to be readable and let you know what your code isn't doing that it should. If you have difficulty, please post on the community.
 
 ## Challenges:
 Before starting, please read Chris Pine's Introduction p. xi - xv. The chapters are based on the 2nd edition of the book.
@@ -31,7 +30,7 @@ Number | Challenge Name | Est. time (hrs)**
 12.| [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=an95531a5ad96c18) | < 1
 12.| [BONUS Challenges](BONUS-challenges)** *Optional* | variable
 
-**These length estimates are calculated from past cohort averages. The Well-Grounded Rubyist readings were not attached.
+**These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle of the week or when you're stuck in another challenge.
 

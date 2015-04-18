@@ -24,7 +24,7 @@ Now, contemplate the idea of [growth vs. fixed mindset](http://www.brainpickings
 Address the questions above in your blog post.
 
 ## Release 3: Publish
-Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit and push your changes to GitHub!
+Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit your changes and make a pull request to your repository. Using the GitHub web interface, merge your pull request into your master branch.
 
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
