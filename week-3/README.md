@@ -28,6 +28,7 @@ Number | Challenge Name | Est. time (hrs)**
 9. | [GPS 1.2](gps1-2) **Do not look at this until your guided pairing session!** | 1.75
 10.| [Accountability Groups](accountability-groups.md) | variable
 11.| [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown
+12.| [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=an95531a5ad96c18) | < 1
 12.| [BONUS Challenges](BONUS-challenges)** *Optional* | variable
 
 **These length estimates are calculated from past cohort averages. The Well-Grounded Rubyist readings were not attached.
