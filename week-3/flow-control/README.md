@@ -27,3 +27,10 @@ Note: Reference the [Ruby Docs](http://ruby-doc.org/core-2.0.0/) (It's easier if
 
 ## Release 2: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
+
+## Release 3: Create a pull Request
+Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
+
+## Release 4: Read (Optional)
+If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md) reading, read chapter 6 on "Control-Flow Techniques." You'll be glad you did it early!
+

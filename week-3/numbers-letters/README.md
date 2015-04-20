@@ -56,6 +56,13 @@ Navigate to the following directories within this folder. Each has a README with
 - [Simple String Methods](../exercises/2-simple-string-methods)
 - [Local Variables and Basic Arithmetical Operations](../exercises/3-local-variables)
 
-
 ## Release 6: Reflect
 Using the [Reflection Guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md), reflect on what you learned. Write your response in the "Reflection" section of your my_solution.md file.
+
+## Release 7: Create a pull Request
+Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
+
+## Release 8: Read (Optional)
+If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md)  reading, read chapter 1 on Bootstrapping your Ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts early. You'll be glad you read this early!
+
+

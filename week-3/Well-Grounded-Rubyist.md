@@ -10,11 +10,9 @@
 - Compare data structures
 
 ## Summary
-[*The Well-Grounded Rubyist*](http://www.manning.com/black3/) by David A. Black is an excellent resource to give you a solid foundation in Ruby. There are currently two editions. The second edition just came out, and we've negotiated a discount code for this edition that will give you 45% off the list price.* The code is: **rubycl14**. We have negotiated this code especially for Dev Bootcamp students.**
+[*The Well-Grounded Rubyist*](http://www.manning.com/black3/) by David A. Black is an excellent resource to give you a solid foundation in Ruby. There are currently two editions. The second edition just came out, and we've negotiated a discount code for this edition that will give you 45% off the list price if you buy it from the publisher.* The code is: **rubycl14**. We have negotiated this code especially for Dev Bootcamp students.** Amazon also offers both versions at competitive prices.
 
-You may also use the first edition if you would like. The second will be relevant longer since it's been updated for Ruby 2.0, but the first edition also has many of the basic fundamentals that will still help.
-
-We highly recommend purchasing a copy of this book to assist you as you move through the Phase 0 and Phase 1 curriculum.
+You may use the first edition if you would like. The second will be relevant longer since it's been updated for Ruby 2.0, but the first edition covers fundamentals.
 
 NOTE: Chapter numbers are based on the 2nd edition of the book.
 
@@ -24,16 +22,17 @@ NOTE: Chapter numbers are based on the 2nd edition of the book.
 
 ## Releases
 
-## Release 0: Bootstrapping your Ruby Literacy
-Read chapter 1 on bootstrapping your Ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts.
+NOTE: I've sprinkled most of this reading into optional releases in challenges to help you read the concepts when they are covered or introduced. If you did that, give yourself a pat on the back for being prepared! If not, you'll want to dive in. The book is not as readable as Chris Pine's, but it has a lot more information so be patient and work through it. So many students have told us there needs to be more emphasis on this reading, so we're emphasizing it for your benefit!
 
-The book is not as readable as Chris Pine's, but it has a lot more information so be patient and work through it.
+## Release 0: Bootstrapping your Ruby Literacy
+Read chapter 1 on Bootstrapping your Ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts.
 
 ## Release 1: Objects, methods, and local variables
 Read chapter 2 on objects, methods, and local variables. This chapter covers objects, which is a really important concept in Ruby, which is an object-oriented language.
 
+
 ## Release 2: Control-Flow Techniques
-Read chapter 6 on control-flow techniques. This should help cement your understanding from this week
+Read chapter 6 on control-flow techniques. This should help cement your understanding from this week.
 
 ## Release 3: More reading
 Read the following sections to solidify other concepts covered this week:
@@ -42,7 +41,7 @@ Read the following sections to solidify other concepts covered this week:
 - 8.1: Working with strings
 - 8.3: Numerical Objects
 - 9.1: Arrays and Hashes in comparison
-- 9.2: Collections handline with arrays
+- 9.2: Collections handling with arrays
 - 9.3: Hashes
 - 9.4: Ranges
 

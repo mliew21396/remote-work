@@ -60,6 +60,18 @@ print_address("Maria Piper", "633 Folsom Street", "San Francisco, CA 94107")
 
 ```
 
+It's worth noting, Pine uses different syntax for methods, but it works just the same. Take the `print_address` method above. It can also be written like this:
+
+```ruby
+# Note the space and lack of parenthesis
+def print_address name, street_address, city_state_zip
+  puts name
+  puts street_address
+  puts city_state_zip
+end
+```
+Some programmers prefer the former, and others prefer the latter. Both are fine.
+
 In the next few exercises, we will be asking you to "wrap" logic into a method.
 
 Now's your chance to practice! Complete the [Define an Empty Method](../exercises/4-defining-method) exercise.
@@ -75,3 +87,9 @@ Now you'll want to expand your brain a bit by working on the following exercises
 
 ## Release 5: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
+
+## Release 6: Create a pull Request
+Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
+
+## Release 7: Read (Optional)
+If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md) reading, read chapter 2 on "Objects, methods, and local variables." You'll be glad you did it early!

@@ -1,33 +1,36 @@
 # Week 3: Introduction to Ruby
 
-Week 3's curriculum will be released with changes first thing on Monday morning PST.
+<!-- Week 3's curriculum will be released with changes first thing on Monday morning PST. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's *Learn to Program, 2nd edition*. You can get this in an instant e-book or paperback format from the publisher or on Amazon. The first version is available online for free. If you choose to use the first version, the chapter numbers will be different and there may be some information that is missing. This week, you will be reading the content in the book and then completing the exercises we assign.
 
 Please go through the challenges in order (as indicated below). Exercises (from the exercises directory) will be referenced in each challenge. Please read through the challenge and complete the exercises as instructed. Also, you should skip Chris Pine's exercises unless specifically asked to complete them.
 
-Some exercises will have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
-
-If you find yourself getting stuck on terminal errors, please skip to challenge 6 so get some practice with error handling. You should be getting Ruby knowledge to know why errors are happening as you progress, but it may be helpful to decipher them.
+### RSpec
+Some challenges have tests that will help you determine whether you've met the minimum requirements in the challenge. These tests have been written using RSpec, a popular testing framework for Ruby. If you want more information on RSpec, read Team Treehouse's [blog post](http://blog.teamtreehouse.com/an-introduction-to-rspec) on it. Please note, you will not be expected to write, or even fully understand RSpec in Phase 0. Focus on the output of the tests, which are designed to be readable and let you know what your code isn't doing that it should. If you have difficulty, please post on the community.
 
 ## Challenges:
-Before starting, please read Chris Pine's Introduction p. xi - xv. Also, make sure to download the 2nd edition of the book so the chapter numbers line up.
+Before starting, please read Chris Pine's Introduction p. xi - xv. The chapters are based on the 2nd edition of the book.
 
-1. [Numbers, Letters, and Variable Assignment](numbers-letters)
-2. [Variables and Methods](methods)
-3. [Analyze Errors](analyze-errors)
-4. [Flow Control](flow-control)
-5. [Arrays, Iterators, and Hashes](arrays)
-6. [More Methods](more-methods)
-7. [Technical Blog](technical-blog.md)
-8. [Cultural Blog](cultural-blog.md)
-9. [GPS 1.2](gps1-2) **Do not look at this until your guided pairing session!**
-10. [Accountability Groups](accountability-groups.md)
-11. [BONUS Challenges](BONUS-challenges)** *Optional*
+Number | Challenge Name | Est. time (hrs)**
+-------|----------------|----------
+ 1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25 |
+ 2. | [Variables and Methods](methods) | 1.5 |
+ 3. | [Analyze Errors](analyze-errors) | 1.25 |
+ 4. | [Flow Control](flow-control) | 2.25 |
+ 5. | [Arrays, Iterators, and Hashes](arrays) | 2.5 |
+ 6. | [More Methods](more-methods) | 2.25 |
+ 7. | [Technical Blog](technical-blog.md) | 1.5 |
+ 8. | [Cultural Blog](cultural-blog.md) | 1.25 |
+ 9. | [GPS 1.2](gps1-2) **Do not look at this until your guided pairing session!** | 1.75 |
+ 10. | [Accountability Groups](accountability-groups.md) | variable |
+ 11. | [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown |
+ 12. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=an95531a5ad96c18) | < 1 |
+ 13. | [BONUS Challenges](BONUS-challenges)** *Optional* | variable |
 
-**We HIGHLY recommend working on the [Well-Grounded Rubyist](BONUS-challenges/Well-Grounded-Rubyist.md) bonus challenge this week if you have time. If you need chapter suggestions in later weeks, please review this challenge.
+** These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle of the week or when you're stuck in another challenge.
 
@@ -52,4 +55,3 @@ Expectation | Times per Unit | Times per Week
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
- -->
