@@ -31,6 +31,9 @@ Challenges will be contained in directories or individual files. You can determi
 Don't overthink the web version of GitHub too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
+
+Here is a youtube video explaining branching in git: [![git branching](../imgs/git-branch-img.jpg)](https://www.youtube.com/watch?v=DXmWPokwmqU)
+
 By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the most ideal version of your code and always working/running properly.
 
 In cases where people want to make changes or add features, they will make a new branch off of the master (using `git co -b branch-name`). This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.

@@ -1,5 +1,9 @@
 # Making Pull Requests
 
+Here is a video detailing the process of creating a branch and pull request: [![Pull request](https://i.ytimg.com/vi/DXmWPokwmqU/mqdefault.jpg)](https://www.youtube.com/watch?v=4nUG-wrH0iA)
+
+The instructions below work in most cases, when working with your phase 0 fork there is an extra step to find your repo to initiate the pull request process.
+
 You can make a new branch at any time, from any branch by typing:
 
 ```shell
@@ -19,6 +23,10 @@ Right below the branch drop-down will be a grey bar that has pull request and co
 ![Pull Request 1](../imgs/pull-request-1.png)
 
 Click on "pull request." This will show you a summary of the files that were changed. At the top, it will show you which branch you are making the pull request on.
+
+**Note** This is where our situation changes from the normal workflow. The below works in most cases. If you can not find your repo you need to change the URL in the URL bar from *github.com/**devbootcamp**/phase-0-unit-1/compare/master...USERNAME:BRANCHNAME?expand=1* to *github.com/**USERNAME**/phase-0-unit-1/compare/master...USERNAME:BRANCHNAME?expand=1*
+
+The following instructions are fine for normal use, due to the number of forks we have on each repo, yours probably does not show up on the drop down menu like normal.
 
 In this scenario we are going to perform a test pull request on ourselves so you can experience both sides of a pull request interaction. At the top, you will see several dropdown boxes. On the left change the first dropdown "base fork" from Devbootcamp/phase-0-unit-1 to your own own base repo username/phase-0-unit-1. Use the search box to find your repo. The second dropdown "base" should be base: master.
 
