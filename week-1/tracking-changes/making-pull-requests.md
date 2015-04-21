@@ -1,6 +1,8 @@
 # Making Pull Requests
 
-Here is a video detailing the process of creating a branch and pull request: [![Pull request](https://i.ytimg.com/vi/DXmWPokwmqU/mqdefault.jpg)](https://www.youtube.com/watch?v=4nUG-wrH0iA)
+Here is a video detailing the process of creating a branch and pull request:
+
+[![Pull request](https://i.ytimg.com/vi/DXmWPokwmqU/mqdefault.jpg)](https://www.youtube.com/watch?v=4nUG-wrH0iA)
 
 The instructions below work in most cases, when working with your phase 0 fork there is an extra step to find your repo to initiate the pull request process.
 

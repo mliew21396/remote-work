@@ -32,7 +32,9 @@ Don't overthink the web version of GitHub too much. It's a very similar structur
 
 #### Branches
 
-Here is a youtube video explaining branching in git: [![git branching](../imgs/git-branch-img.jpg)](https://www.youtube.com/watch?v=DXmWPokwmqU)
+Here is a youtube video explaining branching in git:
+
+[![git branching](../imgs/git-branch-img.jpg)](https://www.youtube.com/watch?v=DXmWPokwmqU)
 
 By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the most ideal version of your code and always working/running properly.
 
