@@ -1,6 +1,6 @@
 # Making Pull Requests
 
-You can make a new branch at any time, from any branch by typing:
+In the [tracking changes challenge](README.md), you just pushed up your changes to a remote branch using the following commands:
 
 ```shell
 $ git co -b new-branch-name (replace "new-branch-name" with the name of the branch you want).
@@ -12,7 +12,14 @@ You can then push this branch to GitHub.
 $ git push origin new-branch-name
 ```
 
-This will push your changes from your local machine (origin) to the branch you specified. Now go look at your fork on GitHub. You should be see that branch in the drop-down menu. Click on it.
+Now it's time to create a pull request. First, watch the following video:
+
+[![Pull request](https://i.ytimg.com/vi/DXmWPokwmqU/mqdefault.jpg)](https://www.youtube.com/watch?v=4nUG-wrH0iA)
+
+
+We have also included text instructions below. They work in most cases, when working with your phase 0 unit curriculum forks there is an extra step to find your repo to initiate the pull request process so you don't end up making pull requests to Dev Bootcamp's master repository automatically.
+
+Because you just pushed your changes to GitHub, go look at your fork. You should be see that branch in the drop-down menu. Click on it.
 
 Right below the branch drop-down will be a grey bar that has pull request and compare on the right.
 
@@ -20,9 +27,15 @@ Right below the branch drop-down will be a grey bar that has pull request and co
 
 Click on "pull request." This will show you a summary of the files that were changed. At the top, it will show you which branch you are making the pull request on.
 
-In this scenario we are going to perform a test pull request on ourselves so you can experience both sides of a pull request interaction. At the top, you will see several dropdown boxes. On the left change the first dropdown "base fork" from Devbootcamp/phase-0-unit-1 to your own own base repo username/phase-0-unit-1. Use the search box to find your repo. The second dropdown "base" should be base: master.
+**Note** This is where you'll need to "hack" GitHub to make it work properly and should work in most cases (this deviates from the normal Pull Request workflow). If you can not find your repo you need to change the URL in the URL bar from *github.com/**devbootcamp**/phase-0-unit-1/compare/master...USERNAME:BRANCHNAME?expand=1* to *github.com/**USERNAME**/phase-0-unit-1/compare/master...USERNAME:BRANCHNAME?expand=1*
 
-On the right your first dropdown should be your own fork username/phase-0-unit-1 and second dropdown "compare" should be the new branch you just created, not the master.
+Because there are so many forks of the Phase 0 curriculum, it's unlikely yours shows up in the list. 
+
+Now that you've hacked GitHub, check that it's working properly. 
+
+The "base fork" should point to YOUR-USERNAME/phase-0-unit-1 with base: master.
+
+On the right your first dropdown should be your own fork USERNAME/phase-0-unit-1 where "compare" points to the branch you pushed, not the master.
 
 ![Pull Request DBC](../imgs/pull-request-change-base-fork.png)
 
