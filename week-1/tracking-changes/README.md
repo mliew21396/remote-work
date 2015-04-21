@@ -93,11 +93,7 @@ Since you've been working on the making-changes branch you'll want to push that 
 
 `origin` refers to the remote location (in this case your repository on Github), and `making-changes` is the branch you want to push to.
 
-Go to your fork on GitHub. If you click on "Branches" you should see a `making-changes` branch. Click on that.
-
-Right below the branch name you should see a grey bar. On the right of that bar should be a "pull request" button. Click on that. From here, you should see the base pointing to your Fork's master branch. (base:master). Below that you should see a box to type what you changed and a list of the files that have been changed. Fill in the box with important information - like what you did. Then click "Create Pull Request."
-
-Once created, GitHub will tell you whether your changes can be automatically merged. If they can, you should merge them and delete the branch. If they can't, then you have changes somewhere that are causing conflicts. If this is the case, ask for help on the community.
+Then follow the directions on [Making Pull Requests](making-pull-requests.md) to merge  your changes into the master branch.
 
 ## Release 5: Reflect
 Now that you have pushed your changes once, go through it again to add your reflection. You'll want to start off every challenge by creating a new branch. 
