@@ -1,10 +1,6 @@
 # Making Pull Requests
 
-In the [tracking changes challenge](README.md), you just pushed up your changes to a remote branch using the following commands:
-
-```shell
-$ git co -b new-branch-name (replace "new-branch-name" with the name of the branch you want).
-```
+In the [tracking changes challenge](README.md), you just pushed up your changes to a remote branch using the following command:
 
 You can then push this branch to GitHub.
 
