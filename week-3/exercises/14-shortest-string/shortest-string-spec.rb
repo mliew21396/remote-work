@@ -13,7 +13,7 @@ describe 'shortest_string' do
     expect(shortest_string(['cat'])).to eq 'cat'
   end
 
-  it "returns the 'zzzzzzz' with the example array" do
+  it "returns 'cat' with the example array" do
     expect(shortest_string(['cat', 'zzzzzzz', 'apples'])).to eq 'cat'
   end
 
