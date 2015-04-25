@@ -25,7 +25,7 @@ Number | Name | Est. time (hrs)**
 11. | [Technical Blog](technical-blog.md) | 1.5
 12. | [Cultural Blog](cultural-blog.md) | 1.5
 13. | [Self Introduction](self-introduction.md) | 1
-14. | [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=rm4553a877665e05)* **(Mandatory - Use DBC email)** | < 1
+14. | [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=rm4553a877665e05) (**Mandatory** - Use DBC email address) | < 1
 15. | [Sign up](https://phase0.devbootcamp.com/) for GPS 1.1 | N/A
 16. | [BONUS CHALLENGES](BONUS-Challenges) *(Optional)* | N/A
 
