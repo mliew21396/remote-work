@@ -8,10 +8,11 @@ When you have questions about the instructions or how to do something, are confu
 
 We do not expect you to peer-pair during week 1. Most of the challenges are difficult to pair on, so pairing can really start in week 2. That is why we expect you to pair less in Unit 1 than the other units.
 
-## This Week's Challenges
-Number | Challenge Name | Est. time (hrs)**
+## Tasks and Challenges
+
+Number | Name | Est. time (hrs)**
 -------|-------------------|----------
-1. | [Think about time](think-about-time) | 2
+1. | [Think about Time](think-about-time) | 2
 2. | [The Command Line](command-line) | 3.5
 3. | [Computer Setup](computer-setup) | 1.75
 4. | [GitHub Intro](github-intro) | 1.5
@@ -24,10 +25,11 @@ Number | Challenge Name | Est. time (hrs)**
 11. | [Technical Blog](technical-blog.md) | 1.5
 12. | [Cultural Blog](cultural-blog.md) | 1.5
 13. | [Self Introduction](self-introduction.md) | 1
-14. | [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=xkn551f34857155c)* **Mandatory** | N/A
-15. | [BONUS CHALLENGES](BONUS-Challenges) | N/A
+14. | [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=rm4553a877665e05)* **(Mandatory - Use DBC email)** | < 1
+15. | [Sign up](https://phase0.devbootcamp.com/) for GPS 1.1 | N/A
+16. | [BONUS CHALLENGES](BONUS-Challenges) *(Optional)* | N/A
 
-* *Use the email address associated with your DBC accounts*
+** Estimated hours are averages from four previous cohorts.
 
 If you want to request feedback on your challenges from your peers, tweet on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
 
