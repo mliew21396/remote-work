@@ -11,7 +11,8 @@ It's important to start recognizing when you are spending too much time on a cha
 Please keep track of the time you are spending on the mandatory sections of the challenges for your final week submission form so we can assess the amount of work we are assigning.
 
 ## Tasks and Challenges
-Number | Challenge Name | Est. time (hrs)**
+
+Number | Name | Est. time (hrs)**
 ---|--------------------|----------
 1. | [Cultural Assignment](cultural-assignment.md) | < 1
 2. | [Site Planning](site-planning) | 2
