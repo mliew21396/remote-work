@@ -1,9 +1,14 @@
 # GPS 1.1 Git work flow and branching
 
 ## Learning Competencies
-- Establish a git workflow
+- Use git from the terminal
+- Fork and clone a repository
+- Add and commit messages
+- Outline a git workflow
+- Submit and review a pull request
 - Explain what a git branch is and its purpose
-- Demonstrate the ability to research for debugging or to better understand concepts
+- Merge branches together
+- Resolve a merge conflict
 
 
 ## Summary
@@ -16,7 +21,7 @@ Make sure that you use all the resources available to you, your pair, the git do
 
 ## Release 0: Create your repo
 
-Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a readme amd add the MIT license. If open source licensing is all Greek to you, read [this article](http://choosealicense.com/) after the session.
+Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a README and add the MIT license. If open source licensing is all Greek to you, read [this article](http://choosealicense.com/) after the session.
 
 Navigate to the settings of the repo (right side of the page). Add your pair as a collaborator on this project so they can push to the repo.
 

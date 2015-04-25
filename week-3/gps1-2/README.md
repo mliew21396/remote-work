@@ -5,11 +5,13 @@
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR GUIDED PAIRING SESSION!!**
 
 ## Learning Competencies
-  - Wireframe a website based on requirements
-  - Explain the purpose of different HTML elements
-  - Link a CSS stylesheet to an HTML file
-  - Apply CSS to position elements on an HTML page
-  - Explain the difference between margin, padding, and border
+- Wireframe a website based on requirements
+- Link to the CSS stylesheet from the Unit 1 Repository
+- Evaluate existing HTML tags such as `<DOCTYPE>`,`<title>`, `<charset>` and the version of HTML
+- Compare different HTML elements to one another
+- Apply CSS to position and manipulate elements on an HTML page
+- Explain the difference between margin, padding, and border
+- Dress up the page by incorporating fonts, colors, images, and general design using CSS
 
 ## Summary
 In this GPS you'll be reviewing git, HTML, and CSS all in one! You will be using existing HTML from GitHub's [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf), evaluating the HTML, and positioning the elements using CSS.
