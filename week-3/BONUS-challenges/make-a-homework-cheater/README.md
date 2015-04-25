@@ -75,5 +75,5 @@ Commit and push your solution to GitHub.
 ## Great Job!
 Shikibu Murasaki and Tokugawa Ieyasu congratulate you on your fine essay!
 
-![Murasaki](../imgs/murasaki.jpg)
-![Ieyasu](../imgs/ieyasu.png)
+![Murasaki](../../imgs/murasaki.jpg)
+![Ieyasu](../../imgs/ieyasu.png)
