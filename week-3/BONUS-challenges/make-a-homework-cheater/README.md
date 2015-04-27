@@ -19,11 +19,17 @@ def essay_writer(title, topic, date, thesis_statment, pronoun)
   # Your awesome code here!
 end
 
-japanese_history = ["The First Shogun", "Tokugawa Ieyasu", 1603, "His most important contribution to history is that he founded the Tokugawa period, a peaceful time that lasted over 200 years.", male]
+japanese_history_1 = ["The First Novelist", "Shikibu Murasaki", 1000, "She wrote the world's first novel, the Tale of Genji, between 1000 and 1012 and was a lady-in-waiting in the Heian Imperial court.", female]
 
-essay_writer(japanese_history) #=> this will output the text below, which I've saved as a variable `my_award_winning_essay`
+japanese_history_2 = ["The First Shogun", "Tokugawa Ieyasu", 1603, "His most important contribution to history is that he founded the Tokugawa period, a peaceful time that lasted over 200 years.", male]
 
-my_award_winning_essay = "The First Shogun"
+essay_writer(japanese_history_1) #=> this will output the text below, which I've saved as a variable `my_award_winning_essay_1` and "award_winning_essay_2"
+
+award_winning_essay_1 = "The First Novelist"
+
+"Shikibu Murasaki was an important person in 1000." She did a lot. I want to learn more about her. She wrote the world's first novel, the Tale of Genji, between 1000 and 1012 and was a lady-in-waiting in the Heian Imperial court. Shikibu's contribution is important
+
+award_winning_essay_2 = "The First Shogun"
 
 "Ieyasu Tokugawa was an important person in 1603. He did a lot. I want to learn more about him. His most important contribution to history is that he founded the Tokugawa period, a peaceful time that lasted over 200 years. Tokugawa's contribution is important."
 ```
@@ -65,3 +71,9 @@ See the link for more information about refactoring.
 
 ## Release 6: Publish
 Commit and push your solution to GitHub.
+
+## Great Job!
+Shikibu Murasaki and Tokugawa Ieyasu congratulate you on your fine essays!
+
+![Murasaki](../../imgs/murasaki.jpg)
+![Ieyasu](../../imgs/ieyasu.png)
