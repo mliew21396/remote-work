@@ -22,7 +22,7 @@ After you download, create a symlink so you can open Sublime using `subl "filena
 
 Enter this command into your terminal:
 ```shell
-mkdir ~/bin && echo 'export "$HOME/bin:$PATH"' >> ~/.bash_profile' && ln -s /opt/SublimeText2/sublime_text ~/bin/subl
+mkdir ~/bin && echo 'export "$HOME/bin:$PATH"' >> ~/.bash_profile && ln -s /opt/SublimeText2/sublime_text ~/bin/subl
 ```
 *NOTE:* If you are using Ubuntu or Ubuntu-derived distribution, use `~/.bash_rc` instead of `~/.bash_profile`/
 
