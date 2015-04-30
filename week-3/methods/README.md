@@ -47,15 +47,15 @@ Here is how we can use a method to "wrap" the code. We are changing how the code
 
 ```ruby
 # print_address is a method we've defined
-# print_address takes three arguments (name, street_address, city_state_zip)
+# print_address takes four arguments (name, street_address, city_state, zip)
 
-def print_address(name, street_address, city_state_zip)
+def print_address(name, street_address, city_state, zip)
   puts name
   puts street_address
-  puts city_state_zip
+  puts city_state + zip.to_s  #the zip has been converted to a string
 end
 
-print_address("Maria Piper", "633 Folsom Street", "San Francisco, CA 94107")
+print_address("Maria Piper", "633 Folsom Street", "San Francisco, CA", 94107)
 # this last statement calls the method which will output to the screen
 
 ```
@@ -64,10 +64,10 @@ It's worth noting, Pine uses different syntax for methods, but it works just the
 
 ```ruby
 # Note the space and lack of parenthesis
-def print_address name, street_address, city_state_zip
+def print_address name, street_address, city_state, zip
   puts name
   puts street_address
-  puts city_state_zip
+  puts city_state + zip.to_s
 end
 ```
 Some programmers prefer the former, and others prefer the latter. Both are fine.
