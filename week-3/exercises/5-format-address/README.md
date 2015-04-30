@@ -12,7 +12,7 @@ Create a method called `make_address` that accepts parameters for the `street`, 
 For example if we call the method as follows:
 
 ```ruby
-make_address("633 Folsom St.", "San Francisco", "CA", "94107")
+make_address("633 Folsom St.", "San Francisco", "CA", 94107)
 ```
 
 The return value would be
