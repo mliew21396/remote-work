@@ -25,7 +25,7 @@ end
 #
 # 4. What additional information does the interpreter provide about this type of error?
 #
-# 5. Where is the error highlighted in the code?
+# 5. Where is the error in the code?
 #
 # 6. Why did the interpreter give you this error?
 #
@@ -40,7 +40,7 @@ south_park
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -55,7 +55,7 @@ cartman()
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -74,7 +74,7 @@ cartmans_phrase('I hate Kyle')
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -93,7 +93,7 @@ cartman_says
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -114,7 +114,7 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -129,7 +129,7 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -145,7 +145,7 @@ amount_of_kfc_left = 20/0
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #
@@ -160,7 +160,7 @@ require_relative "cartmans_essay.md"
 #
 # 3. What additional information does the interpreter provide about this type of error?
 #
-# 4. Where is the error highlighted in the code?
+# 4. Where is the error in the code?
 #
 # 5. Why did the interpreter give you this error?
 #

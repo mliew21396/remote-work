@@ -9,6 +9,8 @@
 ## Summary
 You have probably already had your share of seeing error messages pop up in your console, which can be very frustrating. If you've taken a look at the error messages that get returned, it can be difficult to get past the "gobbledygook" to find out what the problem is. In this challenge, you will be encountering errors. The point is to learn how to read each error. If you want to fix it, you can do that as well, the main intent is to learn how to read errors.
 
+The solution file in this challenge is full of code that will raise an error. Your goal is to learn how to read the error messages. This is an invaluable skill, so it's important to get a lot of practice with it now.
+
 ## Releases
 
 ## Release 0: Run your [my_solution.rb](my_solution.rb) in the console using the Ruby interpreter like this:
@@ -48,7 +50,7 @@ Answer the following questions for each error in your [my_solution.rb](my_soluti
 
   **Answer:** The interpreter says it did not expect an "=" sign, rather it expected an $end.
 
-#### 5. Where is the error highlighted in the code?
+#### 5. Where is the error in the code?
   *The interpreter puts an arrow at the location the error occurs, in purple.*
 
   **Answer:** The interpreter did not expect an equals sign between "I'm going home" and cartmans_phrase.
