@@ -8,8 +8,6 @@ This week's material covers web design, HTML, and CSS. You'll even get to build 
 
 It's important to start recognizing when you are spending too much time on a challenge. The solo challenge this week will probably take a lot of time, so be sure to time-box on all your challenges to keep yourself on task and out of rabbit holes!
 
-Please keep track of the time you are spending on the mandatory sections of the challenges for your final week submission form so we can assess the amount of work we are assigning.
-
 ## Tasks and Challenges
 
 Number | Name | Est. time (hrs)**
@@ -33,8 +31,6 @@ Number | Name | Est. time (hrs)**
 ** Estimated hours are averages from four previous cohorts. We've been trying to get Week 2 down in terms of time commitment, so aim to spend less than these if you can - especially on the Beginning CSS challenge and the Blog Template.
 
 If you want to request feedback on your challenges from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
-
-Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
