@@ -1,8 +1,8 @@
 # Week 2: HTML and CSS
 
-Week 2's curriculum will be released with changes first thing on Monday morning PST.
+<!-- Week 2's curriculum will be released with changes first thing on Monday morning PST. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
 
@@ -26,7 +26,7 @@ Number | Name | Est. time (hrs)**
 10. | [Technical Blog](technical-blog.md) | 1.5
 11. | [Accountability Groups](accountability-groups.md) | N/A
 12. | [GPS 1.1](gps1-1) **Do not look at this until your pairing session** | 1.75
-13. | [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=r6b553ae6b8cf9c1) **Mandatory** | 1
+13. | [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=r6b553ae6b8cf9c1) (**Mandatory**) | 1
 14. | [Sign up](https://phase0.devbootcamp.com/) for GPS 1.2 | N/A
 15. | [BONUS challenges](BONUS-challenges) | N/A
 
@@ -54,4 +54,3 @@ Expectation | Times per Unit | Times per Week
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | 4 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
- -->
