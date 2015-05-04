@@ -22,7 +22,7 @@ You can also see a review of these steps [here](fork-clone-steps.md).
 
 ## Release 1: Fork
 
-Now that you have seen it done, put your knowledge to the test. Fork the [phase-0-unit-1](../../) repo into your GitHub account. For good measure, delete your newly-forked repo and fork it again. It is good to walk through the process a couple times to make sure you understand it. If you can do it without referencing the video you are in a good spot.
+Now that you have seen it done, put your knowledge to the test. Fork the [phase-0-unit-1](../../../..) repo into your GitHub account. For good measure, delete your newly-forked repo and fork it again. It is good to walk through the process a couple times to make sure you understand it. If you can do it without referencing the video you are in a good spot.
 
 ## Release 2: Enable Issues
 You will be using issues to give/receive feedback to/from other students in Phase 0. This is a "feature" on GitHub, so it's vital you enable them in your repository.
