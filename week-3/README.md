@@ -27,7 +27,7 @@ Number | Name | Est. time (hrs)**
  9. | [GPS 1.2](gps1-2) **(Do not look at this until your guided pairing session!)** | 1.75 |
  10. | [Accountability Groups](accountability-groups.md) | variable |
  11. | [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown |
- 12. | [Week 3 Quiz]() | < 1 |
+ 12. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=f4c554419f92c67b) | < 1 |
  13. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.1 | N/A
  14. | [BONUS Challenges](BONUS-challenges)** *(Optional)* | variable |
 

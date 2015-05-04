@@ -31,16 +31,20 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 
 You also may want to complete the bonus challenge, [Make a Mood Board](../13-BONUS-challenges/mood-board), to help you solidify your design.
 
-Again, don't get bogged down in your research trying to make your site perfect. Make it acceptable. You should make it a goal to revisit your site each week to add to it.
+Again, don't get bogged down in your research trying to make your site perfect. You aren't a paid designer or front-end developer, so it is unreasonable to expect to make a site that is as beautiful as many of the sites out there. Yours will probably look like it was made in the early 2000s (unless you have previous design experience), so make it acceptable and be kind to yourself and where you are in your learning. You should make it a goal to revisit your site each week to add to it.
 
 ## Release 2: Development
 
-#### Add Content using HTML
-Using your wireframes and design ideas as references, add content to your index.html page in your [USERNAME].github.io site using HTML. You may want to focus on using HTML5 semantic elements instead of `<div>`s. Take a moment to look through the [HTML5 Document Outlines](http://html5doctor.com/outlines/). You can also use the [HTML5 Tutorial](http://www.w3schools.com/html/html5_intro.asp) on w3schools.
+#### Create your index.html page
+Using your wireframe and design ideas as references, add content to your index.html page in your [USERNAME].github.io site using HTML. You may want to focus on using HTML5 semantic elements instead of `<div>`s. Take a moment to look through the [HTML5 Document Outlines](http://html5doctor.com/outlines/). You can also use the [HTML5 Tutorial](http://www.w3schools.com/html/html5_intro.asp) on w3schools. Try to use the HTML5 semantic elements. They are far more readable, and HTML5 has a ton of built in awesomeness that you can start exploring. This is the new standard -- so it's good to get practice with it.
 
-Once you have all of the content on your index, make sure your HTML passes validation by running it in through a [validator](http://validator.w3.org/#validate_by_input). When it passes validation, you are ready to create your blog/index.html file. Be sure to add links to your week 1 blog posts! Be sure this HTML passes validation as well.
+Once you have all of the content on your index, make sure your HTML passes validation by running it in through a [validator](http://validator.w3.org/#validate_by_input).
 
-Remember, your website is a work in progress. Do not deviate from your wireframes until you've built your MVP. As we often say at DBC, "Done is better than perfect."
+#### Create the blog/index.html page
+
+Now you are ready to create your blog/index.html file. This is where all of your blog posts will be linked from. Be sure to add links to your week 1 blog posts! Check your code through an HTML validator to make sure it passes validation before moving on.
+
+Remember, your website is a work in progress. Do not deviate from your wireframes until you've built your MVP (unless your wireframes are too complicated, then it's fine to simplify them). As we often say at DBC, "Done is better than perfect."
 
 #### Apply CSS
 Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them.

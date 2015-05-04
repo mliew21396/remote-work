@@ -34,6 +34,8 @@ Before you pair, go through Release 0 by yourself. Then get together with your p
 ```
 CSS is in between the `<style>` tags. You'll learn about using CSS in the next challenge.
 
+Codecademy does a good job teaching the basics of HTML, but it doesn't really cover semantic elements added to HTML5. Try to use the semantic elements that make sense. You can learn about them in the [HTML5 Introduction at w3schools.org](http://www.w3schools.com/html/html5_intro.asp).
+
 ## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!
 

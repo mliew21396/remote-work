@@ -48,9 +48,19 @@ Wireframe the way you want this landing page to look. Keep in mind, you will hav
 
 When you finish your wireframe, name it "wireframe-blog-index" and upload it to this directory as well.
 
-## Release 3: Display your wireframes
+## Release 3: Wireframe your blog posts
+
+If you looked at your blog from week 1 on GitHub, it probably didn't strike you as particularly pretty, so you'll also want to consider how you will want each of your posts to look. How do you want to integrate them with your main site?
+
+Design a wireframe for an individual post. You'll create the CSS to do this in a later challenge.
+
+When you finish your wireframe, name it "wireframe-blogs" and upload it to this directory as well.
+
+Remember to keep the wireframe fairly simple for now. You can always add to it later.
+
+## Release 4: Display your wireframes
 
 Now that you have your wireframes designed and a digital image of each saved in this directory, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](../site-planning) to add both images to your site.
 
-## Release 4: Reflect
+## Release 5: Reflect
 On your local `phase-0-unit-1` repo, navigate to the [my_reflection.md](my_reflection.md) file associated with this challenge and answer the questions by editing the file. Commit your changes and push them to GitHub.

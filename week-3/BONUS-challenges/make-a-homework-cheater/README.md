@@ -15,7 +15,7 @@ In this challenge, you will create a program that will output something to turn 
 For example:
 
 ```ruby
-def essay_writer(title, topic, date, thesis_statment, pronoun)
+def essay_writer(title, topic, date, thesis_statement, pronoun)
   # Your awesome code here!
 end
 
