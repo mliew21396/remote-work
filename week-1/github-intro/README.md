@@ -66,7 +66,7 @@ A commit is a snapshot of your code that you can go back to at any time. I like 
 
 ![repository-commits-2](../imgs/repository-commits-2.png)
 
-We will talk more about commits in the [tracking changes](../7-tracking-changes) challenge.
+We will talk more about commits in the [tracking changes](../tracking-changes) challenge.
 
 ## Release 1: What is git?
 
