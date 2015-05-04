@@ -34,7 +34,7 @@ If you have done this correctly, you should be able to open files from the comma
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
 ## Release 1: Install Chocolatey
-Now lets install our package manager to get the libraries we need.
+Now let's install our package manager to get the libraries we need.
 
 Chocolatey works like howbrew for mac or apt-get for linux. We download this program and say:
 
