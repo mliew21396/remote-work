@@ -1,6 +1,6 @@
 # 2: Intermediate Command Line Exploration
 
-Answer the following prompts to reflect on your learning. Keep track of your answers because you'll be asked to add them to this document in challenge [6: Tracking Changes](../tracking-changes).
+Answer the following prompts to reflect on your learning. When you finish, add, commit, and make a pull request for your changes.
 
 1. Summarize the reasons you would use command line tools.
 
