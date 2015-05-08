@@ -95,9 +95,9 @@ large applications the _depth_ of your directory tree can get quite long.
 
 Recall our teletype machines. You won't be able to cut and paste a directory.
 It would be great if the operating system could help you remember the stops you
-made during your traversal. Let's experiment. `cd` into the
-`pushd_popd_ville` directory. NOTE: All of these directories already exist in 
-the challenge.
+made during your traversal. Let's experiment. Navigate to your fork of the
+`phase-0-unit-1` repository on your computer. then `cd` through the directories into the
+`pushd_popd_ville` directory.
 
 ### Pushd-Popd-Vile
 
