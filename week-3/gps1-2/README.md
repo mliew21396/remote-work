@@ -24,6 +24,8 @@ First, you'll want to create a wireframe. In this wireframe, you will want to dr
 - 2 Columns for content
 - a Footer
 
+The goal of this challenge is to create an simple version of the cheat sheet, **not** an exact replica (because that would be insanely difficult). It is simply to position the content in a similar manner using the wireframe requirements above.
+
 If you want to use a collaborative drawing site, you can use [Precursor](https://prcrsr.com/) or [flockdraw](http://flockdraw.com) (It's like a collaborative version of MSPaint). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share).
 
 ## Release 1: HTML
@@ -42,7 +44,7 @@ Navigate to the gps1-2.html file and copy everything **between the `<body>` tags
 
 
 ## Release 2: Position the Elements
-Now's the time to position all of the HTML elements based on the wireframe you created. Use CSS as much as possible. It's considered bad practice to incorporate styling into HTML tags.
+Now's the time to position all of the HTML elements based on the wireframe you created. Use CSS as much as possible. It's considered bad practice to incorporate styling into HTML tags. Use CSS only to create the two columns. You will not need to add anything to the HTML to do this.
 
 HINT: Add `background-color` to each element to see where each element is to help you position them.
 
