@@ -85,7 +85,7 @@ it is often better and more accurate to make better use of Unix tools.
 Further, in the context of interviewing, knowing how to use the Unix operating
 system to produce the right answer without having to do a bunch of massaging,
 formatting, cutting and pasting, and other inefficient work is a distinguishing
-mark. Let's meet these power-tools: elegant weapons of a more civilized time.
+mark. Let's meet these power-tools: elegant weapons of a more advanced time.
 
 ## Release 2: `pushd` and `popd`
 
@@ -96,7 +96,8 @@ large applications the _depth_ of your directory tree can get quite long.
 Recall our teletype machines. You won't be able to cut and paste a directory.
 It would be great if the operating system could help you remember the stops you
 made during your traversal. Let's experiment. `cd` into the
-`pushd_popd_ville` directory.
+`pushd_popd_ville` directory. NOTE: All of these directories already exist in 
+the challenge.
 
 ### Pushd-Popd-Vile
 
@@ -215,21 +216,6 @@ Why don't you try `find . -name message.txt`?
 
 Cool! Here are all the files that match this pattern. You can use wildcards (*)
 too.
-
-<!-- Why don't you try `find . -name m*.txt`?
-
-This won't work. If you're going to use wildcards you need to escape the
-special character *.  What the shell sees is:
-
-`find . -name malpha
-alpha2
-been
-carol
-jeannie
-larry_tate
-winestore-db-dump.sql`
-
-And that is not a string that matches any file name. -->
 
 Why don't you try `find . -name "m*.txt"`?
 
