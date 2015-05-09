@@ -51,5 +51,5 @@ In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](htt
 ## Release 4: Create a pull Request
 Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
 
-## Release 5: Read (Optional)
-If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md) reading, read chapter 9 on "Collection and Container Objects." You've already done the Hash reading so you might as well keep going!
+## Release 5: Read
+Read chapter 9 in *Well-Grounded Rubyist* on "Collection and Container Objects."

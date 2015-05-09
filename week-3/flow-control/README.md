@@ -31,6 +31,6 @@ In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](htt
 ## Release 3: Create a pull Request
 Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
 
-## Release 4: Read (Optional)
-If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md) reading, read chapter 6 on "Control-Flow Techniques." You'll be glad you did it early!
+## Release 4: Read
+Read chapter 6 in the *Well-Grounded Rubyist* on "Control-Flow Techniques." Remember to focus on skimming and working to deepen your understanding of what you've already learned!
 

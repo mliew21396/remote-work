@@ -62,7 +62,7 @@ Using the [Reflection Guidelines](https://github.com/Devbootcamp/phase-0-handboo
 ## Release 7: Create a pull Request
 Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
 
-## Release 8: Read (Optional)
-If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md)  reading, read chapter 1 on Bootstrapping your Ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts early. You'll be glad you read this early!
+## Release 8: Read
+Read chapter 1 in the *Well-Grounded Rubyist* on Bootstrapping your Ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts early. Try skimming the book. You don't need to have all of this information memorized, rather, use it to deepen the understanding you've already started gleaning from your work in the challenges.
 
 
