@@ -74,7 +74,11 @@ Some programmers prefer the former, and others prefer the latter. Both are fine.
 
 In the next few exercises, we will be asking you to "wrap" logic into a method.
 
-Now's your chance to practice! Complete the [Define an Empty Method](../exercises/4-defining-method) exercise.
+Now's your chance to practice! Complete the [Define an Empty Method](../exercises/4-defining-method) exercise. NOTE: In the earlier challenges, the RSpec was included in the file itself. We did that out of necessity, it's not great practice. For all challenges after the first three, you will need to run the tests using the following:
+
+`rspec spec-file-name.spec` #using the filename of the spec file.
+
+If you run the tests properly, there will always be a number of tests listed. If it says "0 examples, 0 failures", you probably ran the my_solution file rather than the spec file, so re-run it with the spec file.
 
 ## Release 3: Read Ch. 6: More About Methods
 Read through the entire chapter to get a better feel for the built-in methods Ruby has. (There are a LOT more, by the way).
@@ -91,5 +95,5 @@ In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](htt
 ## Release 6: Create a pull Request
 Add and commit your changes, then make a pull request to your fork. Using the GitHub web interface, merge your pull request into your fork's master branch.
 
-## Release 7: Read (Optional)
-If you want to get a head start on the [*Well-Grounded Rubyist*](../Well-Grounded-Rubyist.md) reading, read chapter 2 on "Objects, methods, and local variables." You'll be glad you did it early!
+## Release 7: Read
+Read chapter 2 of *Well-Grounded Rubyist* on "Objects, methods, and local variables." Remember, it's not about memorizing, rather we want you to deepen your understanding of what you've already learned.
