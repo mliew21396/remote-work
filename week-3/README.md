@@ -1,8 +1,8 @@
 # Week 3: Introduction to Ruby
 
-<!-- Week 3's curriculum will be released with changes first thing on Monday morning PST. -->
+Week 3's curriculum will be released with changes by 10:00am PST on Monday morning.
 
-It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's *Learn to Program, 2nd edition*. You can get this in an instant e-book or paperback format from the publisher or on Amazon. The first version is available online for free. If you choose to use the first version, the chapter numbers will be different and there may be some information that is missing. This week, you will be reading the content in the book and then completing the exercises we assign. You will also be reading a lot of material from the *Well-Grounded Rubyist* this week. Focus on skimming this material as best as you can while working to deepen the learnings you've gained from the challenges.
 
@@ -27,7 +27,7 @@ Number | Name | Est. time (hrs)**
  9. | [GPS 1.2](gps1-2) **(Do not look at this until your guided pairing session!)** | 1.75 |
  10. | [Accountability Groups](accountability-groups.md) | variable |
  11. | [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown |
- 12. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=f4c554419f92c67b) | < 1 |
+ 12. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=d3755567500cbb96) | < 1 |
  13. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.1 | N/A
  14. | [BONUS Challenges](BONUS-challenges)** *(Optional)* | variable |
 
@@ -56,3 +56,4 @@ Expectation | Times per Unit | Times per Week
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
+ -->
