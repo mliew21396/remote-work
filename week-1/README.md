@@ -13,19 +13,19 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 Number | Name | Est. time (hrs)**
 -------|-------------------|----------
 1. | [Think about Time](think-about-time) | 2
-2. | [The Command Line](command-line) | 3.5
+2. | [The Command Line](command-line) | 3.75
 3. | [Computer Setup](computer-setup) | 1.75
 4. | [GitHub Intro](github-intro) | 1.5
 5. | [Forking and Cloning](fork-clone) | 1.75
-6. | [Tracking Changes](tracking-changes) | 2
+6. | [Tracking Changes](tracking-changes) | 2.25
 7. | [Setting Remotes](set-remotes) | 1.25
-8. | [Intermediate Command Line Exploration](cli-exploration) | 2
+8. | [Intermediate Command Line Exploration](cli-exploration) | 2.25
 9. | [Your Website](new-repo) | 1.5
 10. | [Introduction to Twitter](twitter-intro.md) | 1
-11. | [Technical Blog](technical-blog.md) | 1.5
+11. | [Technical Blog](technical-blog.md) | 1.75
 12. | [Cultural Blog](cultural-blog.md) | 1.5
 13. | [Self Introduction](self-introduction.md) | 1
-14. | [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=rm4553a877665e05) (**Mandatory** - Use DBC email address) | < 1
+14. | [Week 1 Quiz](https://www.classmarker.com/online-test/start/?quiz=3jj555674aa62014) (**Mandatory** - Use DBC email address) | < 1
 15. | [Sign up](https://phase0.devbootcamp.com/) for GPS 1.1 | N/A
 16. | [BONUS CHALLENGES](BONUS-Challenges) *(Optional)* | N/A
 

@@ -59,6 +59,11 @@ The act itself of following another user on Twitter is pretty easy, but creating
 - [@fogus](https://twitter.com/@fogus) - Michael Fogus: functional programmer, speaker, author of Joy of Clojure and Functional JavaScript. I worked with him on Himera: http://himera.herokuapp.com/index.html
 - [@rachelnabors](https://twitter.com/@rachelnabors) - Rachel Nabors: designer/front-end developer, CSS animation wizard.
 - [@davehoover](https://twitter.com/@davehoover) - co-founder Dev Bootcamp, author, apprenticeship dude
+- [Coraline Ada Ehmke](https://twitter.com/@CoralineAda) - Ruby Rogues panelist, speaker, and mentor
+- [Sandi Metz](https://twitter.com/sandimetz) - Author of *Practical Object-Oriented Design in Ruby* and speaker
+- [Rebecca Miller-Webster](https://twitter.com/rmillerwebster) - Former Dev Bootcamp instructor, now director of Thoughtbot Chicago.
+- [Jen Myers](https://twitter.com/antiheroine) - Director of Open Source Curriculum at Pluralsight, advisor of girldevelopit, conference speaker, and former Dev Bootcamp instructor
+
 
 A few things to note about following people on Twitter. Instead of the act of “mutual friending” Twitter allows for you to follow anyone that has a public profile with no obligation to follow back.
 

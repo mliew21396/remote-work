@@ -10,10 +10,10 @@ If you have already set up your computer with a dev environment, please make sur
 
 NOTE: These instructions assume you have a "clean" environment and don't have anything funky going on in your system. It should go smoothly if you start with a clean slate, but it may take significantly more time if you have set up a dev environment before. Also, some of the commands will change the way your terminal and sublime look, so be prepared for that. You can always change it back if you would prefer. If you install the dotfiles, it will change your path and overwrite any manual configurations you had.
 
-If you run into installation problems, please join [office hours](https://phase0.devbootcamp.com/office_hours) to ask a guide or request a tutoring session (use the [tutoring request form](http://apply.devbootcamp.com)). Our guides are not experts at computer set up, that is a different skill, but they should help you at least google your way to a solution. Due to the many differences in environments, it's impossible to create perfect instructions for everyone.
+If you run into installation problems, please join [office hours](https://phase0.devbootcamp.com/office_hours) to ask a guide or request a tutoring session (use the [tutoring request form](http://apply.devbootcamp.com)). Our guides are not experts at computer set up, that is a different skill, but they should help you at least Google your way to a solution. Due to the many differences in environments, it's impossible to create perfect instructions for everyone or even estimate what errors you will run into on your system.
 
 - [Linux](linux-instructions.md)
 - [Mac](mac-instructions.md)
 - [Windows](windows-instructions.md)**
 
-**Dev Bootcamp does not provide technical support for Windows beyond these instructions. If students are interested in learning about how to use a different shell, the learning for that is up to them. The instructors at DBC have most experience with Mac, and we use Macs on site.
+**Dev Bootcamp does not provide technical support for Windows beyond these instructions. If students are interested in learning about how to use a different shell, the learning for that is up to them. The instructors at DBC have most experience with Mac, and we use Macs on site. We highly recommend creating a virtual machine and doing Phase 0 in Linux since the commands are more similar.
