@@ -14,7 +14,7 @@
 - Dress up the page by incorporating fonts, colors, images, and general design using CSS
 
 ## Summary
-In this GPS you'll be reviewing git, HTML, and CSS all in one! You will be using existing HTML from GitHub's [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf), evaluating the HTML, and positioning the elements using CSS.
+In this GPS you'll be reviewing git, HTML, and CSS all in one! Your goal is to make a simple webpage using a two-column layout. You'll also want a header and footer. The code was adapted from GitHub's [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
 
 **Don't forget to check in!**
 
@@ -24,7 +24,7 @@ First, you'll want to create a wireframe. In this wireframe, you will want to dr
 - 2 Columns for content
 - a Footer
 
-The goal of this challenge is to create an simple version of the cheat sheet, **not** an exact replica (because that would be insanely difficult). It is simply to position the content in a similar manner using the wireframe requirements above.
+The goal of this challenge is to create an simple cheat sheet, **not** a replica of GitHub's PDF. Simply position the content using the wireframe requirements above.
 
 If you want to use a collaborative drawing site, you can use [Precursor](https://prcrsr.com/) or [flockdraw](http://flockdraw.com) (It's like a collaborative version of MSPaint). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share).
 
