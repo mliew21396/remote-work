@@ -14,7 +14,7 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 ## Release 0: Read someone else's reflections
 
-Log on to [Socrates](https://socrates.devbootcamp.com/) and look at your cohort. Find the person after you in the cohort list. Click on their name. On their profile, you should see their GitHub username. Type in the following URL:
+Log on to the [Phase 0 App](https://phase0.devbootcamp.com/cohort) to view your cohort. Find the person after you in the cohort list. Below their picture, you should see their name and their GitHub name. Type in the following URL:
 
 https://github.com/[THEIR-USERNAME]/phase-0-unit-1
 
