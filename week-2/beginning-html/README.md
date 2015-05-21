@@ -34,10 +34,10 @@ Before you pair, go through Release 0 by yourself. Then get together with your p
 ```
 CSS is in between the `<style>` tags. You'll learn about using CSS in the next challenge.
 
-Codecademy does a good job teaching the basics of HTML, but it doesn't really cover semantic elements added to HTML5. Try to use the semantic elements that make sense. You can learn about them in the [HTML5 Introduction at w3schools.org](http://www.w3schools.com/html/html5_intro.asp).
+Codecademy does a good job teaching the basics of HTML, but it doesn't really cover semantic elements added to HTML5. Try to use the semantic elements that make sense. There are a few references to consider in the "Additional Resources" section below.
 
 ## Release 1: Set up your HTML Page
-It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!
+It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. If you need help or want guidance, browse the resources listed at the bottom of the challenge. Don't forget your closing tags!
 
 Note: You can view your HTML page at any time by opening the file in a browser.
 
@@ -48,7 +48,7 @@ Now it's time to add the fun stuff. You don't need to point to the correct URL i
 
 Consider whether you want to use a table, list, or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
 
-You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-css) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
+You don't need to worry about formatting the site since you will be adding it in the [next](../beginning-css) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
 
 ![unformatted berkshire](../imgs/unformatted-berkshire.png)
 
@@ -61,6 +61,9 @@ Answer the reflection questions on the [my_reflection.md](my_reflection.md) file
 Commit your changes for each file in this challenge, and push your changes to github.
 
 ## Additional Resources:
+- [HTML5 Introduction at w3schools.org](http://www.w3schools.com/html/html5_intro.asp)
+- [HTML5 outlines](http://html5doctor.com/outlines/)
+- [HTML5 Style Guide](http://www.w3schools.com/html/html5_syntax.asp)
 - [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
 - w3schools.com: [HTML4 and HTML5 Tutorial](http://www.w3schools.com/html/) This is a great site for looking up syntax!
 - [Beginners guide to HTML and CSS](http://learn.shayhowe.com/html-css/)
