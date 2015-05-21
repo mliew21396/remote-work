@@ -38,7 +38,7 @@ The index is the homepage of your site. It's the page you will land on if you ty
 
 You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) or draw it on paper and take a picture of it. Make sure to save an image of your wireframe and name it "wireframe-index." (it can be saved as png, jpg, etc.) If you drew it on paper, take a picture and upload it to this directory (week-2/3-wireframing)! Remember, wireframes don't need to be beautiful, they can be very simple as long as they get the idea of what you want your site to look like.
 
-**PLEASE NOTE:** Don't worry about actually creating any of these pages using HTML yet. You'll do that in your solo challenge.
+**PLEASE NOTE:** Don't worry about actually creating any of these pages using HTML yet. You'll do that later.
 
 ## Release 2: Wireframe your `blog/index.html` Template
 
