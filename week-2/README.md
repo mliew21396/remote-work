@@ -21,11 +21,10 @@ Number | Name | Est. time (hrs)**
 7. | [Chrome Dev Tools and Positioning](chrome-devtools) | 2.5
 8. | [Your Own Website - SOLO CHALLENGE!](your-website-solo-challenge) | 5.75
 9. | [Create a Blog Template](blog-template) | 2.5
-10. | [Testing and Maintenance](testing-and-maintenance) | 1
-11. | [Technical Blog](technical-blog.md) | 1.5
-12. | [Accountability Groups](accountability-groups.md) | N/A
-13. | [GPS 1.1](gps1-1) **Do not look at this until your pairing session** | 1.75
-14. | [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=xqk555674d944f58) (**Mandatory**) | 1
+10. | [Technical Blog](technical-blog.md) | 1.5
+11. | [Accountability Groups](accountability-groups.md) | N/A
+12. | [GPS 1.1](gps1-1) **Do not look at this until your pairing session** | 1.75
+13. | [Week 2 Quiz](https://www.classmarker.com/online-test/start/?quiz=xqk555674d944f58) (**Mandatory**) | 1
 15. | [Sign up](https://phase0.devbootcamp.com/) for GPS 1.2 | N/A
 16. | [BONUS challenges](BONUS-challenges) | N/A
 

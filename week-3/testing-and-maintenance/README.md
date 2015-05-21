@@ -1,4 +1,6 @@
-# U1.W2. Testing and Maintenance
+[Week 3 Home](../)
+
+# U1.W3: Blog Revisited: Testing and Maintenance
 
 ## Learning Competencies
 - Apply testing metrics to determine whether a site is working properly
