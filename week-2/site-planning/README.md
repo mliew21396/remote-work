@@ -43,6 +43,8 @@ You'll definitely want to include:
   - Your projects
   - Anything else you want to include
 
+You will not be incorporating all of these elements this week. You will add to your site throughout Phase 0.
+
 ## Release 2: Site Plan Reflection
 
 Based on your research above, navigate to the [my_reflection.md](my_reflection.md) page for this challenge to answer questions in the Site Planning section.
@@ -55,9 +57,9 @@ Site maps should be reflections of your site. So if you have a simple site with 
 
 ![site map](../imgs/sitemap.png)
 
-Now you'll create a site map for your site! You can draw the map, though you are also welcome to use tools such as Adobe Photoshop, [WriteMaps](http://www.writemaps.com), or [Slickplan](http://www.slickplan.com).
+Now you'll create a site map for your site! You can draw the map on paper, though you are also welcome to use tools such as Adobe Photoshop, [WriteMaps](http://www.writemaps.com), or [Slickplan](http://www.slickplan.com).
 
-For now, your site map will probably be really simple -- maybe an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website.
+For now, your site map will probably be really simple -- an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website.
 
 ## Release 4: Add your Site Map
 You'll want to save a copy of your site map as "site-map" and add it to your [my_reflection.md](my_reflection.md) file using the following commands.
