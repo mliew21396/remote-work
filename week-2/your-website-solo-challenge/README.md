@@ -12,9 +12,9 @@
 
 ## Summary
 
-In this challenge, you will make your [USERNAME].github.io site using the principles of design, site map, wireframe, and HTML and CSS you've learned this far. You may not use Bootstrap or any other design framework for your site.
+In this mega challenge, you will make your [USERNAME].github.io site using the principles of design, site map, wireframe, and HTML and CSS you've learned this far. You may not use Bootstrap or any other design framework for your site.
 
-Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be making improvements each week as an assignment. This is an MVP (Minimum Viable Product). Designing and building a site can take a **LONG TIME**, so just get your site "good enough." You can always make it better later!
+Get creative. Have fun, but be conscious of time. This site will be a work in progress, so you should timebox each release. You will be making improvements each week as an assignment. This version is your MVP (Minimum Viable Product).
 
 Pomodoro is a common and effective timeboxing and productivity technique that we can use in this exercise. Basically you do 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](http://www.moosti.com). Take a second and estimate how many units you want to work on each section, and see where you are by the end. Then you can decide if you want to continue adding more time. You will be improving your website as you go through the program. Don't burn out now!
 
