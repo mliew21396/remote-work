@@ -24,12 +24,13 @@ Number | Name | Est. time (hrs)**
  6. | [More Methods](more-methods) | 2.25 |
  7. | [Technical Blog](technical-blog.md) | 1.5 |
  8. | [Cultural Blog](cultural-blog.md) | 1.25 |
- 9. | [GPS 1.2](gps1-2) **(Do not look at this until your guided pairing session!)** | 1.75 |
- 10. | [Accountability Groups](accountability-groups.md) | variable |
- 11. | [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown |
- 12. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=d3755567500cbb96) | < 1 |
- 13. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.1 | N/A
- 14. | [BONUS Challenges](BONUS-challenges)** *(Optional)* | variable |
+ 9. | [Blog Revisited: Testing and Maintenance](testing-and-maintenance) | 1
+ 10.| [GPS 1.2](gps1-2) **(Do not look at this until your guided pairing session!)** | 1.75 |
+ 11. | [Accountability Groups](accountability-groups.md) | variable |
+ 12. | [*Well-Grounded Rubyist* Reading](Well-Grounded-Rubyist.md) | unknown |
+ 13. | [Week 3 Quiz](https://www.classmarker.com/online-test/start/?quiz=d3755567500cbb96) | < 1 |
+ 14. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.1 | N/A
+ 15. | [BONUS Challenges](BONUS-challenges)** *(Optional)* | variable |
 
 ** These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
 

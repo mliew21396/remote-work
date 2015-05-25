@@ -22,23 +22,21 @@ It's easy to go down a rabbit hole while wireframing, so keep it simple and time
 ## Release 0: Intro to Wireframing
 
 - Read: [A Beginners Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
-- Read: [Beyond Wireframing: Real Life UX Design Process (Optional)](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
-
+- OPTIONAL READ: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
 ## Release 1: Wireframe your site's index
 The index is the homepage of your site. It's the page you will land on if you type in [USERNAME].github.io into the browser so it's important it makes a good first impression. Consider how you want the index to look. You will be using this site to promote yourself when you finish Dev Bootcamp, so at the very least, you should have a header, footer, and navigation bar. You'll probably also want to include places for the following:
 
   - Links to your social networks (Twitter, Facebook, LinkedIn, Quora, GitHub etc.)
   - Your picture
-  - Your contact information
-  - Link to your blog
-  - About me
-  - Your projects
-  - Anything else you want to include
+  - Link to your contact information
+  - Link to your blog/index.html page
+  - Link to "About me"
+  - Link to "Your projects"
 
 You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) or draw it on paper and take a picture of it. Make sure to save an image of your wireframe and name it "wireframe-index." (it can be saved as png, jpg, etc.) If you drew it on paper, take a picture and upload it to this directory (week-2/3-wireframing)! Remember, wireframes don't need to be beautiful, they can be very simple as long as they get the idea of what you want your site to look like.
 
-**PLEASE NOTE:** Don't worry about actually creating any of these pages using HTML yet. You'll do that in your solo challenge.
+**PLEASE NOTE:** Don't worry about actually creating any of these pages using HTML yet. You'll do that later.
 
 ## Release 2: Wireframe your `blog/index.html` Template
 
@@ -60,7 +58,7 @@ Remember to keep the wireframe fairly simple for now. You can always add to it l
 
 ## Release 4: Display your wireframes
 
-Now that you have your wireframes designed and a digital image of each saved in this directory, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](../site-planning) to add both images to your site.
+Now that you have your wireframes designed and a digital image of each saved in this directory, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](../site-planning) to add the images to your site.
 
 ## Release 5: Reflect
 On your local `phase-0-unit-1` repo, navigate to the [my_reflection.md](my_reflection.md) file associated with this challenge and answer the questions by editing the file. Commit your changes and push them to GitHub.
