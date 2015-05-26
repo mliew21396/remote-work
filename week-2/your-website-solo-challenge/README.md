@@ -22,7 +22,7 @@ Pomodoro is a common and effective timeboxing and productivity technique that we
 
 ## Release 0: Review your Wireframes
 
-Knowing what you know about HTML and CSS, review your the wireframes you created for your index.html, blog/index.html, and blog-template pages in [3-wireframing](../3-wireframing). Do you need to make any changes based on what you've learned so far? If so, make the changes and upload your new wireframes to this directory.
+Knowing what you know about HTML and CSS, review your the wireframes you created for your index.html, blog/index.html, and blog-template pages in the [wireframing](../wireframing) challenge. Do you need to make any changes based on what you've learned so far? If so, make the changes and upload your new wireframes to this directory.
 
 You don't want to get horribly stuck on making this complicated, so if you have a pretty complicated wireframe, you may want to make it a little simpler.
 
@@ -32,7 +32,7 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 - [Adobe Color CC](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
 
-You also may want to complete the bonus challenge, [Make a Mood Board](../13-BONUS-challenges/mood-board), to help you solidify your design.
+You also may want to complete the bonus challenge, [Make a Mood Board](../BONUS-challenges/mood-board), to help you solidify your design.
 
 Again, don't get bogged down in your research trying to make your site perfect. You aren't a paid designer or front-end developer, so it is unreasonable to expect to make a site that is as beautiful as many of the sites out there. Yours will probably look like it was made in the early 2000s (unless you have previous design experience), so make it acceptable and be kind to yourself and where you are in your learning. You should make it a goal to revisit your site each week to add to it.
 
