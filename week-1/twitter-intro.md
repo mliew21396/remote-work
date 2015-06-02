@@ -6,7 +6,7 @@
 - Follow, listen, and learn from industry leaders about relevant trends
 - Frame discussions, links, and images in a meaningful and engaging way
 - Ask questions and start conversations with people in the community
-- Use twitter to contact companies with user experience and bug issues
+- Use Twitter to contact companies with user experience and bug issues
 
 ## Summary
 
