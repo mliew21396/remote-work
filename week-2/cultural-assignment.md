@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Practice sharing vulnerability with the people in your cohort
-- Identify your biggest fear
+- Identify your fear about attending Dev Bootcamp
 - Describe what you would tell your friend if they shared a fear with you
 
 ## Release 0: Consider the question:
