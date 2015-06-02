@@ -36,7 +36,7 @@ If you want to request feedback on your challenges from your peers, tweet on Twi
 ## Submitting your work
 - First complete the Week 1 Quiz (link above).
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
-- The week's work is due each Sunday by 11:59pm.
+- The week's work is due each Monday by 10:00am PST.
 
 **If you do not finish by the deadline:**
 - Complete the Unit 1 extension request. (You only get one extension for Unit 1)
