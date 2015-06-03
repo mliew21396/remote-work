@@ -61,7 +61,7 @@ Now we are ready to install Rbenv
 
 Rbenv will be your Ruby version manager. Gems will get installed there and will use its copies of Ruby over the system Ruby. Yay!
 
-Digital Ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04). This will also handle installing nodejs. Make sure that you install Ruby 2.2.2 instead of 1.9.3-p392.
+Digital Ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04). This will also handle installing nodejs and git. Make sure that you install Ruby 2.2.2 instead of 1.9.3-p392.
 
 Also the step to open the .bashrc and fix the path is done in Release 4 so no need to complete those steps during this release.
 
