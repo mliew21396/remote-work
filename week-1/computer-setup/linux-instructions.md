@@ -106,7 +106,7 @@ git config --global core.editor "subl -w"
 ## Release 8: Install Node
 Node allows you to run Javascript in your terminal.
 
-You should have installed this when installing Rbenv if yo used the digital ocean guide.
+You should have installed this when installing Rbenv if you used the digital ocean guide.
 
 Test by typing:
 
