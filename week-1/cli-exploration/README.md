@@ -13,7 +13,7 @@
 ## Summary
 You may have already forgotten a bunch of what you learned in the first command line
 challenge, so here is the chance to refresh your understanding and practice using the
-more complicated commands. 
+more complicated commands.
 
 Most modern web-stack development occurs on operating systems that are modeled
 on or which use the paradigms of the Unix operating system. Invented in 1969
@@ -99,6 +99,8 @@ made during your traversal. Let's experiment. Navigate to your fork of the
 `phase-0-unit-1` repository on your computer. then `cd` through the directories into the
 `pushd_popd_ville` directory.
 
+Again, if you have questions about this topic, please look them up to get help. Remember, a lot of what we are trying to teach you is how to research.
+
 ### Pushd-Popd-Vile
 
 Imagine a town where we need to visit the following services in the following
@@ -114,7 +116,7 @@ We need to visit the following directories in this order:
 - `bank`
 - `vegetarian_burger_joint`
 
-And in each one `touch` a file called "visited." Visit each directory using
+And in each one `touch` a file called "visited." (`touch` creates a new file in the directory). Visit each directory using
 `pushd` and touch a file called `visited`. When you're done, change back
 (`pushd`!) to the `pushd_popd_ville` root and run the script `./head_home`.
 
