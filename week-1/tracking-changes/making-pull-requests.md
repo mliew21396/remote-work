@@ -1,5 +1,7 @@
 # Making Pull Requests
 
+FYI, you MUST be on a feature branch to create a pull request. Pushing to master will automatically merge the changes to your master branch, so a pull request would not be necessary. This is the "bad practice" we were referring to in the [tracking changes challenge](README.md), so please don't do it.
+
 In the [tracking changes challenge](README.md), you just pushed up your changes to a remote branch using the following command:
 
 You can then push this branch to GitHub.
@@ -25,9 +27,9 @@ Click on "pull request." This will show you a summary of the files that were cha
 
 **Note** This is where you'll need to "hack" GitHub to make it work properly and should work in most cases (this deviates from the normal Pull Request workflow). If you can not find your repo you need to change the URL in the URL bar from *github.com/**devbootcamp**/phase-0-unit-1/compare/master...USERNAME:BRANCHNAME?expand=1* to *github.com/**USERNAME**/phase-0-unit-1/compare/master...USERNAME:BRANCHNAME?expand=1*
 
-Because there are so many forks of the Phase 0 curriculum, it's unlikely yours shows up in the list. 
+Because there are so many forks of the Phase 0 curriculum, it's unlikely yours shows up in the list.
 
-Now that you've hacked GitHub, check that it's working properly. 
+Now that you've hacked GitHub, check that it's working properly.
 
 The "base fork" should point to YOUR-USERNAME/phase-0-unit-1 with base: master.
 

@@ -8,6 +8,7 @@
 - Demonstrate best practices for commit messages
 - Describe the three states of a file in git (working, staged, commit)
 - Outline the process from creating a change to a commit
+- Create and merge a pull request
 
 ## Summary
 
@@ -47,7 +48,7 @@ HEAD is the commit you are currently on, HEAD^ is the last commit, HEAD~3, HEAD~
 
 ## Release 3: Make Changes
 
-Now you know about how git tracks changes, so it's time to make some changes! Make sure you are on the `master` branch for this.
+Now you know about how git tracks changes, so it's time to make some changes to practice! First, make sure you are on the master branch before you begin.
 
 Type `git checkout -b making-changes` to create a new branch called `making-changes`.
 
@@ -65,38 +66,43 @@ Make sure all of your changes are committed before moving on.
 
 ## Release 4: Pushing Changes
 
-Now it's time to make your changes live on GitHub. There are two ways to do this, but we aren't going to cover the easiest one because it's bad practice and we've had feedback from students that it should not be included in the curriculum.
+Now it's time to make your changes live on GitHub. There are two ways to do this, but we aren't going to cover the easiest one because it's bad practice and we've had feedback from students that it should not be included in the curriculum. **Follow these instructions carefully.**
 
-The best practice way is by making pull requests, which is highly favored when working with teams. We recommend using it, because you will not be happy with yourself if you push to master at Dev Bootcamp. If any of these steps are confusing look at the link above and hopefully that will help.
+The best practice way is by making feature branches and pull requests, which is highly favored when working with teams. We recommend using this process, because you will not be happy with yourself if you push to master at Dev Bootcamp.
 
-Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Checkout your master branch by typing:
+Before you can push your changes up to your fork on GitHub, you'll want to make sure you don't have different versions of your repository locally and remotely. To do this, checkout your master branch by typing:
 
 `git co master` (if you have the co shortcut working, otherwise write out "checkout")
 
 Pull changes from the remote to your local copy by typing:
 
-`git pull`  git pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
+`git pull`  git pull fetches changes from the remote repository and merges them. You can also fetch and merge separately if you prefer. If it says it was already up to date, you had no changes to pull. If it pulled them, you should now see all of the changes that were on the remote repository on yours.
 
-Now that you have the changes, you'll need to merge them into your `making-changes` branch. 
+Now that you have the changes, you'll need to merge them into your `making-changes` branch.
 
-Navigate to that branch by typing:
+Navigate to your `making-changes` branch by typing:
 `git co making-changes`
 
 Then merge the branches by typing:
 `git merge master`
 
-This will merge the changes. Sometimes it will pop up a window in Sublime, if this happens, you should update the first line with the reason for the merge, save, and then close the tab. That will allow them to merge. 
+This merges changes into your feature branch. If you have any merge conflicts, they will probably arise here. If you need help resolving it, checkout office hours.
 
-Since you've been working on the making-changes branch you'll want to push that branch up to GitHub. Simply type:
+This will merge the changes. Sometimes it will pop up a window in Sublime, if this happens, you should update the first line with the reason for the merge, save, and then close the tab. That will allow them to merge.
+
+Now you'll want to push a copy of your `making-changes` branch up to your fork on GitHub.Simply type:
 
 `git push origin making-changes`
-
-`origin` refers to the remote location (in this case your repository on Github), and `making-changes` is the branch you want to push to.
+This pushes the changes from your local copy to the remote repository on GitHub. `origin` refers to the remote location (in this case your repository on Github), and `making-changes` is the branch you want to push to.
 
 Then follow the directions on [Making Pull Requests](making-pull-requests.md) to merge  your changes into the master branch.
 
+This was probably confusing because it's pretty weird. If you have questions about any of these commands, please do a bit of research on them to get some clarity. As you go through Phase 0, this process will become easier, so trust in the repetition!
+
+**In the future, whenever you start a challenge, you should create a new branch and push to that branch. When you finish the challenge, push the changes and make a pull request. Merge the pull request before moving on to the next challenge.**
+
 ## Release 5: Reflect
-Now that you have pushed your changes once, go through it again to add your reflection. You'll want to start off every challenge by creating a new branch. 
+Now that you have pushed your changes once, go through it again to add your reflection. You'll want to start off every challenge by creating a new branch.
 
 Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes, make a pull request, and merge it!
 

@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# U1.W1: Set up a repository
+# U1.W1: A New Repository for your Website
 
 ## Learning Competencies
 - Create a new repository
