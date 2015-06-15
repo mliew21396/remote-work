@@ -29,7 +29,7 @@ for others it may not. Both are O.K. Read the following resources below to get b
 - [Designing for performance](https://speakerdeck.com/lara/designing-for-performance)
 
 ## Release 1: Information Gathering
-The first step in creating a website is defining its purpose and target audience. You must know your site's goals and end users before you can think about its layout or design.
+The first step in creating a website is defining its purpose and target audience. You must know your site's goals and end users before you can think about its layout or design. Your website in Phase 0 will be about you and will be a start to your professional website you'll need when you look for jobs.
 
 In this unit, you'll be creating your own Phase 0 website where you'll post your weekly blog entries. It will be used after you graduate as a portfolio, so think about what content you'd like to see on there.
 
@@ -68,7 +68,7 @@ Use the command line for each step below:
   1. Navigate to the week-2/imgs directory
   2. Move your "site-map" image to the imgs directory.
 
-Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
+Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge (This will require you to link to the path to the file).
 
   HINT: You can either reference markdown's documentation or look at the way images are used in this repo.
 
