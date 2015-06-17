@@ -1,6 +1,6 @@
 ## 2. Site Planning Reflection
 
-#### I spent [#] hours on this challenge.
+#### I spent 1.5 hours on this challenge.
 
 ### Site planning
 
