@@ -23,7 +23,7 @@ The user would ideally click through my portfolio and learn a little about me.
 
 Your site map:
 
-[Personal Site Site-Map](../imgs/site-map.png)
+![Personal Site Site-Map](../imgs/site-map.png)
 
 - What did you learn about design and user experience?
 - Do you like design and user experience? Was it fun planning your site and creating a site map? (If you hated it, that's OK too)
