@@ -6,9 +6,11 @@
 
 Include images of your wireframe (inline, using markdown) below:
 
-Blog Template Wireframe:
+Index Wireframe: ![Index Wireframe](wireframe-index.png)
 
-Index Wireframe:
+Blog Template Wireframe: ![Blog Template Wireframe](blog/wireframe-blog-index.png)
+
+Blog Post Wireframe: ![Blog Post WireFrame](blog/wireframe-blogs.png)
 
 ***
 
@@ -21,5 +23,5 @@ Index Wireframe:
 - Which parts of the challenge did you enjoy?
 - Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+Wireframing was fun. I enjoyed adjusting the webpage visually. I kept revising my wireframe after I saw my inital layout. I wondered how other people used wireframe so I googled sample wireframes. I'm still not sure which is the best wireframe tool, but I'll have to try out more. Each wireframe tool is definitely it's own getting used to. I feel strong about basic wireframing from this lesson. I used Mockingbird, but specifically not being able to copy and paste between the pages was annoying.
 
