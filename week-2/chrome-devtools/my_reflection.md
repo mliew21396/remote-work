@@ -1,40 +1,41 @@
 # 7. Chrome Dev Tools Challenge Reflection
 
-#### I spent [#] hours on this challenge.
+#### I spent 1.5 hours on this challenge.
 
 ## Release 2: Positioning
 
 #### 1. Change the Colors
-<!-- Add the screenshot here -->
+![Change the Colors](../imgs/Change_the_Colors.png)
 
 #### 2. Column
-<!-- Add the screenshot here -->
+![Column](../imgs/Column.png)
 
 #### 3. Row
-<!-- Add the screenshot here -->
+![Row](../imgs/Row.png)
 
 #### 4. Make Equidistant
-<!-- Add the screenshot here -->
+![Make Equidistant](../imgs/Make_Equidistant.png)
 
 #### 5. Squares
-<!-- Add the screenshot here -->
+![Squares](../imgs/Squares.png)
 
 #### 6. Footer
-<!-- Add the screenshot here -->
+![Footer](../imgs/Footer.png)
 
 #### 7. Header
-<!-- Add the screenshot here -->
+![Header](../imgs/Header.png)
 
 #### 8. Sidebar
-<!-- Add the screenshot here -->
+![Sidebar](../imgs/Sidebar.png)
 
 #### 9. Get Creative
-<!-- Add the screenshot here -->
+![Get Creative](../imgs/Get_Creative.png)
 
 
 ## Release 3: Reflection
 Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to help frame your reflection.
-<!-- Remember, reflections should only take about 10-15 minutes to write -->
+
+This challenge was mildly difficult. The position and display attributes and how they interact was the most challenging. Trial and error was truely the best way to figure them out though. I used google to fill in gaps I wasn't sure about. I feel pretty confident about the DOM now, though I'm still shaky with positioning such as relative and static.
 
 
 
