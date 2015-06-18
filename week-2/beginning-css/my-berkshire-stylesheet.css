@@ -1,3 +1,79 @@
 html {
-  background-color: red;
+  color: #000080;
+  background: #ffffff;
+}
+
+a {
+  color: #800080;
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+li {
+  font-size: 0.5em;
+  float: left;
+  width: 50%;
+}
+
+li a {
+  font-size: 2em;
+}
+
+.border_bottom {
+  border-bottom: 1px solid black;
+}
+
+.geico {
+  float: none;
+  border-top: 1px solid black;
+  line-height: 200%;
+}
+
+img {
+  display: inline;
+  margin: 0 50% -1.7% 50%;
+}
+
+#clear {
+  clear: both;
+}
+
+aside p {
+  text-align: center;
+  line-height: 30%;
+  font-size: 0.5em;
+}
+
+aside {
+  padding-bottom: 1em;
+}
+
+comment {
+  font-size: 0.5em;
+}
+
+/*HEADER*/
+header {
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+}
+
+header div {
+  display: block;
+}
+
+.F_letter {
+  font-size: 2em;
+}
+
+.inc {
+  font-size: 0.75em;
+}
+
+.small {
+  font-size: 0.5em;
+  display: block;
 }
