@@ -38,6 +38,14 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W3.** Only other DBC students can actually see your repositories because they are private.
 
+## Video Resources
+- [Debugging: Common Ruby Error Messages](https://talks.devbootcamp.com/debugging-common-ruby-error-messages)
+- [Introduction to Pseudocode](https://talks.devbootcamp.com/introduction-to-pseudocode)
+- [Algorithms: Iteration and Recursion](https://talks.devbootcamp.com/algorithms-iteration-and-recursion)
+  -We don't cover recursion in Phase 0, but the information in Iteration in here is really useful.
+- [RSpec Intro](https://talks.devbootcamp.com/rspec-intro-1)
+  - This will give some context on RSpec, but you won't be writing RSpec tests in Phase 0. It will give you good context into what's going on when you run tests, however.
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due Monday by 10:00am PST.
