@@ -20,16 +20,16 @@ It's time to test your code. First, open up your site in the browser and make su
 Then go through and make sure all of your CSS and HTML is operating like you imagined. For example, if you're using the :hover pseudo-element, make sure that it's manifesting correctly on the page.
 
 ## Release 2: Create a Maintenance Schedule
+You'll be adding sections to your website throughout the rest of Phase 0 (including this week), and you may want to also use the time to incorporate other changes on your wish list.
 
-While it's possible to build a website and then never touch it again, that doesn't make for the best site (You saw Berkshire Hathaway's example of that!). It's important that you constantly update your site to reflect new feedback and any new features you want to incorporate.
-
-Design a schedule strictly for website maintenance. Either add it in written form to your [my_reflection.md](my_reflection.md) file or take a picture of it and add it to the file. Include a time limit for how much you will spend each time you work on it. (Then hold yourself to that).
-
-You should try to revisit your site at least once per unit. In Unit 3 you get the chance to make it over for a challenge, so keep that in mind.
+Design a schedule for the rest of Phase 0 strictly for website maintenance based on what you would like to change. Either add it in written form to your [my_reflection.md](my_reflection.md) file or take a picture of it and add it to the file. Include a time limit for how much you will spend each time you work on it. (Then hold yourself to that).
 
 As you work with your site, you may find that some weeks you won't spend the entire time you blocked off. That's ok -- as you work more and more on your site, you will fall into a rhythm of maintenance that works for you.
 
-## Release 3: Reflect
+## Release 3: Improve
+Work on the task you identified for this week and be sure to keep it within the guidelines!
+
+## Release 4: Reflect
 Add your reflection to the [my_reflection.md](my_reflection.md) file.
 
 ## BONUS: Check Your Page Load
