@@ -42,7 +42,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W
 - [Debugging: Common Ruby Error Messages](https://talks.devbootcamp.com/debugging-common-ruby-error-messages)
 - [Introduction to Pseudocode](https://talks.devbootcamp.com/introduction-to-pseudocode)
 - [Algorithms: Iteration and Recursion](https://talks.devbootcamp.com/algorithms-iteration-and-recursion)
-  -We don't cover recursion in Phase 0, but the information in Iteration in here is really useful.
+  - We don't cover recursion in Phase 0, but the information in Iteration in here is really useful.
 - [RSpec Intro](https://talks.devbootcamp.com/rspec-intro-1)
   - This will give some context on RSpec, but you won't be writing RSpec tests in Phase 0. It will give you good context into what's going on when you run tests, however.
 
