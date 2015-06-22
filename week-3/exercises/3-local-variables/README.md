@@ -9,7 +9,7 @@
 ## Summary
 Create two integer variables called `num1` and `num2` and assign them your favorite numbers.
 
-Next, compute the sum, difference, quotient, product, and modulus of these two numbers and assign these values to variables called `sum`, `difference`, `quotient`, `product`, and `modulus`, respectively. Read Pine's chapter 6.4 for help with `modulus`. 
+Next, compute the sum, difference, quotient, product, and modulus of these two numbers and assign these values to variables called `sum`, `difference`, `quotient`, `product`, and `modulus`, respectively. Read Pine's chapter 6.4 for help with `modulus`.
 
 For the quotient, be sure to convert the variables to `Floats` before dividing.
 
@@ -24,7 +24,7 @@ Code your solution in the [my_solution.rb](my_solution.rb) file.
 ## Release 2: Test
 Run the tests to make sure your code passes!
 
-Remember, type `rspec` followed by the spec file name (and make sure you are in the proper directory).
+For the first few of exercises only, type `rspec my_solution.rb` to run the tests. (Make sure you are in the proper directory).
 
 ## Release 3: Refactor
 Make any necessary changes based on the tests. Then run the tests again.

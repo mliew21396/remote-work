@@ -22,7 +22,7 @@ Read/Watch both of the following resources to get some background on the DOM (Do
 First, read through Release 2 below to see what we're going to ask you to do in Chrome Dev Tools. Then, you can either jump in if you want to just try it out, or skim through Google Chrome's Introduction on [Editing Styles And The DOM](https://developer.chrome.com/devtools/docs/dom-and-styles) to get a brief intro.
 
 ## Release 2: Practice
-Now open [css-positioning.html](css-positioning.html) in Google Chrome.  For this release you will use CSS in DevTools to change the position and size of each of the boxes according to the exercise instructions. There are different ways to do each exercise. Using Dev Tools will help you practice (but don't expect to be a pro when you finish this exercise)! **DO NOT MODIFY ANY HTML TO COMPLETE ANY OF THESE EXERCISES.**
+Now open the [css-positioning.html](css-positioning.html) file (from your local repository on your computer) in Google Chrome.  For this release you will use CSS in DevTools to change the position and size of each of the boxes according to the exercise instructions. There are different ways to do each exercise. Using Dev Tools will help you practice (but don't expect to be a pro when you finish this exercise)! **DO NOT MODIFY ANY HTML TO COMPLETE ANY OF THESE EXERCISES.**
 
 We have provided screen shots as examples of how the page should look when you've completed each exercise. You will need to take a screen shot of each completed exercise to include in your [my_reflection.md](my_reflection.md) file.
 **Refresh your page after each exercise to start each exercise from a fresh slate.**
