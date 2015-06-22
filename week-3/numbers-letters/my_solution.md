@@ -31,7 +31,4 @@ puts 60*24*365*10
 
 ## Reflection
 
-<!-- Write your reflection here. Use the Reflection Guidelines for help framing your reflection.
-
-https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md
- -->
+Reading Learn to Program's first 4 chapters was informative. I learned syntax since I have some experience with JS and PHP. For syntax questions outside the scope of reading, I googled. I learned about the cool to_f method which forces a number to a float. I feel pretty strong with this material.
