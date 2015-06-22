@@ -1,8 +1,8 @@
 # Week 3: Introduction to Ruby
 
-Week 3's curriculum will be released with changes by 10:00am PST on Monday morning.
+<!-- Week 3's curriculum will be released with changes by 10:00am PST on Monday morning. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's *Learn to Program, 2nd edition*. You can get this in an instant e-book or paperback format from the publisher or on Amazon. The first version is available online for free. If you choose to use the first version, the chapter numbers will be different and there may be some information that is missing. This week, you will be reading the content in the book and then completing the exercises we assign. You will also be reading a lot of material from the *Well-Grounded Rubyist* this week. Focus on skimming this material as best as you can while working to deepen the learnings you've gained from the challenges.
 
@@ -38,6 +38,14 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W3.** Only other DBC students can actually see your repositories because they are private.
 
+## Video Resources
+- [Debugging: Common Ruby Error Messages](https://talks.devbootcamp.com/debugging-common-ruby-error-messages)
+- [Introduction to Pseudocode](https://talks.devbootcamp.com/introduction-to-pseudocode)
+- [Algorithms: Iteration and Recursion](https://talks.devbootcamp.com/algorithms-iteration-and-recursion)
+  - We don't cover recursion in Phase 0, but the information in Iteration in here is really useful.
+- [RSpec Intro](https://talks.devbootcamp.com/rspec-intro-1)
+  - This will give some context on RSpec, but you won't be writing RSpec tests in Phase 0. It will give you good context into what's going on when you run tests, however.
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due Monday by 10:00am PST.
@@ -57,4 +65,3 @@ Expectation | Times per Unit | Times per Week
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
- -->

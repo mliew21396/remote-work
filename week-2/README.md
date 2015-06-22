@@ -1,8 +1,8 @@
 # Week 2: HTML and CSS
 
-Week 2's curriculum will be released with changes by 10:00am PST on Monday morning.
+<!-- Week 2's curriculum will be released with changes by 10:00am PST on Monday morning. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will require more of your time than week 1.
 
@@ -31,6 +31,13 @@ Number | Name | Est. time (hrs)**
 
 If you want to request feedback on your challenges from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
 
+## Video Resources
+- [Introduction to HTML](https://talks.devbootcamp.com/introduction-to-html)
+- [HTML: A Primer](https://talks.devbootcamp.com/html-a-primer)
+- [CSS: Another Primer](https://talks.devbootcamp.com/css-another-primer)
+- [Design Stuffs](https://talks.devbootcamp.com/design-stuffs-1)
+- [Sensible CSS](https://talks.devbootcamp.com/sensible-css)
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due Monday by 10:00am PST.
@@ -49,4 +56,3 @@ Expectation | Times per Unit | Times per Week
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | 4 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
- -->

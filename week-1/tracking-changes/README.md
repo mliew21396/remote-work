@@ -19,8 +19,6 @@ Git works by following all of the changes in the files inside a git tracked fold
 ## Release 0: Watch: What is a change?
 [![Tracking Changes](http://img.youtube.com/vi/cBTs3WWMXUs/0.jpg)](http://www.youtube.com/watch?v=cBTs3WWMXUs)
 
-Note: Emmanuel made a new branch here called `git-playground`. You don't have to do that. You can do everything on the `master` branch for this challenge. The `master` branch is the one you are on automatically. You can check which branch you are on by typing `git status`.
-
 ## Release 1: Good Commit Messages
 
 Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for commits.There's a bunch of advanced git talk here, so just focus on the first part of the post. See [this article](http://365git.tumblr.com/post/3308646748/writing-git-commit-messages) for a better explanation of why to use the imperative form of verbs.

@@ -20,19 +20,21 @@ https://github.com/[THEIR-USERNAME]/phase-0-unit-1
 
 **You will not be able to see their repository on the public profile page on GitHub, but you will be able to see it if you type it in because you are a part of the same team. 
 
-If you get a 404 error after manually typing it in, send them an email and ask how they are doing. They may not have been able to get started on the curriculum yet. Offer to help if you are able to!
+If you get a 404 error after manually typing it in, send them an email and ask how they are doing. They may not have been able to get started on the curriculum yet. Offer to help if you are able to! 
 
 Once you've read them, or while reading through them, consider what you learned by reading another person's reflections. Keep it in mind for your introduction email!
 
+If you weren't able to read it, remember to check back at the end of the week to see what they wrote. At that point, you'll just want to email them with what you learned. 
+
 ## Release 1: Intro Email
 
-Each cohort has its own email list visible on the cohort webpage. If you are the first person to send this, email your cohort's email list with the subject "self-introduction." If you've already received an email, reply to the main thread. In your email, include your:
+Each cohort has its own email list visible on the cohort webpage (on [Socrates](https://socrates.devbootcamp.com)). If you are the first person to send this, email your cohort's email list with the subject "self-introduction." If you've already received an email, reply to the main thread. In your email, include your:
 
 - Name
 - Location
 - Why you're attending DBC
 - What you are most excited to learn about
-- What you learned by reading [NAME]'s reflection (If the person hasn't completed their reflections, skip this step and send the intro email. Then, when the person does submit their reflections, send an update with what you learned.)
+- What you learned by reading [NAME]'s reflection (If the person hasn't completed their reflections, skip this step and send the intro email-- no need to point out they haven't done it yet.)
 - When the best time for you to pair is
 - Links to your 1) forked `phase-0-unit-1` repository and your [USERNAME].github.io site
 

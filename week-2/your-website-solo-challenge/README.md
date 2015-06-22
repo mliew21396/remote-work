@@ -49,7 +49,7 @@ You may want to refer to these resources for HTML5 help:
 
 ## Release 3: Development - Create the blog/index.html
 
-Now it's time to build your blog/index.html file. This is where people will go to view the list of your blog posts. Be sure to add links to your week 1 blog posts! Check your code through an HTML validator to make sure it passes validation before moving on.
+Now it's time to build your blog/index.html file. This is where people will go to view the list of your blog posts (not the blog posts themselves). Be sure to add links to your week 1 blog posts! Check your code through an HTML validator to make sure it passes validation before moving on.
 
 Remember, your website is a work in progress. Do not deviate from your wireframes until you've built your MVP (unless your wireframes are too complicated, then it's fine to simplify them). As we often say at DBC, "Done is better than perfect."
 

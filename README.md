@@ -1,10 +1,10 @@
 # Unit 1: Introduction
 
-Welcome to Phase 0! Below you will find links to the curriculum for each week. Technically each Phase 0 week begins on Monday and will be released each Monday. The week's work is due the following Sunday at 11:59pm.
+Welcome to Phase 0! Below you will find links to the curriculum for each week. Technically each Phase 0 week begins on Monday and will be released each Monday. The week's work is due the following Monday at 10:00am PST.
 
 ### [Week 1: Git, GitHub, and the Command Line](week-1/README.md)
-<!-- ### [Week 2: HTML and CSS](week-2/README.md)
-### [Week 3: Introduction to Ruby](week-3/README.md) -->
+### [Week 2: HTML and CSS](week-2/README.md)
+### [Week 3: Introduction to Ruby](week-3/README.md)
 
 ## Important Tip
 Phase 0 is a remote program, which means there will be a lot of reading required. Be sure to read the README files thoroughly. That's why they are called "README" files (this is an industry standard).

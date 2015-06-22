@@ -1,13 +1,15 @@
 # U1.W3: Methods: Notes for Numbers and Letters
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
-#### I spent [#] hours on this challenge.
+#### I spent 0.5 hours on this challenge.
 
 
 ### Summary
 - What does `puts` do?
+It writes on the screen what comes after it.
 - What is the difference between float and integer division?
+Float divison will include decimals, while integer division will only use whole numbers, always rounding down.
 
 ### Try it!
 
@@ -16,13 +18,15 @@ My solution for:
 1.  Hours in a year
 
 ```ruby
-# your code here
+puts 24*365
+8760
 ```
 
 2. Minutes in a decade
 
 ```ruby
-# your code here
+puts 60*24*365*10
+5256000
 ```
 
 ## Reflection

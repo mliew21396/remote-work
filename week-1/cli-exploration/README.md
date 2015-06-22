@@ -96,8 +96,8 @@ large applications the _depth_ of your directory tree can get quite long.
 Recall our teletype machines. You won't be able to cut and paste a directory.
 It would be great if the operating system could help you remember the stops you
 made during your traversal. Let's experiment. Navigate to your fork of the
-`phase-0-unit-1` repository on your computer. then `cd` through the directories into the
-`pushd_popd_ville` directory.
+`phase-0-unit-1` repository on your computer. Then practice your navigation skills to `cd` through the directories into the
+`pushd_popd_ville` directory in this challenge.
 
 Again, if you have questions about this topic, please look them up to get help. Remember, a lot of what we are trying to teach you is how to research.
 
@@ -157,7 +157,7 @@ They're as identical as identical can be! (If you are confused about this, try d
 
 So let's take `less` for a spin.
 
-Inside the `pagers` directory is a typical Rails log file.
+Inside the `pagers` directory (also within this challenge) is a typical Rails log file.
 
 Let's use `cat` to display it on the screen. By the way, meet the `cat`
 command, it reads contents from a source and, by default, sends them to the
