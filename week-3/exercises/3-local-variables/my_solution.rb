@@ -1,14 +1,17 @@
 # U1.W3: Local Variables
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 
 # Your Solution Below
 
-
-
-
-
+num1 = 15
+num2 = 7
+sum = num1 + num2
+difference = num1 - num2
+quotient = num1 / num2.to_f
+product = num1 * num2
+modulus = num1 % num2
 
 # RSpec Tests. They are included in this file because the local variables you are creating are not accessible across files. If we try to run these files as a separate file per normal operation, the local variable checks will return nil.
 
