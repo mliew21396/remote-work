@@ -19,11 +19,15 @@ Consider what you need to do to solve the challenge. You can write it down if it
 Code your solution in the [my_solution.rb](my_solution.rb) file.
 
 ## Release 2: Test
+Now that you are writing methods the spec files can be put in a separate file, so you will need to run the specs differently. Follow these instructions for all remaining challenges.
+
+Type `rspec` followed by the **spec file name** (and make sure you are in the proper directory). For example:
+
+`rspec defining_variable_spec.rb`
+
+If you are getting "0 tests and 0 failures", you probably ran the solution file, be sure to run the spec file!
+
 Run the tests to make sure your code passes!
-
-Remember, type `rspec` followed by the spec file name (and make sure you are in the proper directory).
-
-The last 3 files had the RSpec tests in the same file. These tests are in a different file, make sure you run the spec file this time.
 
 ## Release 3: Refactor
 Make any necessary changes based on the tests. Then run the tests again.

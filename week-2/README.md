@@ -31,6 +31,13 @@ Number | Name | Est. time (hrs)**
 
 If you want to request feedback on your challenges from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
 
+## Video Resources
+- [Introduction to HTML](https://talks.devbootcamp.com/introduction-to-html)
+- [HTML: A Primer](https://talks.devbootcamp.com/html-a-primer)
+- [CSS: Another Primer](https://talks.devbootcamp.com/css-another-primer)
+- [Design Stuffs](https://talks.devbootcamp.com/design-stuffs-1)
+- [Sensible CSS](https://talks.devbootcamp.com/sensible-css)
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due Monday by 10:00am PST.
