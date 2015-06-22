@@ -1,12 +1,13 @@
 # U1.W3: Simple String Methods
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 
 # Your Solution Below
 
-
+old_string = "Ruby is cool"
+new_string = old_string.upcase.reverse
 
 
 
