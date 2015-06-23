@@ -1,6 +1,3 @@
 # 2. Methods Reflection
 
-<!-- Write your reflection here. Use the Reflection Guidelines for help framing your reflection.
-
-https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md
- -->
+Reading the material was very insightful. I learned little details that I didn't realize before. I enjoyed the exercises because they engrained the material through repetition. Variables and methods make sense overall. The readings covered some non-local variables so I'm curious how they are used in a bigger project. I feel pretty confident with variables and methods and am ready for more advanced material. Being able to use rspec was very helpful because I've dabbled with selenium before.
