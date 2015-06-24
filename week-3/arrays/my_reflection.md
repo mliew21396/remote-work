@@ -1,8 +1,5 @@
 # 4. Arrays (and Hashes) Reflection
 
-# I spent [#] hours on this challenge.
+# I spent 2 hours on this challenge.
 
-<!-- Write your reflection here. Use the Reflection Guidelines for help framing your reflection.
-
-https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md
- -->
+I enjoyed learning some data structures with arrays and hashes. I picked up the concepts easily though the syntax was frustrating at times. I had to keep referencing the sources to double check. Hashes are very interesting and I want to learn the more advanced ways to use it such as with a hash with many values. I enjoyed the exercises generally, but was frustrated with the explanations sometimes.

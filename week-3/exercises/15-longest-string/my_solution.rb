@@ -13,5 +13,9 @@
 
 # Your Solution Below
 def longest_string(list_of_words)
-  # Your code goes here!
+  if list_of_words.empty?
+    return nil
+  else
+    return list_of_words.max { |a, b| a.length <=> b.length }
+  end
 end

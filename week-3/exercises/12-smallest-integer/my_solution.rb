@@ -12,5 +12,9 @@
 
 # Your Solution Below
 def smallest_integer(list_of_nums)
-  # Your code goes here!
+  if list_of_nums.empty?
+    return nil
+  else
+    return list_of_nums.min
+  end
 end
