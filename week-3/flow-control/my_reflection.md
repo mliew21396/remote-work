@@ -1,8 +1,5 @@
 # 3. Flow Control Reflection
 
-# I spent [#] hours on this challenge.
+# I spent 1 hours on this challenge.
 
-<!-- Write your reflection here. Use the Reflection Guidelines for help framing your reflection.
-
-https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md
- -->
+Learning flow control was pretty straightforward. The only change was looking up methods and syntax specific to ruby. If the ruby docs didn't explain a method well, I was able to find a better explanation through googling. I feel my digging through the ruby documentation is getting better/quicker. I feel confident with flow/conditions. I enjoyed pairing up with Paul in this exercise. We hammered through it quickly!
