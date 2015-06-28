@@ -1,1 +1,21 @@
-/* include your css here */
+header, footer {
+    background-color: red;
+}
+
+.column-1 {
+    background-color: yellow;
+    width:48%;
+    vertical-align:top;
+    display: inline-block;
+
+}
+
+.column-2 {
+    background-color: blue;
+    width:48%;
+    vertical-align:top;
+    display: inline-block;
+
+}
+
+
